@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Languages Grid</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #202b68;
+        margin: 0;
+        padding: 0;
+      }
+      .grid-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        grid-gap: 70px;
+        padding: 20px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 1000px;
+      }
+      .card:hover {
+        transition: 0.3s;
+        transform: scale(1.03);
+        box-shadow: 10px 10px 0 0px #37a12e;
+      }
+      .logo {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        cursor: pointer;
+        color: #f2f2f2;
+      }
+      a {
+        position: relative;
+        bottom: 30px;
+        font-family: serif;
+        padding: 80px 60px 80px 45px;
+        text-decoration: none;
+        font-weight: 600;
+        color: #722af6;
+        font-size: 25px;
+      }
+      a:hover {
+        font-family: "Times New Roman", Times, serif;
+        color: #298321;
+      }
+      #goBackButton {
+        height: 50px;
+        width: 80px;
+        border-width: 0;
+        border-radius: 10px;
+        position: absolute;
+        font-size: larger;
+        top: 20px;
+        left: 20px;
+        cursor: pointer;
+        background-color: #ffb20a;
+      }
+      .card {
+        background-color: #ffb20a;
+        border-radius: 10px;
+        padding: 10px;
+        text-align: center;
+        height: 200px;
+        width: 200px;
+        text-align: center;
+        line-height: 200px;
+        position: relative;
+      }
+
+      .message {
+        position: absolute;
+        bottom: -50px;
+        left: 5px;
+        width: 100%;
+        color: #6C0345;
+        font-weight: 700;
+        font-size: 20px;
+        font-family: "Times New Roman", Times, serif;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <button id="goBackButton">Back</button>
+
+    <div class="grid-container" id="cardContainer"></div>
+
+    <script>
+      if (!localStorage.getItem("pageReloaded")) {
+        // If not, set the flag in localStorage
+        localStorage.setItem("pageReloaded", "true");
+        // Reload the page
+        window.location.reload();
+      } else {
+        // If already reloaded, remove the flag from localStorage
+        localStorage.removeItem("pageReloaded");
+      }
+      const goBackButton = document.getElementById("goBackButton");
+      goBackButton.addEventListener("click", () => {
+        window.history.back();
+      });
+      // Dummy function to return user data, you should implement this function
+      function getUserData() {
+        // Make an AJAX request to the server to fetch user data from session
+        let xhr = new XMLHttpRequest();
+        xhr.open("GET", "/userdata", false); // Assuming you have a route '/userdata' to fetch user data
+        xhr.send();
+
+        if (xhr.status === 200) {
+          return JSON.parse(xhr.responseText); // Assuming the server returns user data as JSON
+        } else {
+          return null; // Return null if user data retrieval fails
+        }
+      }
+
+      var currentUrl = window.location.href;
+
+      // Extract the page name from the URL
+      var pageName = currentUrl.substring(currentUrl.lastIndexOf("/") + 1);
+      let userData = getUserData(); // Implement this function to fetch user data
+
+      const courses = userData.courses;
+      const points = userData.points;
+
+      function createCards() {
+        const container = document.getElementById("cardContainer");
+
+        // Clear previous content if any
+        container.innerHTML = "";
+
+        // Iterate through levels array and create card for each level
+        courses.forEach((course, index) => {
+          const card = document.createElement("div");
+          card.classList.add("card");
+          const anchor = document.createElement("a");
+          anchor.setAttribute("href", "/modules?lang=" + course);
+          anchor.textContent = course.toUpperCase();
+          const message = document.createElement("span");
+          message.classList.add("message");
+          message.textContent = "Current score =  " + points[index];
+          card.appendChild(anchor);
+          card.appendChild(message);
+          container.appendChild(card);
+        });
+      }
+
+      // Call the function to create cards when the page loads
+      window.onload = createCards;
+    </script>
+  </body>
+</html>

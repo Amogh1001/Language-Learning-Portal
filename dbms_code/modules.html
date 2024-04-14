@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Language Levels</title>
+    <!-- <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            grid-gap: 20px;
+            padding: 20px;
+        }
+        .card {
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+        }
+    </style> -->
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #202b68;
+        margin: 0;
+        padding: 0;
+      }
+      .navbar {
+        background-color: #333;
+        overflow: hidden;
+      }
+      .navbar a {
+        float: left;
+        display: block;
+        color: grey;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      .navbar a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+      .grid-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        grid-gap: 70px;
+        padding: 20px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 1000px;
+      }
+      .card {
+        background-color: #ffb20a;
+        border-radius: 10px;
+        padding: 10px;
+        text-align: center;
+        height: 200px;
+        width: 200px;
+        text-align: center;
+        line-height: 200px;
+      }
+      .card:hover {
+        transition: 0.3s;
+        transform: scale(1.03);
+        color: white;
+        box-shadow: 10px 10px 0 0px #37a12e;
+      }
+      .logo {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        cursor: pointer;
+        color: #f2f2f2;
+      }
+      a {
+        font-family: serif;
+        text-decoration: none;
+        font-weight: 600;
+        color: #722af6;
+        font-size: 25px;
+      }
+      a:hover {
+        font-family: "Times New Roman", Times, serif;
+        color: #298321;
+      }
+      #goBackButton {
+        height: 50px;
+        width: 80px;
+        border-width: 0;
+        border-radius: 10px;
+        position: absolute;
+        font-size: larger;
+        top: 20px;
+        left: 20px;
+        cursor: pointer;
+        background-color: #ffb20a;
+      }
+    </style>
+  </head>
+  <body>
+    <button id="goBackButton">Back</button>
+
+    <div class="grid-container" id="cardContainer">
+      <!-- Cards will be dynamically added here -->
+    </div>
+
+    <script>
+      document.getElementById("goBackButton").addEventListener("click", () => {
+        window.history.back();
+      });
+      function getUserData() {
+        // Make an AJAX request to the server to fetch user data from session
+        let xhr = new XMLHttpRequest();
+        xhr.open("GET", "/modulesdata", false); // Assuming you have a route '/userdata' to fetch user data
+        xhr.send();
+
+        if (xhr.status === 200) {
+          return JSON.parse(xhr.responseText); // Assuming the server returns user data as JSON
+        } else {
+          return null; // Return null if user data retrieval fails
+        }
+      }
+
+      let userData = getUserData();
+
+      const levels = userData.levels;
+      const score = userData.score;
+
+      console.log(levels);
+      console.log(score);
+
+      function createCards() {
+        const container = document.getElementById("cardContainer");
+
+        container.innerHTML = "";
+
+        levels.forEach((level, index) => {
+          const card = document.createElement("div");
+          card.classList.add("card");
+          const anchor = document.createElement("a");
+          // Check if the score is above the threshold
+          if (score >= 25 * index) {
+            anchor.setAttribute("href", "/lessons?module=" + level);
+          } else {
+            anchor.style.pointerEvents = "none"; // Disable link
+            anchor.style.color = "grey"; // Change color to indicate disabled state
+          }
+
+          const arr = level.split("_");
+          level = arr[1];
+          anchor.textContent = level;
+          card.appendChild(anchor);
+          container.appendChild(card);
+        });
+      }
+
+      window.onload = createCards;
+    </script>
+  </body>
+</html>

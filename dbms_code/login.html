@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Authentication Page</title>
+    <style>
+      h2 {
+        color: white;
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        font-size: xx-large;
+      }
+      body {
+        font-family: Arial, sans-serif;
+        background: radial-gradient(circle, #141e57, #383434);
+      }
+      .container {
+        max-width: 400px;
+        padding-bottom: 50px;
+        backface-visibility: 0;
+        border-radius: 5px;
+        position: absolute;
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      input[type="text"],
+      input[type="password"],
+      input[type="submit"] {
+        width: 100%;
+        padding: 10px;
+        margin: 15px 0;
+        border: 1px solid rgb(55, 54, 54);
+        border-radius: 5px;
+        box-sizing: border-box;
+      }
+      input[type="text"]::placeholder,
+      input[type="password"]::placeholder {
+        color: rgb(66, 65, 65);
+      }
+      input[type="submit"] {
+        background-color: #4caf50;
+        color: white;
+        cursor: pointer;
+        margin-top: 40px;
+      }
+      input[type="submit"]:hover {
+        background-color: #45a049;
+      }
+      .signup-link {
+        color: white;
+        margin-top: 10px;
+        text-align: center;
+      }
+      a {
+        color: #FFFF00;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Authentication</h2>
+      <form id="loginForm" action="/login" method="post">
+        <label for="username"></label>
+        <input
+          type="text"
+          id="username"
+          name="username"
+          placeholder="Username"
+          style="font-size: 1.2em"
+          required
+        />
+        <label for="password"></label>
+        <input
+          type="password"
+          id="password"
+          name="password"
+          placeholder="Password"
+          style="font-size: 1.2em"
+          required
+        />
+        <input type="submit" value="Login" style="font-size: 1.2em" />
+      </form>
+      <div class="signup-link" style="font-size: 1.1em">
+        New user? <a href="/signup"> Sign up </a> here
+      </div>
+    </div>
+  </body>
+</html>

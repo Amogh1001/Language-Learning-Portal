@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #1b487c;
+        margin: 0;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+      }
+
+      #container {
+        display: flex;
+        flex-direction: column;
+        max-width: 2000px;
+        width: 800px;
+        left: 10px;
+      }
+
+      .question-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-bottom: 20px;
+      }
+
+      .question {
+        color: #1b487c;
+        background-color: #ffb20a;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        flex: 1;
+        margin-right: 20px;
+        display: flex;
+        justify-content: center; /* Center text horizontally */
+        align-items: center; /* Center text vertically */
+      }
+
+      .options {
+        width: 300px;
+        color: #1b487c;
+        background-color: #ffb20a;
+        border-radius: 5px;
+        padding: 20px 10px 20px 30px;
+        display: flex;
+        justify-content: space-between; /* Added */
+        align-items: flex-start; /* Added */
+      }
+
+      .option-column {
+        flex: 1; /* Each option column takes up half the space */
+      }
+
+      h2 {
+        font-family: "Times New Roman", Times, serif;
+        margin: 0; /* Reset margin */
+        text-align: center;
+      }
+
+      ul {
+        list-style-type: none;
+        padding: 0;
+      }
+
+      li {
+        margin-bottom: 10px;
+      }
+
+      .answer-button {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 16px;
+        margin: 10px;
+        display: block;
+        width: 100px;
+        padding: 10px 15px;
+        /*background-color: #1b487c;*/
+        color: black;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      .answer-button:hover {
+        background-color: #ffb20a;
+        color: black;
+      }
+
+      .info {
+        display: none;
+        max-width: 600px;
+        margin-left: -220px;
+        margin-top: 125px; /* Push the info div to the bottom */
+        padding: 10px;
+        color: #1b487c;
+        font-weight: 600;
+        border: 3px solid #1b487c;
+        border-radius: 5px;
+        position: relative;
+        left: -20px;
+      }
+      #goBackButton {
+        height: 50px;
+        width: 80px;
+        border-width: 0;
+        font-size: larger;
+        border-radius: 10px;
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        cursor: pointer;
+        background-color: #ffb20a;
+      }
+      #submitButton {
+        height: 50px;
+        width: 100px;
+        border-width: 0;
+        font-size: larger;
+        border-radius: 10px;
+        cursor: pointer;
+        background-color: #ffb20a;
+        position: absolute;
+        bottom: 40px;
+        right: 100px;
+        position: fixed;
+      }
+    </style>
+  </head>
+  <body>
+    <button id="goBackButton">Back</button>
+
+    <div id="container"></div>
+    <button id="submitButton">Submit</button>
+
+    <script>
+      document.getElementById("goBackButton").addEventListener("click", () => {
+        window.history.back();
+      });
+      document.getElementById("submitButton").addEventListener("click", () => {
+        window.history.back();
+      });
+      let score = 0;
+
+      function getUserData() {
+        // Make an AJAX request to the server to fetch user data from session
+        let xhr = new XMLHttpRequest();
+        xhr.open("GET", "/questionsdata", false); // Assuming you have a route '/userdata' to fetch user data
+        xhr.send();
+
+        if (xhr.status === 200) {
+          return JSON.parse(xhr.responseText); // Assuming the server returns user data as JSON
+        } else {
+          return null; // Return null if user data retrieval fails
+        }
+      }
+
+      let userData = getUserData();
+
+      const questions = userData.questions;
+      const answers = userData.answers;
+      const infos = userData.infos;
+
+      function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
+      }
+
+      function create() {
+        const container = document.getElementById("container");
+
+        let i = 0;
+
+        userData.questions.forEach((question, index) => {
+          const div = document.createElement("div");
+          div.classList.add("question-container");
+
+          const questionDiv = document.createElement("div");
+          questionDiv.classList.add("question");
+
+          const h2 = document.createElement("h2");
+          h2.textContent = question;
+          questionDiv.appendChild(h2);
+
+          div.appendChild(questionDiv);
+
+          const optionsDiv = document.createElement("div");
+          optionsDiv.classList.add("options");
+
+          const optionColumnLeft = document.createElement("div");
+          optionColumnLeft.classList.add("option-column");
+
+          const optionColumnRight = document.createElement("div");
+          optionColumnRight.classList.add("option-column");
+
+          const ulLeft = document.createElement("ul");
+          const ulRight = document.createElement("ul");
+
+          let correctAnswer = answers[i][3];
+
+          const shuffledAnswers = shuffleArray([...userData.answers[index]]);
+          shuffledAnswers.forEach((answer, idx) => {
+            const li = document.createElement("li");
+
+            const button = document.createElement("button");
+            button.textContent = answer;
+            button.classList.add("answer-button");
+            button.onclick = function() {
+              if (answer === correctAnswer) {
+                button.style.backgroundColor = "green";
+                button.style.color = "white";
+                score = 1; // Increment score for correct answer
+              } else {
+                button.style.backgroundColor = "red";
+                button.style.color = "white";
+                // Highlight the correct answer
+                ulLeft.querySelectorAll(".answer-button").forEach((btn) => {
+                  if (btn.textContent === correctAnswer) {
+                    btn.style.backgroundColor = "green";
+                    btn.style.color = "white";
+                  }
+                });
+                ulRight.querySelectorAll(".answer-button").forEach((btn) => {
+                  if (btn.textContent === correctAnswer) {
+                    btn.style.backgroundColor = "green";
+                    btn.style.color = "white";
+                  }
+                });
+                score = 0;
+              }
+              // Disable other buttons after selection
+              ulLeft.querySelectorAll(".answer-button").forEach((btn) => {
+                btn.disabled = true;
+              });
+              ulRight.querySelectorAll(".answer-button").forEach((btn) => {
+                btn.disabled = true;
+              });
+              console.log(score);
+              updateScore(score); // Send score to update database
+            };
+
+            li.appendChild(button);
+
+            if (idx < 2) {
+              ulLeft.appendChild(li);
+            } else {
+              ulRight.appendChild(li);
+            }
+          });
+
+          const infoDiv = document.createElement("div");
+          infoDiv.classList.add("info");
+          infoDiv.textContent = infos[index];
+
+          optionColumnLeft.appendChild(ulLeft);
+          optionColumnRight.appendChild(ulRight);
+
+          optionsDiv.appendChild(optionColumnLeft);
+          optionsDiv.appendChild(optionColumnRight);
+
+          optionsDiv.appendChild(infoDiv);
+
+          div.appendChild(optionsDiv);
+          container.appendChild(div);
+
+          i = i + 1;
+        });
+      }
+
+      function updateScore(score) {
+        // Make an AJAX request to update the score in the database
+        let xhr = new XMLHttpRequest();
+        xhr.open("POST", "/updatescore", false); // Assuming you have a route '/updatescore' to update score
+        xhr.setRequestHeader("Content-Type", "application/json");
+        xhr.send(JSON.stringify({ Score: score }));
+
+        xhr.onload = function() {
+          if (xhr.status === 200) {
+            console.log("Score updated successfully.");
+          } else {
+            console.error("Failed to update score.");
+          }
+        };
+      }
+
+      function showInfo(questionDiv, info) {
+        const infoDiv = questionDiv.querySelector(".info");
+        infoDiv.textContent = info;
+        infoDiv.style.display = "block";
+      }
+
+      window.onload = create;
+    </script>
+  </body>
+</html>
