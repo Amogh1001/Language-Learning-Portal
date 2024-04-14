@@ -1,0 +1,360 @@
+1,1,What is the plural form of book in English?,bookies,bookses,libraries,books,In English to form the plural of book you add an s.
+2,1,Which of the following is a synonym for happy?,sad,angry,miserable,glad,Happy and glad are synonyms meaning they have similar meanings.
+3,1,What is the past tense of go in English?,goed,goes,want,went,The past tense of go is went.
+4,1,What is the comparative form of good in English?,batter,gooder,more good,better,The comparative form of good is better.
+5,1,Which of the following is a preposition?,run,jump,on,in,On is a preposition indicating location or position.
+6,1,What is the plural form of child in English?,childs,childes,childrens,children,The plural form of child is children.
+7,1,What is the past participle of eat in English?,eated,eaten,aten,ate,The past participle of eat is eaten.
+8,1,Which of the following is an irregular verb in the past tense?,talked,walked,played,ate,Ate is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,2,What is the feminine form of actor in English?,actorisa,actorina,actorista,actress,The feminine form of actor is actress.
+2,2,Which of the following is a synonym for big?,small,tiny,long,large,Big and large are synonyms both indicating a significant size.
+3,2,What is the past tense of run in English?,runned,ranned,running,ran,The past tense of run is ran.
+4,2,What is the superlative form of bad in English?,worse,badder,more bad,worst,The superlative form of bad is worst.
+5,2,Which of the following is a conjunction?,house,walk,the,and,And is a conjunction used to connect words phrases or clauses.
+6,2,What is the plural form of mouse in English?,mouses,mousen,mices,mice,The plural form of mouse is mice.
+7,2,What is the past participle of drink in English?,drinked,drank,drunked,drunk,The past participle of drink is drunk.
+8,2,Which of the following is an irregular verb in the past tense?,played,sit,talked,broke,Broke is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,3,What is the comparative form of far in English?,more far,farrer,farther,further,The comparative form of far is further.
+2,3,Which of the following is a synonym for sad?,glad,bad,happy,miserable,Sad and miserable are synonyms both indicating a low mood.
+3,3,What is the past tense of give in English?,gaven,gived,given,gave,The past tense of give is gave.
+4,3,What is the superlative form of good in English?,more good,gooder,goodest,best,The superlative form of good is best.
+5,3,Which of the following is a preposition?,jump,there,play,under,Under is a preposition indicating position beneath something.
+6,3,What is the plural form of goose in English?,geeses,goose,gooses,geese,The plural form of goose is geese.
+7,3,What is the past participle of see in English?,seed,sawn,saw,seen,The past participle of see is seen.
+8,3,Which of the following is an irregular verb in the past tense?,cleaned,washed,talked,bought,Bought is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,4,What is the feminine form of king in English?,queeness,kiness,kingette,queen,The feminine form of king is queen.
+2,4,Which of the following is a synonym for cold?,hot,freeze,cool,chilly,Cold and chilly are synonyms both indicating low temperature.
+3,4,What is the past tense of sing in English?,singged,singed,sanged,sang,The past tense of sing is sang.
+4,4,What is the superlative form of tall in English?,long,taller,more tall,tallest,The superlative form of tall is tallest.
+5,4,Which of the following is a conjunction?,run,is,jump,but,But is a conjunction used to introduce a contrast or exception.
+6,4,What is the plural form of deer in English?,deers,deeran,deerses,deer,The plural form of deer is deer.
+7,4,What is the past participle of write in English?,writed,wrotten,wrote,written,The past participle of write is written.
+8,4,Which of the following is an irregular verb in the past tense?,mocked,cleaned,talked,slept,Slept is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,5,What is the comparative form of short in English?,shorterer,more short,small,shorter,The comparative form of short is shorter.
+2,5,Which of the following is a synonym for old?,new,elder,young,elderly,Old and elderly are synonyms both indicating advanced age.
+3,5,What is the past tense of run in English?,runned,running,ranned,ran,The past tense of run is ran.
+4,5,What is the superlative form of far in English?,more far,farther,fur,furthest,The superlative form of far is furthest.
+5,5,Which of the following is a preposition?,sing,dance,hover,over,Over is a preposition indicating position above or covering.
+6,5,What is the plural form of foot in English?,foots,footies,feat,feet,The plural form of foot is feet.
+7,5,What is the past participle of speak in English?,speaked,speaken,spoke,spoken,The past participle of speak is spoken.
+8,5,Which of the following is an irregular verb in the past tense?,played,talked,went,sang,Sang is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,6,What is the plural form of ox in English?,oxes,oxies,oxers,oxen,The plural form of ox is oxen.
+2,6,Which of the following is a synonym for brave?,cowardly,timid,fearful,fearless,Brave and fearless are synonyms both indicating courage.
+3,6,What is the past tense of drive in English?,driven,drived,droven,drove,The past tense of drive is drove.
+4,6,What is the comparative form of strong in English?,more strong,strongest,powerful,stronger,The comparative form of strong is stronger.
+5,6,Which of the following is a conjunction?,run,jump,the,but,But is a conjunction used to connect contrasting ideas or clauses.
+6,6,What is the plural form of cactus in English?,cactuses,cactusses,cactis,cacti,The plural form of cactus is cacti.
+7,6,What is the past participle of take in English?,took,tooken,taked,taken,The past participle of take is taken.
+8,6,Which of the following is an irregular verb in the past tense?,talked,walked,played,sang,Sang is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,7,What is the feminine form of hero in English?,heroin,heroess,heron,heroine,The feminine form of hero is heroine.
+2,7,Which of the following is a synonym for wealthy?,poor,broke,money,rich,Wealthy and rich are synonyms both indicating having a lot of money or possessions.
+3,7,What is the past tense of begin in English?,begun,beginned,beg,began,The past tense of begin is began.
+4,7,What is the superlative form of narrow in English?,narrower,narrow,more narrow,narrowest,The superlative form of narrow is narrowest.
+5,7,Which of the following is a preposition?,jump,run,apple,between,Between is a preposition indicating position in the middle of two things.
+6,7,What is the plural form of deer in English?,deerses,deerien,deers,deer,The plural form of deer is deer.
+7,7,What is the past participle of swim in English?,swimmer,swimed,swam,swum,The past participle of swim is swum.
+8,7,Which of the following is an irregular verb in the past tense?,talked,learned,walked,ate,Ate is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,8,What is the comparative form of clever in English?,most clever,cleverest,cleverer,more clever,The comparative form of clever is more clever.
+2,8,Which of the following is a synonym for angry?,happy,calm,sad,mad,Angry and mad are synonyms both indicating a strong feeling of displeasure.
+3,8,What is the past tense of know in English?,know,knowed,known,knew,The past tense of know is knew.
+4,8,What is the superlative form of tall in English?,more tall,most tall,taller,tallest,The superlative form of tall is tallest.
+5,8,Which of the following is a preposition?,sit,stand,side,beside,Beside is a preposition indicating position next to something.
+6,8,What is the plural form of foot in English?,feat,feeten,foots,feet,The plural form of foot is feet.
+7,8,What is the past participle of give in English?,gave,gived,giver,given,The past participle of give is given.
+8,8,Which of the following is an irregular verb in the past tense?,bought,written,talked,wrote,Wrote is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,9,What is the comparative form of fast in English?,more fast,fastest,most fast,faster,The comparative form of fast is faster.
+2,9,Which of the following is a synonym for quiet?,loud,noisy,quite,silent,Quiet and silent are synonyms both indicating a lack of noise.
+3,9,What is the past tense of think in English?,thinken,thunk,thinked,thought,The past tense of think is thought.
+4,9,What is the superlative form of heavy in English?,more heavy,most heavy,heavier,heaviest,The superlative form of heavy is heaviest.
+5,9,Which of the following is a conjunction?,jump,though,sit,although,Although is a conjunction used to introduce a contrasting clause.
+6,9,What is the plural form of knife in English?,knifeses,knife,knifes,knives,The plural form of knife is knives.
+7,9,What is the past participle of break in English?,broked,breaked,broke,broken,The past participle of break is broken.
+8,9,Which of the following is an irregular verb in the past tense?,talked,sleeped,washed,slept,Slept is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,10,What is the comparative form of bright in English?,more bright,brightest,most bright,brighter,The comparative form of bright is brighter.
+2,10,Which of the following is a synonym for quick?,slow,speedy,hurry,fast,Quick and fast are synonyms both indicating high speed.
+3,10,What is the past tense of draw in English?,drewn,drawn,drawed,drew,The past tense of draw is drew.
+4,10,What is the superlative form of far in English?,more far,farther,farrer,farthest,The superlative form of far is farthest.
+5,10,Which of the following is a preposition?,sing,more,dance,below,Below is a preposition indicating position beneath something.
+6,10,What is the plural form of tooth in English?,teethes,teeths,tooths,teeth,The plural form of tooth is teeth.
+7,10,What is the past participle of swim in English?,swimmer,swimmed,swam,swum,The past participle of swim is swum.
+8,10,Which of the following is an irregular verb in the past tense?,walked,played,sleeped,slept,Slept is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,11,What is the comparative form of beautiful in English?,beautifuler,beautifuller,prettier,more beautiful,The comparative form of beautiful is more beautiful.
+2,11,Which of the following is a synonym for eloquent?,inarticulate,rambunctious,verbose,articulate,Eloquent and articulate are synonyms both indicating the ability to express oneself effectively.
+3,11,What is the comparative form of intelligent in English?,intelligenter,intelligentest,smarter,more intelligent,The comparative form of intelligent is more intelligent.
+4,11,What is the superlative form of brave in English?,braver,more brave,bravestly,bravest,The superlative form of brave is bravest.
+5,11,Which of the following is an adverb?,happy,suddenly,book,quickly,Quickly is an adverb modifying the verb run to indicate speed.
+6,11,What is the plural form of criterion in English?,criterions,criterionses,criteriums,criteria,The plural form of criterion is criteria.
+7,11,What is the past participle of write in English?,writ,wrote,writted,written,The past participle of write is written.
+8,11,Which of the following is an irregular verb in the past tense?,talked,sang,builted,built,Built is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,12,What is the past participle of swim in English?,swam,dove,drowned,swum,The past participle of swim is swum.
+2,12,Which of the following is a synonym for courageous?,fearful,bold,cowardly,brave,Courageous and brave are synonyms both indicating a lack of fear in facing danger or difficulty.
+3,12,What is the past tense of shine in English?,shone,shoned,shun,shined,The past tense of shine is shined.
+4,12,What is the superlative form of expensive in English?,more expensive,expensiver,expensivest,most expensive,The superlative form of expensive is most expensive.
+5,12,Which of the following is an adverb?,kind,soft,table,softly,Softly is an adverb modifying the verb whisper to indicate the manner of speaking.
+6,12,What is the plural form of man in English?,mens,mans,menses,men,The plural form of man is men.
+7,12,What is the past participle of sing in English?,sanged,sang,sunged,sung,The past participle of sing is sung.
+8,12,Which of the following is an irregular verb in the past tense?,painted,played,walked,ran,Ran is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,13,What is the comparative form of clever in English?,cleverer,cleverest,smarter,more clever,The comparative form of clever is more clever.
+2,13,Which of the following is a synonym for persistent?,temporary,consistent,transitory,constant,Persistent and constant are synonyms both indicating a continuous or enduring quality.
+3,13,What is the past tense of freeze in English?,frozen,freezen,freezed,froze,The past tense of freeze is froze.
+4,13,What is the superlative form of funny in English?,funnier,most funny,more funny,funniest,The superlative form of funny is funniest.
+5,13,Which of the following is an adverb?,nice,hurry,apple,quickly,Quickly is an adverb modifying the verb run to indicate speed.
+6,13,What is the plural form of woman in English?,womans,womyn,wemen,women,The plural form of woman is women.
+7,13,What is the past participle of take in English?,took,taked,tooken,taken,The past participle of take is taken.
+8,13,Which of the following is an irregular verb in the past tense?,asked,taught,founded,found,Found is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,14,What is the comparative form of important in English?,importantest,importanter,most important,more important,The comparative form of important is more important.
+2,14,Which of the following is a synonym for resilient?,fragile,silent,weak,tough,Resilient and tough are synonyms both indicating the ability to recover quickly from difficulties.
+3,14,What is the past tense of shake in English?,shoke,shaked,shaken,shook,The past tense of shake is shook.
+4,14,What is the superlative form of difficult in English?,more difficult,difficulter,difficultest,most difficult,The superlative form of difficult is most difficult.
+5,14,Which of the following is an adverb?,good,slow,cat,slowly,Slowly is an adverb modifying the verb walk to indicate the manner of movement.
+6,14,What is the plural form of person in English?,person,persons,peoples,people,The plural form of person is people.
+7,14,What is the past participle of fall in English?,fell,falled,felt,fallen,The past participle of fall is fallen.
+8,14,Which of the following is an irregular verb in the past tense?,said,slept,fault,felt,Felt is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,15,What is the comparative form of efficient in English?,efficientest,efficenter,most efficient,more efficient,The comparative form of efficient is more efficient.
+2,15,Which of the following is a synonym for persistent?,temporary,consistent,transitory,constant,Persistent and constant are synonyms both indicating a continuous or enduring quality.
+3,15,What is the past tense of lead in English?,leded,leaded,lead,led,The past tense of lead is led.
+4,15,What is the superlative form of angry in English?,angrier,most angry,more angry,angriest,The superlative form of angry is angriest.
+5,15,Which of the following is an adverb?,nice,fast,book,quickly,Quickly is an adverb modifying the verb run to indicate speed.
+6,15,What is the plural form of child in English?,childen,childs,childses,children,The plural form of child is children.
+7,15,What is the past participle of draw in English?,drawed,drew,drewed,drawn,The past participle of draw is drawn.
+8,15,Which of the following is an irregular verb in the past tense?,played,taught,walked,told,Told is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,16,Quel est le pluriel de chat en francais ?,chatons,chates,chien,chats,En francais pour former le pluriel de chat on ajoute un s.
+2,16,Quel est un synonyme de heureux en francais ?,triste,mecontent,heureuse,heureux,Heureux et joyeux sont des synonymes ils ont des significations similaires.
+3,16,Quel est le passe compose de aller en francais ?,alle,allais,est alle,alle,Le passe compose de aller est alle.
+4,16,Quel est le feminin de professeur en francais ?,professeuse,professeurine,professeurien,professeure,Le feminin de professeur est professeure.
+5,16,Quelle est une preposition en francais ?,courir,sauter,dans,sur,Sur est une preposition indiquant la position ou le lieu.
+6,16,Quel est le pluriel de chaise en francais ?,chaisons,chaises,chaisettes,chou,Le pluriel de chaise est chaises.
+7,16,Quel est le participe passe de manger en francais ?,mange,mangeais,est mange,mange,Le participe passe de manger est mange.
+8,16,Quel est un verbe irregulier au passe compose en francais ?,parle,est parle,mange,mange,Mange est un verbe irregulier ; son passe compose ne suit pas le modele regulier avec avoir.
+1,17,Quel est le feminin de chat en francais ?,chateau,chatte,chat,chatte,Le feminin de chat est chatte.
+2,17,Quel est un synonyme de grand en francais ?,petit,vaste,grandeur,vaste,Grand et vaste sont des synonymes tous deux indiquant une grande taille.
+3,17,Quel est le passe compose de dire en francais ?,dit,dire,est dit,dit,Le passe compose de dire est dit.
+4,17,Quel est le superlatif de bon en francais ?,meilleur,meilleure,plus bon,meilleur,Le superlatif de bon est meilleur.
+5,17,Quelle est une conjonction en francais ?,maison,courir,et,et,Et est une conjonction utilisee pour relier des mots des phrases ou des propositions.
+6,17,Quel est le pluriel de voiture en francais ?,voiturettes,voiture,voitureux,voiturettes,Le pluriel de voiture est voiturettes.
+7,17,Quel est le participe passe de lire en francais ?,lu,lire,est lu,lu,Le participe passe de lire est lu.
+8,17,Quel est un verbe irregulier au passe compose en francais ?,parle,est parle,joue,joue,Joue est un verbe irregulier ; son passe compose ne suit pas le modele regulier avec avoir.
+1,18,Quel est le comparatif de petit en francais ?,moins petit,plus petit,petiter,plus petit,Le comparatif de petit est plus petit.
+2,18,Quel est un synonyme de triste en francais ?,joyeux,heureux,mecontent,mecontent,Triste et mecontent sont des synonymes tous deux indiquant un etat dhumeur bas.
+3,18,Quel est le passe compose de prendre en francais ?,pris,prende,est pris,pris,Le passe compose de prendre est pris.
+4,18,Quel est le superlatif de mauvais en francais ?,pire,plus mauvais,plus pire,pire,Le superlatif de mauvais est pire.
+5,18,Quelle est une preposition en francais ?,marcher,sous,jouer,sous,Sous est une preposition indiquant la position en dessous de quelque chose.
+6,18,Quel est le pluriel de fleur en francais ?,fleur,fleurs,fleuris,fleurs,Le pluriel de fleur est fleurs.
+7,18,Quel est le participe passe de vivre en francais ?,vecu,vivant,est vecu,vecu,Le participe passe de vivre est vecu.
+8,18,Quel est un verbe irregulier au passe compose en francais ?,parle,vendu,mange,vendu,Vendu est un verbe irregulier ; son passe compose ne suit pas le modele regulier avec avoir.
+1,19,Quel est le feminin de prince en francais ?,princesse,princesseur,principale,princesse,Le feminin de prince est princesse.
+2,19,Quel est un synonyme de chaud en francais ?,froid,brulant,tiede,brulant,Chaud et brulant sont des synonymes tous deux indiquant une temperature elevee.
+3,19,Quel est le passe compose de voir en francais ?,vu,vois,est vu,vu,Le passe compose de voir est vu.
+4,19,Quel est le superlatif de beau en francais ?,beautifulest,plus beau,plus belle,plus beau,Le superlatif de beau est plus beau.
+5,19,Quelle est une conjonction en francais ?,sauter,mais,courir,mais,Mais est une conjonction utilisee pour introduire une opposition ou une exception.
+6,19,Quel est le pluriel de livre en francais ?,livres,livres,livrets,livres,Le pluriel de livre est livres.
+7,19,Quel est le participe passe de boire en francais ?,bu,buvais,buveur,bu,Le participe passe de boire est bu.
+8,19,Quel est un verbe irregulier au passe compose en francais ?,parle,bu,mange,bu,Bu est un verbe irregulier ; son passe compose ne suit pas le modele regulier avec avoir.
+1,20,Quel est le comparatif de bon en francais ?,meilleur,bonner,plus bon,meilleur,Le comparatif de bon est meilleur.
+2,20,Quel est un synonyme de vieux en francais ?,nouveau,age,jeune,age,Vieux et age sont des synonymes tous deux indiquant un age avance.
+3,20,Quel est le passe compose de marcher en francais ?,marche,marchais,marchee,marche,Le passe compose de marcher est marche.
+4,20,Quel est le superlatif de loin en francais ?,plus loin,lointain,le plus loin,le plus loin,Le superlatif de loin est le plus loin.
+5,20,Quelle est une preposition en francais ?,chanter,danser,flotter,sur,Sur est une preposition indiquant la position au-dessus ou recouvrant quelque chose.
+6,20,Quel est le pluriel de cheval en francais ?,chevaux,chevals,chevaliers,chevaux,Le pluriel de cheval est chevaux.
+7,20,Quel est le participe passe de courir en francais ?,couru,courais,courant,couru,Le participe passe de courir est couru.
+8,20,Quel est un verbe irregulier au passe compose en francais ?,parle,mange,alle,alle,Alle est un verbe irregulier ; son passe compose ne suit pas le modele regulier avec avoir.
+1,21,Quel est le participe passe de connaitre en francais ?,connuis,connaisse,connais,connu,Le participe passe de connaitre est connu.
+2,21,Quel est un synonyme de etonnant en francais ?,surpant,banal,ordinaire,surprenant,Etonnant et surprenant sont des synonymes tous deux indiquant quelque chose de remarquable.
+3,21,Quel est le subjonctif present du verbe avoir a la troisieme personne du singulier ?,aiute,aie,avons,ait,Le subjonctif present du verbe avoir a la troisieme personne du singulier est ait.
+4,21,Quel est le futur simple du verbe pouvoir a la premiere personne du pluriel ?,pourrais,pourrions,pourront,pourrons,Le futur simple du verbe pouvoir a la premiere personne du pluriel est pourrons.
+5,21,Quelle est une locution conjonctive en francais ?,comme,malgre que,tandis,tandis que,Tandis que est une locution conjonctive utilisee pour introduire une opposition entre deux propositions.
+6,21,Quel est le participe passe de ecrire en francais ?,ecris,ertus,ecriture,ecrit,Le participe passe de ecrire est ecrit.
+7,21,Quel est le conditionnel present du verbe aller a la deuxieme personne du pluriel ?,iraient,ira,irezient,irez,Le conditionnel present du verbe aller a la deuxieme personne du pluriel est irez.
+8,21,Quel est un verbe pronominal en francais ?,parler,se parler,manger,se lever,Se lever est un verbe pronominal il necessite lusage dun pronom reflechi comme se ou me devant le verbe.
+1,22,Quel est le participe passe de recevoir en francais ?,reces,recees,recus,recu,Le participe passe de recevoir est recu.
+2,22,Quel est un synonyme de insupportable en francais ?,tolerable,acceptable,intolerisable,intolerable,Insupportable et intolerable sont des synonymes tous deux indiquant quelque chose de difficile a supporter.
+3,22,Quel est limperatif present du verbe finir a la deuxieme personne du singulier ?,finit,finised,finissez,finis,Limperatif present du verbe finir a la deuxieme personne du singulier est finis.
+4,22,Quel est le plus-que-parfait du verbe vendre a la premiere personne du pluriel ?,vendions,vendions eu,avions vendu,avions vendu,Le plus-que-parfait du verbe vendre a la premiere personne du pluriel est avions vendu.
+5,22,Quelle est une locution prepositive en francais ?,pour que,et puis,mais aussi,pour que,Pour que est une locution prepositive elle introduit une subordonnee exprimant le but de laction dans la proposition principale.
+6,22,Quel est le participe passe de mourir en francais ?,mort,morte,mouru,mort,Le participe passe de mourir est mort.
+7,22,Quel est le conditionnel passe du verbe pouvoir a la troisieme personne du pluriel ?,auraient pu,auraient pouvoir,ont pu,auraient pu,Le conditionnel passe du verbe pouvoir a la troisieme personne du pluriel est auraient pu.
+8,22,Quel est un verbe transitif indirect en francais ?,regarder,acheter,offrir,offrir,Offrir est un verbe transitif indirect il est suivi dun complement introduit par la preposition a.
+1,23,Quel est le participe passe de apprendre en francais ?,appris,apprise,apprendu,appris,Le participe passe de apprendre est appris.
+2,23,Quel est un synonyme de prudent en francais ?,temeraire,courageux,sage,sage,Prudent et sage sont des synonymes tous deux indiquant quelquun qui agit avec reflexion et precaution.
+3,23,Quel est limperatif present du verbe conduire a la premiere personne du pluriel ?,conduisons,conduisez,conduissons,conduisons,Lim<|endoffile|>
+4,23,Quel est le passe simple du verbe devoir a la troisieme personne du singulier ?,devait,doit,dut,dut,Le passe simple du verbe devoir a la troisieme personne du singulier est dut.
+5,23,Quelle est une locution conjonctive en francais ?,apres que,selon,pourquoi,apres que,Apres que est une locution conjonctive utilisee pour introduire une proposition subordonnee exprimant une action posterieure a une autre action exprimee dans la proposition principale.
+6,23,Quel est le participe passe de naitre en francais ?,ne,nee,nait,ne,Le participe passe de naitre est ne.
+7,23,Quel est le conditionnel passe du verbe voir a la deuxieme personne du singulier ?,aurais vu,aurais vue,as vu,aurais vu,Le conditionnel passe du verbe voir a la deuxieme personne du singulier est aurais vu.
+8,23,Quel est un verbe pronominal reflechi en francais ?,entendre,se tromper,arriver,se tromper,Se tromper est un verbe pronominal reflechi il necessite lusage dun pronom reflechi se dans ce cas.
+1,24,Quel est le participe passe du verbe vaincre en francais ?,vaincu,vaincre,vaincrait,vaincu,Le participe passe de vaincre est vaincu.
+2,24,Quel est un synonyme de epouvantable en francais ?,effrayant,agreable,excellent,effrayant,Epouvantable et effrayant sont des synonymes tous deux indiquant quelque chose qui cause de la peur ou de leffroi.
+3,24,Quel est limperatif present du verbe entendre a la deuxieme personne du singulier ?,entends,entendez,ecoute,entends,Limperatif present du verbe entendre a la deuxieme personne du singulier est entends.
+4,24,Quel est le passe anterieur du verbe parler a la premiere personne du pluriel ?,avons parle,avons parler,avions parle,avons parle,Le passe anterieur du verbe parler a la premiere personne du pluriel est avons parle.
+5,24,Quelle est une locution prepositive en francais ?,parce que,donc,en outre,parce que,Parce que est une locution prepositive utilisee pour introduire une explication ou une justification a quelque chose.
+6,24,Quel est le participe passe du verbe mourir en francais ?,morts,morte,mourant,morts,Le participe passe de mourir est morts.
+7,24,Quel est le conditionnel passe du verbe partir a la troisieme personne du pluriel ?,seraient partis,seraient parti,sont partis,seraient partis,Le conditionnel passe du verbe partir a la troisieme personne du pluriel est seraient partis.
+8,24,Quel est un verbe intransitif en francais ?,acheter,envoyer,arriver,arriver,Arriver est un verbe intransitif il ne necessite pas de complement dobjet direct pour completer son sens.
+1,25,Quel est le participe passe du verbe comprendre en francais ?,compris,comprise,comprenant,compris,Le participe passe de comprendre est compris.
+2,25,Quel est un synonyme de redoutable en francais ?,formidable,agreable,adorable,formidable,Redoutable et formidable sont des synonymes tous deux indiquant quelque chose qui inspire la crainte ou ladmiration.
+3,25,Quel est limperatif present du verbe voir a la deuxieme personne du pluriel ?,voyez,vois,voit,voyez,Limperatif present du verbe voir a la deuxieme personne du pluriel est voyez.
+4,25,Quel est le passe anterieur du verbe prendre a la premiere personne du pluriel ?,avons pris,avons prendre,avions pris,avons pris,Le passe anterieur du verbe prendre a la premiere personne du pluriel est avons pris.
+5,25,Quelle est une locution conjonctive en francais ?,sinon que,aussi,ou bien,sinon que,Sinon que est une locution conjonctive utilisee pour introduire une idee qui exprime une alternative ou une opposition a celle enoncee precedemment.
+6,25,Quel est le participe passe du verbe conduire en francais ?,conduis,conduit,conduite,conduit,Le participe passe de conduire est conduit.
+7,25,Quel est le conditionnel passe du verbe savoir a la premiere personne du pluriel ?,aurions su,aurions su,avons su,aurions su,Le conditionnel passe du verbe savoir a la premiere personne du pluriel est aurions su.
+8,25,Quel est un verbe pronominal reciproque en francais ?,sasseoir,saimer,se parler,se parler,Se parler est un verbe pronominal reciproque ou deux ou plusieurs sujets effectuent laction de se parler mutuellement.
+1,26,Quel est le participe passe du verbe devoir en francais ?,du,du,due,du,Le participe passe du verbe devoir est du.
+2,26,Quel est un synonyme de ephemere en francais ?,passager,permanent,eternel,passager,Ephemere et passager sont des synonymes tous deux indiquant quelque chose de temporaire.
+3,26,Quel est le subjonctif present du verbe savoir a la troisieme personne du singulier ?,sache,sais,savons,sache,Le subjonctif present du verbe savoir a la troisieme personne du singulier est sache.
+4,26,Quel est le futur anterieur du verbe partir a la premiere personne du pluriel ?,serons partis,serons partie,seront partis,serons partis,Le futur anterieur du verbe partir a la premiere personne du pluriel est serons partis.
+5,26,Quelle est une locution conjonctive en francais ?,pour que,ainsi que,tandis que,tandis que,Tandis que est une locution conjonctive utilisee pour exprimer une opposition entre deux actions ou deux etats simultanes.
+6,26,Quel est le participe passe du verbe recevoir en francais ?,recu,recue,recut,recu,Le participe passe du verbe recevoir est recu.
+7,26,Quel est le conditionnel present du verbe voir a la premiere personne du pluriel ?,verrions,verrions vu,voyions,verrions,Le conditionnel present du verbe voir a la premiere personne du pluriel est verrions.
+8,26,Quel est un verbe pronominal reciproque en francais ?,sentendre,se lever,sennuyer,sentendre,Sentendre est un verbe pronominal reciproque il indique une action mutuelle entre les sujets.
+1,27,Quel est le participe passe du verbe comprendre en francais ?,compris,comprise,compru,compris,Le participe passe du verbe comprendre est compris.
+2,27,Quel est un synonyme de insolite en francais ?,commun,habituel,inhabituel,inhabituel,Insolite et inhabituel sont des synonymes tous deux indiquant quelque chose qui sort de lordinaire.
+3,27,Quel est le subjonctif imparfait du verbe aller a la deuxieme personne du singulier ?,allasse,allais,allat,allasses,Le subjonctif imparfait du verbe aller a la deuxieme personne du singulier est allasses.
+4,27,Quel est le plus-que-parfait du verbe vivre a la troisieme personne du pluriel ?,avaient vecu,avaient vecues,avait vecu,avaient vecu,Le plus-que-parfait du verbe vivre a la troisieme personne du pluriel est avaient vecu.
+5,27,Quelle est une locution prepositive en francais ?,en outre,pourquoi,de sorte que,en outre,En outre est une locution prepositive utilisee pour ajouter une information a ce qui a ete dit precedemment.
+6,27,Quel est le participe passe du verbe rendre en francais ?,rendu,rendue,rendut,rendu,Le participe passe du verbe rendre est rendu.
+7,27,Quel est le conditionnel passe du verbe faire a la deuxieme personne du singulier ?,aurais fait,aurais faite,as fait,aurais fait,Le conditionnel passe du verbe faire a la deuxieme personne du singulier est aurais fait.
+8,27,Quel est un verbe pronominal impersonnel en francais ?,se taire,sarreter,se demander,se taire,Se taire est un verbe pronominal impersonnel il na pas de sujet precis et est utilise pour indiquer le silence ou labsence de bruit.
+1,28,Quel est le participe passe du verbe mourir en francais ?,mort,morte,mourut,mort,Le participe passe du verbe mourir est mort.
+2,28,Quel est un synonyme de perplexe en francais ?,clair,confus,comprehensible,confus,Perplexe et confus sont des synonymes tous deux indiquant un etat dind decision ou de confusion.
+3,28,Quel est le subjonctif present du verbe aller a la premiere personne du pluriel ?,allions,allons,aille,allions,Le subjonctif present du verbe aller a la premiere personne du pluriel est allions.
+4,28,Quel est le passe simple du verbe prendre a la troisieme personne du singulier ?,prit,prendit,prenait,prit,Le passe simple du verbe prendre a la troisieme personne du singulier est prit.
+5,28,Quelle est une locution conjonctive en francais ?,plutot que,des que,car,plutot que,Plutot que est une locution conjonctive utilisee pour exprimer une alternative ou une preference entre deux options.
+6,28,Quel est le participe passe du verbe eclater en francais ?,eclate,eclatee,eclata,eclate,Le participe passe du verbe eclater est eclate.
+7,28,Quel est le conditionnel passe du verbe finir a la troisieme personne du pluriel ?,auraient fini,auraient finies,ont fini,auraient fini,Le conditionnel passe du verbe finir a la troisieme personne du pluriel est auraient fini.
+8,28,Quel est un verbe pronominal reflechi en francais ?,sapercevoir,se promener,se regarder,sapercevoir,Sapercevoir est un verbe pronominal reflechi il necessite lusage dun pronom reflechi pour indiquer que le sujet effectue laction sur lui-meme.
+1,29,Quel est le participe passe du verbe construire en francais ?,construit,construite,construis,construit,Le participe passe du verbe construire est construit.
+2,29,Quel est un synonyme de eloquent en francais ?,bavard,parlant,loquent,loquent,Eloquent et loquent sont des synonymes tous deux indiquant une capacite a bien sexprimer.
+3,29,Quel est le subjonctif passe du verbe prendre a la premiere personne du pluriel ?,ayons pris,ayons prise,avons pris,ayons pris,Le subjonctif passe du verbe prendre a la premiere personne du pluriel est ayons pris.
+4,29,Quel est le passe anterieur du verbe lire a la troisieme personne du singulier ?,eut lu,eut lue,a lu,eut lu,Le passe anterieur du verbe lire a la troisieme personne du singulier est eut lu.
+5,29,Quelle est une locution prepositive en francais ?,du fait que,bien que,de sorte que,du fait que,Du fait que est une locution prepositive utilisee pour introduire une cause ou une raison.
+6,29,Quel est le participe passe du verbe pouvoir en francais ?,pu,pue,peut,pu,Le participe passe du verbe pouvoir est pu.
+7,29,Quel est le conditionnel present du verbe prendre a la troisieme personne du pluriel ?,prendraient,prendrait,prendre,prendraient,Le conditionnel present du verbe prendre a la troisieme personne du pluriel est prendraient.
+8,29,Quel est un verbe pronominal reflechi en francais ?,sarreter,sentendre,sasseoir,sarreter,Sarreter est un verbe pronominal reflechi il necessite lusage dun pronom reflechi pour indiquer que laction est realisee par le sujet sur lui-même.
+1,30,Quel est le participe passe du verbe advenir en francais ?,advenu,advenue,advint,advenu,Le participe passe du verbe advenir est advenu.
+2,30,Quel est un synonyme de reticent en francais ?,bavard,silencieux,loquace,silencieux,Reticent et silencieux sont des synonymes tous deux indiquant quelquun qui parle peu ou qui exprime peu ses opinions.
+3,30,Quel est le subjonctif imparfait du verbe faire a la deuxieme personne du pluriel ?,fassiez,faisiez,fasse,fassiez,Le subjonctif imparfait du verbe faire a la deuxieme personne du pluriel est fassiez.
+4,30,Quel est le plus-que-parfait du verbe vivre a la premiere personne du pluriel ?,avions vecu,avions vecues,avaient vecu,avions vecu,Le plus-que-parfait du verbe vivre a la premiere personne du pluriel est avions vecu.
+5,30,Quelle est une locution conjonctive en francais ?,bien que,comme si,plutot que,bien que,Bien que est une locution conjonctive utilisee pour introduire une subordonnee exprimant une concession ou une opposition.
+6,30,Quel est le participe passe du verbe reflechir en francais ?,reflechi,reflechie,reflechis,reflechi,Le participe passe du verbe reflechir est reflechi.
+7,30,Quel est le conditionnel passe du verbe partir a la deuxieme personne du pluriel ?,seriez parti,seriez partie,avez parti,seriez parti,Le conditionnel passe du verbe partir a la deuxieme personne du pluriel est seriez parti.
+8,30,Quel est un verbe pronominal reflechi en francais ?,se reposer,se lever,se coucher,se reposer,Se reposer est un verbe pronominal reflechi il indique une action que le sujet accomplit sur lui-même pour se detendre ou se relaxer.
+1,31,Was ist die Pluralform von Buch auf Deutsch?,buecher,buchs,bibliotheken,buchs,Auf Deutsch bildet man den Plural von Buch indem man ein e hinzufuegt.
+2,31,Welches der folgenden Woerter ist ein Synonym fuer gluecklich?,traurig,zornig,froehlich,traurig,Gluecklich und froehlich sind Synonyme sie haben aehnliche Bedeutungen.
+3,31,Was ist die Vergangenheitsform von gehen auf Deutsch?,geht,ging,gingen,ging,Die Vergangenheitsform von gehen auf Deutsch ist ging.
+4,31,Was ist die Komparativform von gut auf Deutsch?,besser,guter,mehr gut,besser,Die Komparativform von gut auf Deutsch ist besser.
+5,31,Welches der folgenden Woerter ist eine Praeposition auf Deutsch?,laufen,springen,auf,auf,Auf ist eine Praeposition die eine Position oder Lage angibt.
+6,31,Was ist die Pluralform von Kind auf Deutsch?,kinds,kinden,kinder,kinder,Die Pluralform von Kind auf Deutsch ist Kinder.
+7,31,Was ist das Partizip Perfekt von essen auf Deutsch?,gegessen,esst,ass,gegessen,Das Partizip Perfekt von essen auf Deutsch ist gegessen.
+8,31,Welches der folgenden Verben ist unregelmaessig im Praeteritum?,gesprochen,gegessen,gespielt,gespielt,Gegessen ist ein unregelmaessiges Verb; sein Praeteritum folgt nicht dem regulären -t Endungsmuster.
+1,32,Was ist die weibliche Form von Arzt auf Deutsch?,aerztin,arzta,arztesse,aerztin,Die weibliche Form von Arzt auf Deutsch ist Aerztin.
+2,32,Welches der folgenden Woerter ist ein Synonym fuer gross?,klein,winzig,gross,klein,Gross und gross sind Synonyme sie bedeuten eine beträchtliche Groesse.
+3,32,Was ist die Vergangenheitsform von laufen auf Deutsch?,lief,liefen,laeuft,lief,Die Vergangenheitsform von laufen auf Deutsch ist lief.
+4,32,Was ist die Superlativform von schlecht auf Deutsch?,schlechtest,schlechter,mehr schlecht,schlechtest,Die Superlativform von schlecht auf Deutsch ist schlechtest.
+5,32,Welches der folgenden Woerter ist eine Konjunktion auf Deutsch?,haus,gehen,und,haus,Und ist eine Konjunktion die Woerter Phrasen oder Sätze verbindet.
+6,32,Was ist die Pluralform von Maus auf Deutsch?,maeuse,mausen,maeusen,maeuse,Die Pluralform von Maus auf Deutsch ist Maeuse.
+7,32,Was ist das Partizip Perfekt von trinken auf Deutsch?,getrunken,trank,trinkte,getrunken,Das Partizip Perfekt von trinken auf Deutsch ist getrunken.
+8,32,Welches der folgenden Verben ist unregelmaessig im Praeteritum?,gespielt,gebrochen,gesprochen,gebrochen,Gebrochen ist ein unregelmaessiges Verb; sein Praeteritum folgt nicht dem regulären -t Endungsmuster.
+1,33,Was ist die Komparativform von weit auf Deutsch?,mehr weit,weiter,weit,weiter,Die Komparativform von weit auf Deutsch ist weiter.
+2,33,Welches der folgenden Woerter ist ein Synonym fuer traurig?,froehlich,elend,gluecklich,elend,Traurig und elend sind Synonyme sie zeigen beide eine niedrige Stimmung an.
+3,33,Was ist die Vergangenheitsform von geben auf Deutsch?,gab,gegeben,gebte,gab,Die Vergangenheitsform von geben auf Deutsch ist gab.
+4,33,Was ist die Superlativform von gut auf Deutsch?,mehr gut,besser,beste,beste,Die Superlativform von gut auf Deutsch ist beste.
+5,33,Welches der folgenden Woerter ist eine Praeposition auf Deutsch?,tanzen,spielen,unter,unter,Unter ist eine Praeposition die eine Position unter etwas angibt.
+6,33,Was ist die Pluralform von Gans auf Deutsch?,gaensen,gans,gaense,gaense,Die Pluralform von Gans auf Deutsch ist Gaense.
+7,33,Was ist das Partizip Perfekt von sehen auf Deutsch?,sah,gesehen,gesicht,gesehen,Das Partizip Perfekt von sehen auf Deutsch ist gesehen.
+8,33,Welches der folgenden Verben ist unregelmaessig im Praeteritum?,gekauft,gewaschen,gesprochen,gekauft,Gekauft ist ein unregelmaessiges Verb; sein Praeteritum folgt nicht dem regulären -t Endungsmuster.
+1,34,Was ist die weibliche Form von Koenig auf Deutsch?,koenigin,koeniges,koenigette,koenigin,Die weibliche Form von Koenig auf Deutsch ist Koenigin.
+2,34,Welches der folgenden Woerter ist ein Synonym fuer kalt?,heiss,froestlich,kuehl,heiss,Kalt und froestlich sind Synonyme sie zeigen beide eine niedrige Temperatur an.
+3,34,Was ist die Vergangenheitsform von singen auf Deutsch?,sung,sang,gesungen,sang,Die Vergangenheitsform von singen auf Deutsch ist sang.
+4,34,Was ist die Superlativform von gross auf Deutsch?,groesste,groesser,mehr gross,groesste,Die Superlativform von gross auf Deutsch ist groesste.
+5,34,Welches der folgenden Woerter ist eine Konjunktion auf Deutsch?,rennen,aber,springen,aber,Aber ist eine Konjunktion die einen Kontrast oder eine Ausnahme einfuehrt.
+6,34,Was ist die Pluralform von Hirsch auf Deutsch?,hirsche,hirschen,hirschen,hirsche,Die Pluralform von Hirsch auf Deutsch ist Hirsche.
+7,34,Was ist das Partizip Perfekt von schreiben auf Deutsch?,geschrieben,schrieb,schreibt,geschrieben,Das Partizip Perfekt von schreiben auf Deutsch ist geschrieben.
+8,34,Welches der folgenden Verben ist unregelmassig im Prateritum?,geschlafen,gereinigt,gesprochen,geschlafen,Geschlafen ist ein unregelmassiges Verb; sein Prateritum folgt nicht dem regularen -t Endungsmuster.
+1,35,Was ist die Komparativform von kurz auf Deutsch?,kurzer,mehr kurz,kurzer,kurzer,Die Komparativform von kurz auf Deutsch ist kurzer.
+2,35,Welches der folgenden Worter ist ein Synonym fur alt?,neu,alter,jung,alter,Alt und alter sind Synonyme sie zeigen beide ein hohes Alter an.
+3,35,Was ist die Vergangenheitsform von laufen auf Deutsch?,lief,liefen,lauft,lief,Die Vergangenheitsform von laufen auf Deutsch ist lief.
+4,35,Was ist die Superlativform von weit auf Deutsch?,mehr weit,weiter,weit,weitesten,Die Superlativform von weit auf Deutsch ist weitesten.
+5,35,Welches der folgenden Worter ist eine Praposition auf Deutsch?,singen,tanzen,schweben,uber,Uber ist eine Praposition die eine Position uber oder bedeckt angibt.
+6,35,Was ist die Pluralform von Fuss auf Deutsch?,fusse,fussie,fuss,fusse,Die Pluralform von Fuss auf Deutsch ist Fusse.
+7,35,Was ist das Partizip Perfekt von sprechen auf Deutsch?,sprach,gesprochen,sprecht,gesprochen,Das Partizip Perfekt von sprechen auf Deutsch ist gesprochen.
+8,35,Welches der folgenden Verben ist unregelmassig im Prateritum?,gespielt,gesprochen,gegangen,gesungen,Gesungen ist ein unregelmassiges Verb; sein Prateritum folgt nicht dem regularen -t Endungsmuster.
+1,36,Was ist die korrekte Pluralform von Haus auf Deutsch?,hauser,hausen,hausen,hauser,Die Pluralform von Haus lautet Hauser.
+2,36,Welches Wort ist ein Synonym fur erstaunlich?,unglaublich,normal,uberraschend,unglaublich,Unglaublich ist ein Synonym fur erstaunlich.
+3,36,Wie lautet der Plural von Lied auf Deutsch?,lieder,liedern,liedes,lieder,Der Plural von Lied ist Lieder.
+4,36,Was ist die Vergangenheitsform von lesen auf Deutsch?,lesste,les,las,las,Die Vergangenheitsform von lesen ist las.
+5,36,Welches der folgenden Worter ist ein Synonym fur freundlich?,feindlich,nett,fies,nett,Nett ist ein Synonym fur freundlich.
+6,36,Was ist die richtige Komparativform von viel auf Deutsch?,vieller,mehr,mehr viel,mehr,Die Komparativform von viel ist mehr.
+7,36,Welches der folgenden Worter ist ein Synonym fur normal?,aussergewohnlich,gewohnlich,ungewohnlich,gewohnlich,Gewohnlich ist ein Synonym fur normal.
+8,36,Was ist das Partizip Perfekt von vergessen auf Deutsch?,vergessen,vergass,vergossen,vergessen,Das Partizip Perfekt von vergessen ist vergessen.
+1,37,Was ist die weibliche Form von Arzt auf Deutsch?,arztin,arztesse,arztesse,arztin,Die weibliche Form von Arzt ist Arztin.
+2,37,Welches Wort ist ein Synonym fur schwierig?,einfach,kompliziert,unmoglich,kompliziert,Kompliziert ist ein Synonym fur schwierig.
+3,37,Wie lautet der Plural von Schule auf Deutsch?,schulen,schules,schul,schulen,Der Plural von Schule ist Schulen.
+4,37,Was ist die Vergangenheitsform von denken auf Deutsch?,dachte,dach,denk,dachte,Die Vergangenheitsform von denken ist dachte.
+5,37,Welches der folgenden Worter ist ein Synonym fur interessant?,langweilig,fesselnd,uninteressant,fesselnd,Fesselnd ist ein Synonym fur interessant.
+6,37,Was ist die richtige Komparativform von wenig auf Deutsch?,weniger,kleiner,kleinig,weniger,Die Komparativform von wenig ist weniger.
+7,37,Welches der folgenden Worter ist ein Synonym fur ungewohnlich?,normal,ublich,aussergewohnlich,aussergewohnlich,Aussergewohnlich ist ein Synonym fur ungewohnlich.
+8,37,Was ist das Partizip Perfekt von treffen auf Deutsch?,treft,getroffen,trafen,getroffen,Das Partizip Perfekt von treffen ist getroffen.
+1,38,Was ist die korrekte Pluralform von Maus auf Deutsch?,mause,mausen,mause,mause,Die Pluralform von Maus lautet Mause.
+2,38,Welches Wort ist ein Synonym fur aufgeregt?,gelangweilt,nervos,entspannt,nervos,Nervos ist ein Synonym fur aufgeregt.
+3,38,Wie lautet der Plural von Stadt auf Deutsch?,stadte,stadtisch,stadte,stadte,Der Plural von Stadt ist Stadte.
+4,38,Was ist die Vergangenheitsform von finden auf Deutsch?,fand,funden,finde,fand,Die Vergangenheitsform von finden ist fand.
+5,38,Welches der folgenden Worter ist ein Synonym fur begeistert?,gelangweilt,interessiert,desinteressiert,interessiert,Interessiert ist ein Synonym fur begeistert.
+6,38,Was ist die richtige Komparativform von schlecht auf Deutsch?,schlechter,boser,mehr schlecht,schlechter,Die Komparativform von schlecht ist schlechter.
+7,38,Welches der folgenden Worter ist ein Synonym fur normal?,ublich,ungewohnlich,aussergewohnlich,ublich,Ublich ist ein Synonym fur normal.
+8,38,Was ist das Partizip Perfekt von sehen auf Deutsch?,gesehen,sah,seh,gesehen,Das Partizip Perfekt von sehen ist gesehen.
+1,39,Was ist die weibliche Form von Prinz auf Deutsch?,prinzess,prinzin,prinzesse,prinzessin,Die weibliche Form von Prinz ist Prinzessin.
+2,39,Welches Wort ist ein Synonym fur verwirrt?,klar,geordnet,durcheinander,durcheinander,Durcheinander ist ein Synonym fur verwirrt.
+3,39,Wie lautet der Plural von Kuh auf Deutsch?,kuhen,kuhs,kuhe,kuhe,Der Plural von Kuh ist Kuhe.
+4,39,Was ist die Vergangenheitsform von fliegen auf Deutsch?,flug,fliegte,flog,flog,Die Vergangenheitsform von fliegen ist flog.
+5,39,Welches der folgenden Worter ist ein Synonym fur neugierig?,gelangweilt,interessiert,desinteressiert,interessiert,Interessiert ist ein Synonym fur neugierig.
+6,39,Was ist die richtige Komparativform von stark auf Deutsch?,starker,mehr stark,starker,starker,Die Komparativform von stark ist starker.
+7,39,Welches der folgenden Worter ist ein Synonym fur frohlich?,traurig,glucklich,verargert,glucklich,Glucklich ist ein Synonym fur frohlich.
+8,39,Was ist das Partizip Perfekt von geben auf Deutsch?,gegeben,gab,gibt,gegeben,Das Partizip Perfekt von geben ist gegeben.
+1,40,Was ist die korrekte Pluralform von Geschenk auf Deutsch?,geschenken,geschenk,geschenke,geschenke,Die Pluralform von Geschenk lautet Geschenke.
+2,40,Welches Wort ist ein Synonym fur eifrig?,faul,fleissig,träge,fleissig,Fleissig ist ein Synonym fur eifrig.
+3,40,Wie lautet der Plural von Berg auf Deutsch?,berge,berg,bergen,berge,Der Plural von Berg ist Berge.
+4,40,Was ist die Vergangenheitsform von verlieren auf Deutsch?,verloren,verlor,verlierte,verlor,Die Vergangenheitsform von verlieren ist verlor.
+5,40,Welches der folgenden Worter ist ein Synonym fur aufgeregt?,ruhig,gelassen,nervös,nervös,Nervös ist ein Synonym fur aufgeregt.
+6,40,Was ist die richtige Komparativform von dunkel auf Deutsch?,dunkler,mehr dunkel,dunklerer,dunkler,Die Komparativform von dunkel ist dunkler.
+7,40,Welches der folgenden Worter ist ein Synonym fur zufrieden?,unglücklich,glücklich,traurig,glücklich,Glücklich ist ein Synonym fur zufrieden.
+8,40,Was ist das Partizip Perfekt von sitzen auf Deutsch?,gesessen,sitzte,sitzten,gesessen,Das Partizip Perfekt von sitzen ist gesessen.
+1,41,Was ist die korrekte Pluralform von Phanomen auf Deutsch?,Phanomene,Phanomenen,Phanomens,Phanomene,Die Pluralform von Phanomen lautet Phanomene.
+2,41,Welches Wort ist ein Synonym für facettenreich?,einfaltig,eintonig,vielschichtig,vielschichtig,Vielschichtig ist ein Synonym für facettenreich.
+3,41,Wie lautet der Plural von Syndrom auf Deutsch?,Syndrome,Syndromen,Syndroms,Syndrome,Der Plural von Syndrom ist Syndrome.
+4,41,Was ist die Vergangenheitsform von unterbrechen auf Deutsch?,unterbrach,unterbricht,unterbrochen,unterbrach,Die Vergangenheitsform von unterbrechen ist unterbrach.
+5,41,Welches der folgenden Wörter ist ein Synonym für skrupellos?,gewissenhaft,unmoralisch,redlich,unmoralisch,Unmoralisch ist ein Synonym für skrupellos.
+6,41,Was ist die richtige Komparativform von komplex auf Deutsch?,komplexer,mehr komplex,komplexerer,komplexer,Die Komparativform von komplex ist komplexer.
+7,41,Welches der folgenden Wörter ist ein Synonym für exzentrisch?,normal,gewohnlich,abweichend,abweichend,Abweichend ist ein Synonym für exzentrisch.
+8,41,Was ist das Partizip Perfekt von verlassen auf Deutsch?,verlassen,verliess,verliess,verlassen,Das Partizip Perfekt von verlassen ist verlassen.
+1,42,Was ist die weibliche Form von Monch auf Deutsch?,monchin,monches,monchette,monchin,Die weibliche Form von Monch ist Monchin.
+2,42,Welches Wort ist ein Synonym für akribisch?,nachlassig,genau,unprazise,genau,Genau ist ein Synonym für akribisch.
+3,42,Wie lautet der Plural von Index auf Deutsch?,Indexe,Indizes,Indexen,Indizes,Der Plural von Index ist Indizes.
+4,42,Was ist die Vergangenheitsform von sich ergeben auf Deutsch?,ergab,ergebt,ergibt,ergab,Die Vergangenheitsform von sich ergeben ist ergab.
+5,42,Welches der folgenden Wörter ist ein Synonym für kosmopolitisch?,lokal,global,regional,global,Global ist ein Synonym für kosmopolitisch.
+6,42,Was ist die richtige Komparativform von monoton auf Deutsch?,monotoner,mehr monoton,monotonerer,monotoner,Die Komparativform von monoton ist monotoner.
+7,42,Welches der folgenden Wörter ist ein Synonym für kontrovers?,beliebt,umstritten,unbestritten,umstritten,Umstritten ist ein Synonym für kontrovers.
+8,42,Was ist das Partizip Perfekt von uberwinden auf Deutsch?,uberwunden,uberwand,uberwindet,uberwunden,Das Partizip Perfekt von uberwinden ist uberwunden.
+1,43,Was ist die korrekte Pluralform von Dilemma auf Deutsch?,Dilemmata,Dilemmas,Dilemmen,Dilemmata,Die Pluralform von Dilemma lautet Dilemmata.
+2,43,Welches Wort ist ein Synonym für verheerend?,positiv,vernichtend,aufbauend,vernichtend,Vernichtend ist ein Synonym für verheerend.
+3,43,Wie lautet der Plural von Phanomenon auf Deutsch?,Phanomenons,Phanomenonen,Phanomena,Phanomena,Der Plural von Phanomenon ist Phanomena.
+4,43,Was ist die Vergangenheitsform von ankommen auf Deutsch?,ankam,ankommte,ankommen,ankam,Die Vergangenheitsform von ankommen ist ankam.
+5,43,Welches der folgenden Wörter ist ein Synonym für radikal?,moderat,extrem,massvoll,extrem,Extrem ist ein Synonym für radikal.
+6,43,Was ist die richtige Komparativform von kreativ auf Deutsch?,kreativer,mehr kreativ,kreativerer,kreativer,Die Komparativform von kreativ ist kreativer.
+7,43,Welches der folgenden Wörter ist ein Synonym für progressiv?,konservativ,fortschrittlich,traditionell,fortschrittlich,Fortschrittlich ist ein Synonym für progressiv.
+8,43,Was ist das Partizip Perfekt von uberzeugen auf Deutsch?,uberzeugt,uberzeugen,uberzeugt,uberzeugt,Das Partizip Perfekt von uberzeugen ist uberzeugt.
+1,44,Was ist die weibliche Form von Papst auf Deutsch?,papstin,papstette,papstessin,papstin,Die weibliche Form von Papst ist Papstin.
+2,44,Welches Wort ist ein Synonym für raffiniert?,simpel,raffgierig,raffiniert,raffiniert,Raffiniert ist ein Synonym für raffiniert.
+3,44,Wie lautet der Plural von Antagonist auf Deutsch?,Antagonisten,Antagonista,Antagonistum,Antagonisten,Der Plural von Antagonist ist Antagonisten.
+4,44,Was ist die Vergangenheitsform von aufgeben auf Deutsch?,gab auf,aufgegeben,gibt auf,gab auf,Die Vergangenheitsform von aufgeben ist gab auf.
+5,44,Welches der folgenden Wörter ist ein Synonym für gefahrlich?,sicher,riskant,ungefahrlich,riskant,Riskant ist ein Synonym für gefahrlich.
+6,44,Was ist die richtige Komparativform von schon auf Deutsch?,schoner,mehr schon,schonerer,schoner,Die Komparativform von schon ist schoner.
+7,44,Welches der folgenden Wörter ist ein Synonym für vertraulich?,geheim,offentlich,bekannt,geheim,Geheim ist ein Synonym für vertraulich.
+8,44,Was ist das Partizip Perfekt von bestehen auf Deutsch?,bestanden,besteht,bestand,bestanden,Das Partizip Perfekt von bestehen ist bestanden.
+1,45,Was ist die korrekte Pluralform von Chaos auf Deutsch?,Chaosse,Chaosen,Chaos,Chaos,Die Pluralform von Chaos lautet Chaos.
+2,45,Welches Wort ist ein Synonym fur unanfechtbar?,fragwurdig,fragil,unwiderlegbar,unwiderlegbar,Unwiderlegbar ist ein Synonym fur unanfechtbar.
+3,45,Wie lautet der Plural von Thema auf Deutsch?,Themen,Themata,Themas,Themen,Der Plural von Thema ist Themen.
+4,45,Was ist die Vergangenheitsform von begrunden auf Deutsch?,begrundete,begrunden,begrundet,begrundete,Die Vergangenheitsform von begrunden ist begrundete.
+5,45,Welches der folgenden Worter ist ein Synonym fur kompliziert?,einfach,unverstandlich,klar,unverstandlich,Unverstandlich ist ein Synonym fur kompliziert.
+6,45,Was ist die richtige Komparativform von anspruchsvoll auf Deutsch?,anspruchsvoller,mehr anspruchsvoll,anspruchsvollerer,anspruchsvoller,Die Komparativform von anspruchsvoll ist anspruchsvoller.
+7,45,Welches der folgenden Worter ist ein Synonym fur taktvoll?,ungehobelt,rucksichtsvoll,unhoflich,rucksichtsvoll,Rucksichtsvoll ist ein Synonym fur taktvoll.
+8,45,Was ist das Partizip Perfekt von erwarten auf Deutsch?,erwartet,erwartete,erwarten,erwartet,Das Partizip Perfekt von erwarten ist erwartet.

@@ -1,0 +1,1200 @@
+1,1,What is the plural form of book in English?,bookies,bookses,libraries,books,In English to form the plural of book you add an s.
+2,1,Which of the following is a synonym for happy?,sad,angry,miserable,glad,Happy and glad are synonyms meaning they have similar meanings.
+3,1,What is the past tense of go in English?,goed,goes,want,went,The past tense of go is went.
+4,1,What is the comparative form of good in English?,batter,gooder,more good,better,The comparative form of good is better.
+5,1,Which of the following is a preposition?,run,jump,on,in,On is a preposition indicating location or position.
+6,1,What is the plural form of child in English?,childs,childen,childrens,children,The plural form of child is children.
+7,1,What is the past participle of eat in English?,eated,eaten,aten,ate,The past participle of eat is eaten.
+8,1,Which of the following is an irregular verb in the past tense?,talked,swimmed,played,ate,Ate is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,2,What is the feminine form of actor in English?,actorissa,actorina,actorista,actress,The feminine form of actor is actress.
+2,2,Which of the following is a synonym for big?,small,tiny,long,large,Big and large are synonyms both indicating a significant size.
+3,2,What is the past tense of run in English?,runned,ranned,runs,ran,The past tense of run is ran.
+4,2,What is the superlative form of bad in English?,worse,badder,more bad,worst,The superlative form of bad is worst.
+5,2,Which of the following is a conjunction?,house,walk,is,and,And is a conjunction used to connect words phrases or clauses.
+6,2,What is the plural form of mouse in English?,mouses,mousen,mices,mice,The plural form of mouse is mice.
+7,2,What is the past participle of drink in English?,drinked,drank,drinks,drunk,The past participle of drink is drunk.
+8,2,Which of the following is an irregular verb in the past tense?,played,walked,talked,broke,Broke is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,3,What is the comparative form of far in English?,more far,farrer,farthest,further,The comparative form of far is further.
+2,3,Which of the following is a synonym for sad?,glad,angry,happy,miserable,Sad and miserable are synonyms both indicating a low mood.
+3,3,What is the past tense of give in English?,gaven,gived,given,gave,The past tense of give is gave.
+4,3,What is the superlative form of good in English?,more good,gooder,better,best,The superlative form of good is best.
+5,3,Which of the following is a preposition?,jump,there,play,under,Under is a preposition indicating position beneath something.
+6,3,What is the plural form of goose in English?,geeses,goose,gooses,geese,The plural form of goose is geese.
+7,3,What is the past participle of see in English?,seed,sawn,saw,seen,The past participle of see is seen.
+8,3,Which of the following is an irregular verb in the past tense?,brought,washed,talked,bought,Bought is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,4,What is the feminine form of king in English?,queeness,kiness,kingette,queen,The feminine form of king is queen.
+2,4,Which of the following is a synonym for cold?,hot,winter,cool,chilly,Cold and chilly are synonyms both indicating low temperature.
+3,4,What is the past tense of sing in English?,singged,singed,sung,sang,The past tense of sing is sang.
+4,4,What is the superlative form of tall in English?,long,taller,more tall,tallest,The superlative form of tall is tallest.
+5,4,Which of the following is a conjunction?,run,them,jump,but,But is a conjunction used to introduce a contrast or exception.
+6,4,What is the plural form of deer in English?,deers,deeran,dear,deer,The plural form of deer is deer.
+7,4,What is the past participle of write in English?,writed,writes,wrote,written,The past participle of write is written.
+8,4,Which of the following is an irregular verb in the past tense?,played,cleaned,talked,slept,Slept is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,5,What is the comparative form of short in English?,shorterer,more short,small,shorter,The comparative form of short is shorter.
+2,5,Which of the following is a synonym for old?,new,elderly,young,elderly,Old and elderly are synonyms both indicating advanced age.
+3,5,What is the past tense of run in English?,runned,running,ran,ran,The past tense of run is ran.
+4,5,What is the superlative form of far in English?,more far,farther,fur,furthest,The superlative form of far is furthest.
+5,5,Which of the following is a preposition?,sing,dance,hover,over,Over is a preposition indicating position above or covering.
+6,5,What is the plural form of foot in English?,foots,footies,feat,feet,The plural form of foot is feet.
+7,5,What is the past participle of speak in English?,speaked,speaken,spoke,spoken,The past participle of speak is spoken.
+8,5,Which of the following is an irregular verb in the past tense?,played,talked,went,sang,Sang is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,6,What is the plural form of ox in English?,oxes,oxies,oxers,oxen,The plural form of ox is oxen.
+2,6,Which of the following is a synonym for brave?,cowardly,timid,fearful,fearless,Brave and fearless are synonyms both indicating courage.
+3,6,What is the past tense of drive in English?,driven,drived,droven,drove,The past tense of drive is drove.
+4,6,What is the comparative form of strong in English?,more strong,strongest,powerful,stronger,The comparative form of strong is stronger.
+5,6,Which of the following is a conjunction?,run,jump,the,but,But is a conjunction used to connect contrasting ideas or clauses.
+6,6,What is the plural form of cactus in English?,cactuses,cactusses,cactis,cacti,The plural form of cactus is cacti.
+7,6,What is the past participle of take in English?,took,tooken,taked,taken,The past participle of take is taken.
+8,6,Which of the following is an irregular verb in the past tense?,talked,walked,played,sang,Sang is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,7,What is the feminine form of hero in English?,heroin,heroess,heron,heroine,The feminine form of hero is heroine.
+2,7,Which of the following is a synonym for wealthy?,poor,broke,money,rich,Wealthy and rich are synonyms both indicating having a lot of money or possessions.
+3,7,What is the past tense of begin in English?,begun,beginned,beg,began,The past tense of begin is began.
+4,7,What is the superlative form of narrow in English?,narrower,narrow,more narrow,narrowest,The superlative form of narrow is narrowest.
+5,7,Which of the following is a preposition?,jump,run,apple,between,Between is a preposition indicating position in the middle of two things.
+6,7,What is the plural form of deer in English?,deerses,deerien,deers,deer,The plural form of deer is deer.
+7,7,What is the past participle of swim in English?,swimmer,swimed,swam,swum,The past participle of swim is swum.
+8,7,Which of the following is an irregular verb in the past tense?,talked,learned,walked,ate,Ate is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,8,What is the comparative form of clever in English?,most clever,cleverest,cleverer,more clever,The comparative form of clever is more clever.
+2,8,Which of the following is a synonym for angry?,happy,calm,sad,mad,Angry and mad are synonyms both indicating a strong feeling of displeasure.
+3,8,What is the past tense of know in English?,know,knowed,known,knew,The past tense of know is knew.
+4,8,What is the superlative form of tall in English?,more tall,most tall,taller,tallest,The superlative form of tall is tallest.
+5,8,Which of the following is a preposition?,sit,stand,side,beside,Beside is a preposition indicating position next to something.
+6,8,What is the plural form of foot in English?,feat,feeten,foots,feet,The plural form of foot is feet.
+7,8,What is the past participle of give in English?,gave,gived,giver,given,The past participle of give is given.
+8,8,Which of the following is an irregular verb in the past tense?,bought,written,talked,wrote,Wrote is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,9,What is the comparative form of fast in English?,more fast,fastest,most fast,faster,The comparative form of fast is faster.
+2,9,Which of the following is a synonym for quiet?,loud,noisy,quite,silent,Quiet and silent are synonyms both indicating a lack of noise.
+3,9,What is the past tense of think in English?,thinken,thunk,thinked,thought,The past tense of think is thought.
+4,9,What is the superlative form of heavy in English?,more heavy,most heavy,heavier,heaviest,The superlative form of heavy is heaviest.
+5,9,Which of the following is a conjunction?,jump,though,sit,although,Although is a conjunction used to introduce a contrasting clause.
+6,9,What is the plural form of knife in English?,knifeses,knife,knifes,knives,The plural form of knife is knives.
+7,9,What is the past participle of break in English?,broked,breaked,broke,broken,The past participle of break is broken.
+8,9,Which of the following is an irregular verb in the past tense?,talked,sleeped,washed,slept,Slept is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,10,What is the comparative form of bright in English?,more bright,brightest,most bright,brighter,The comparative form of bright is brighter.
+2,10,Which of the following is a synonym for quick?,slow,speedy,hurry,fast,Quick and fast are synonyms both indicating high speed.
+3,10,What is the past tense of draw in English?,drewn,drawn,drawed,drew,The past tense of draw is drew.
+4,10,What is the superlative form of far in English?,more far,farther,farrer,farthest,The superlative form of far is farthest.
+5,10,Which of the following is a preposition?,sing,more,dance,below,Below is a preposition indicating position beneath something.
+6,10,What is the plural form of tooth in English?,teethes,teeths,tooths,teeth,The plural form of tooth is teeth.
+7,10,What is the past participle of swim in English?,swimmer,swimmed,swam,swum,The past participle of swim is swum.
+8,10,Which of the following is an irregular verb in the past tense?,walked,played,sleeped,slept,Slept is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,11,What is the past participle of swim in English?,swam,dove,drowned,swum,The past participle of swim is swum.
+2,11,Which of the following is a synonym for eloquent?,inarticulate,rambunctious,verbose,articulate,Eloquent and articulate are synonyms both indicating the ability to express oneself effectively.
+3,11,What is the comparative form of intelligent in English?,intelligenter,intelligentest,smarter,more intelligent,The comparative form of intelligent is more intelligent.
+4,11,What is the superlative form of brave in English?,braver,more brave,bravestly,bravest,The superlative form of brave is bravest.
+5,11,Which of the following is an adverb?,happy,suddenly,book,quickly,Quickly is an adverb modifying the verb run to indicate speed.
+6,11,What is the plural form of criterion in English?,criterions,criterionses,criteriums,criteria,The plural form of criterion is criteria.
+7,11,What is the past participle of write in English?,writ,wrote,writted,written,The past participle of write is written.
+8,11,Which of the following is an irregular verb in the past tense?,talked,sang,builted,built,Built is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,12,What is the comparative form of beautiful in English?,beautifuler,beautifuller,prettier,more beautiful,The comparative form of beautiful is more beautiful.
+2,12,Which of the following is a synonym for courageous?,fearful,bold,cowardly,brave,Courageous and brave are synonyms both indicating a lack of fear in facing danger or difficulty.
+3,12,What is the past tense of shine in English?,shone,shoned,shun,shined,The past tense of shine is shined.
+4,12,What is the superlative form of expensive in English?,more expensive,expensiver,expensivest,most expensive,The superlative form of expensive is most expensive.
+5,12,Which of the following is an adverb?,kind,soft,table,softly,Softly is an adverb modifying the verb whisper to indicate the manner of speaking.
+6,12,What is the plural form of man in English?,mens,mans,menses,men,The plural form of man is men.
+7,12,What is the past participle of sing in English?,sanged,sang,sunged,sung,The past participle of sing is sung.
+8,12,Which of the following is an irregular verb in the past tense?,painted,played,walked,ran,Ran is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,13,What is the comparative form of clever in English?,cleverer,cleverest,smarter,more clever,The comparative form of clever is more clever.
+2,13,Which of the following is a synonym for persistent?,temporary,consistent,transitory,constant,Persistent and constant are synonyms both indicating a continuous or enduring quality.
+3,13,What is the past tense of freeze in English?,frozen,freezen,freezed,froze,The past tense of freeze is froze.
+4,13,What is the superlative form of funny in English?,funnier,most funny,more funny,funniest,The superlative form of funny is funniest.
+5,13,Which of the following is an adverb?,nice,hurry,apple,quickly,Quickly is an adverb modifying the verb run to indicate speed.
+6,13,What is the plural form of woman in English?,womans,womyn,wemen,women,The plural form of woman is women.
+7,13,What is the past participle of take in English?,took,taked,tooken,taken,The past participle of take is taken.
+8,13,Which of the following is an irregular verb in the past tense?,asked,taught,founded,found,Found is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,14,What is the comparative form of important in English?,importantest,importanter,most important,more important,The comparative form of important is more important.
+2,14,Which of the following is a synonym for resilient?,fragile,silent,weak,tough,Resilient and tough are synonyms both indicating the ability to recover quickly from difficulties.
+3,14,What is the past tense of shake in English?,shoke,shaked,shaken,shook,The past tense of shake is shook.
+4,14,What is the superlative form of difficult in English?,more difficult,difficulter,difficultest,most difficult,The superlative form of difficult is most difficult.
+5,14,Which of the following is an adverb?,good,slow,cat,slowly,Slowly is an adverb modifying the verb walk to indicate the manner of movement.
+6,14,What is the plural form of person in English?,person,persons,peoples,people,The plural form of person is people.
+7,14,What is the past participle of fall in English?,fell,falled,felt,fallen,The past participle of fall is fallen.
+8,14,Which of the following is an irregular verb in the past tense?,said,slept,fault,felt,Felt is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,15,What is the comparative form of efficient in English?,efficientest,efficenter,most efficient,more efficient,The comparative form of efficient is more efficient.
+2,15,Which of the following is a synonym for persistent?,temporary,consistent,transitory,constant,Persistent and constant are synonyms both indicating a continuous or enduring quality.
+3,15,What is the past tense of lead in English?,leded,leaded,lead,led,The past tense of lead is led.
+4,15,What is the superlative form of angry in English?,angrier,most angry,more angry,angriest,The superlative form of angry is angriest.
+5,15,Which of the following is an adverb?,nice,fast,book,quickly,Quickly is an adverb modifying the verb run to indicate speed.
+6,15,What is the plural form of child in English?,childen,childs,childses,children,The plural form of child is children.
+7,15,What is the past participle of draw in English?,drawed,drew,drewed,drawn,The past participle of draw is drawn.
+8,15,Which of the following is an irregular verb in the past tense?,played,taught,walked,told,Told is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,16,What is the plural form of book in English?,bookies,bookses,libraries,books,In English to form the plural of book you add an s.
+2,16,Which of the following is a synonym for happy?,sad,angry,miserable,glad,Happy and glad are synonyms meaning they have similar meanings.
+3,16,What is the past tense of go in English?,goed,goes,went,went,The past tense of go is went.
+4,16,What is the comparative form of good in English?,better,gooder,more good,better,The comparative form of good is better.
+5,16,Which of the following is a preposition?,run,jump,on,in,On is a preposition indicating location or position.
+6,16,What is the plural form of child in English?,childs,childen,childrens,children,The plural form of child is children.
+7,16,What is the past participle of eat in English?,eated,eaten,ate,ate,The past participle of eat is eaten.
+8,16,Which of the following is an irregular verb in the past tense?,talked,ate,played,ate,Ate is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,17,What is the feminine form of actor in English?,actoress,actorina,actorista,actress,The feminine form of actor is actress.
+2,17,Which of the following is a synonym for big?,small,tiny,large,large,Big and large are synonyms both indicating a significant size.
+3,17,What is the past tense of run in English?,runned,ranned,ran,ran,The past tense of run is ran.
+4,17,What is the superlative form of bad in English?,worst,badder,more bad,worst,The superlative form of bad is worst.
+5,17,Which of the following is a conjunction?,house,walk,and,and,And is a conjunction used to connect words phrases or clauses.
+6,17,What is the plural form of mouse in English?,mouses,mousen,mice,mice,The plural form of mouse is mice.
+7,17,What is the past participle of drink in English?,drinked,drank,drunk,drunk,The past participle of drink is drunk.
+8,17,Which of the following is an irregular verb in the past tense?,played,broke,talked,broke,Broke is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,18,What is the comparative form of far in English?,more far,farrer,further,further,The comparative form of far is further.
+2,18,Which of the following is a synonym for sad?,glad,miserable,happy,miserable,Sad and miserable are synonyms both indicating a low mood.
+3,18,What is the past tense of give in English?,gave,gived,given,gave,The past tense of give is gave.
+4,18,What is the superlative form of good in English?,more good,gooder,best,best,The superlative form of good is best.
+5,18,Which of the following is a preposition?,jump,under,play,under,Under is a preposition indicating position beneath something.
+6,18,What is the plural form of goose in English?,geeses,goose,geese,geese,The plural form of goose is geese.
+7,18,What is the past participle of see in English?,seed,seen,saw,seen,The past participle of see is seen.
+8,18,Which of the following is an irregular verb in the past tense?,bought,washed,talked,bought,Bought is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,19,What is the feminine form of king in English?,queeness,kiness,kingette,queen,The feminine form of king is queen.
+2,19,Which of the following is a synonym for cold?,hot,chilly,cool,chilly,Cold and chilly are synonyms both indicating low temperature.
+3,19,What is the past tense of sing in English?,singged,singed,sang,sang,The past tense of sing is sang.
+4,19,What is the superlative form of tall in English?,tallest,taller,more tall,tallest,The superlative form of tall is tallest.
+5,19,Which of the following is a conjunction?,run,but,jump,but,But is a conjunction used to introduce a contrast or exception.
+6,19,What is the plural form of deer in English?,deers,deeran,deer,deer,The plural form of deer is deer.
+7,19,What is the past participle of write in English?,writed,written,wrote,written,The past participle of write is written.
+8,19,Which of the following is an irregular verb in the past tense?,slept,cleaned,talked,slept,Slept is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,20,What is the comparative form of short in English?,shorterer,more short,shorter,shorter,The comparative form of short is shorter.
+2,20,Which of the following is a synonym for old?,new,elderly,young,elderly,Old and elderly are synonyms both indicating advanced age.
+3,20,What is the past tense of run in English?,runned,running,ran,ran,The past tense of run is ran.
+4,20,What is the superlative form of far in English?,more far,farther,fur,furthest,The superlative form of far is furthest.
+5,20,Which of the following is a preposition?,sing,dance,hover,over,Over is a preposition indicating position above or covering.
+6,20,What is the plural form of foot in English?,foots,footies,feat,feet,The plural form of foot is feet.
+7,20,What is the past participle of speak in English?,speaked,speaken,spoke,spoken,The past participle of speak is spoken.
+8,20,Which of the following is an irregular verb in the past tense?,played,talked,went,sang,Sang is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,21,What is the plural form of ox in English?,oxes,oxies,oxers,oxen,The plural form of ox is oxen.
+2,21,Which of the following is a synonym for brave?,cowardly,timid,fearful,fearless,Brave and fearless are synonyms both indicating courage.
+3,21,What is the past tense of drive in English?,driven,drived,droven,drove,The past tense of drive is drove.
+4,21,What is the comparative form of strong in English?,more strong,strongest,powerful,stronger,The comparative form of strong is stronger.
+5,21,Which of the following is a conjunction?,run,jump,the,but,But is a conjunction used to connect contrasting ideas or clauses.
+6,21,What is the plural form of cactus in English?,cactuses,cactusses,cactis,cacti,The plural form of cactus is cacti.
+7,21,What is the past participle of take in English?,took,tooken,taked,taken,The past participle of take is taken.
+8,21,Which of the following is an irregular verb in the past tense?,talked,walked,played,sang,Sang is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,22,What is the feminine form of hero in English?,heroin,heroess,heron,heroine,The feminine form of hero is heroine.
+2,22,Which of the following is a synonym for wealthy?,poor,broke,money,rich,Wealthy and rich are synonyms both indicating having a lot of money or possessions.
+3,22,What is the past tense of begin in English?,begun,beginned,beg,began,The past tense of begin is began.
+4,22,What is the superlative form of narrow in English?,narrower,narrow,more narrow,narrowest,The superlative form of narrow is narrowest.
+5,22,Which of the following is a preposition?,jump,run,apple,between,Between is a preposition indicating position in the middle of two things.
+6,22,What is the plural form of deer in English?,deerses,deerien,deers,deer,The plural form of deer is deer.
+7,22,What is the past participle of swim in English?,swimmer,swimed,swam,swum,The past participle of swim is swum.
+8,22,Which of the following is an irregular verb in the past tense?,talked,learned,walked,ate,Ate is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,23,What is the comparative form of clever in English?,most clever,cleverest,cleverer,more clever,The comparative form of clever is more clever.
+2,23,Which of the following is a synonym for angry?,happy,calm,sad,mad,Angry and mad are synonyms both indicating a strong feeling of displeasure.
+3,23,What is the past tense of know in English?,know,knowed,known,knew,The past tense of know is knew.
+4,23,What is the superlative form of tall in English?,more tall,most tall,taller,tallest,The superlative form of tall is tallest.
+5,23,Which of the following is a preposition?,sit,stand,side,beside,Beside is a preposition indicating position next to something.
+6,23,What is the plural form of foot in English?,feat,feeten,foots,feet,The plural form of foot is feet.
+7,23,What is the past participle of give in English?,gave,gived,giver,given,The past participle of give is given.
+8,23,Which of the following is an irregular verb in the past tense?,bought,written,talked,wrote,Wrote is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,24,What is the comparative form of fast in English?,more fast,fastest,most fast,faster,The comparative form of fast is faster.
+2,24,Which of the following is a synonym for quiet?,loud,noisy,quite,silent,Quiet and silent are synonyms both indicating a lack of noise.
+3,24,What is the past tense of think in English?,thinken,thunk,thinked,thought,The past tense of think is thought.
+4,24,What is the superlative form of heavy in English?,more heavy,most heavy,heavier,heaviest,The superlative form of heavy is heaviest.
+5,24,Which of the following is a conjunction?,jump,though,sit,although,Although is a conjunction used to introduce a contrasting clause.
+6,24,What is the plural form of knife in English?,knifeses,knife,knifes,knives,The plural form of knife is knives.
+7,24,What is the past participle of break in English?,broked,breaked,broke,broken,The past participle of break is broken.
+8,24,Which of the following is an irregular verb in the past tense?,talked,sleeped,washed,slept,Slept is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,25,What is the comparative form of bright in English?,more bright,brightest,most bright,brighter,The comparative form of bright is brighter.
+2,25,Which of the following is a synonym for quick?,slow,speedy,hurry,fast,Quick and fast are synonyms both indicating high speed.
+3,25,What is the past tense of draw in English?,drewn,drawn,drawed,drew,The past tense of draw is drew.
+4,25,What is the superlative form of far in English?,more far,farther,farrer,farthest,The superlative form of far is farthest.
+5,25,Which of the following is a preposition?,sing,more,dance,below,Below is a preposition indicating position beneath something.
+6,25,What is the plural form of tooth in English?,teethes,teeths,tooths,teeth,The plural form of tooth is teeth.
+7,25,What is the past participle of swim in English?,swimmer,swimmed,swam,swum,The past participle of swim is swum.
+8,25,Which of the following is an irregular verb in the past tense?,walked,played,sleeped,slept,Slept is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,26,What is the past participle of swim in English?,swam,dove,drowned,swum,The past participle of swim is swum.
+2,26,Which of the following is a synonym for eloquent?,inarticulate,rambunctious,verbose,articulate,Eloquent and articulate are synonyms both indicating the ability to express oneself effectively.
+3,26,What is the comparative form of intelligent in English?,intelligenter,intelligentest,smarter,more intelligent,The comparative form of intelligent is more intelligent.
+4,26,What is the superlative form of brave in English?,braver,more brave,bravestly,bravest,The superlative form of brave is bravest.
+5,26,Which of the following is an adverb?,happy,suddenly,book,quickly,Quickly is an adverb modifying the verb run to indicate speed.
+6,26,What is the plural form of criterion in English?,criterions,criterionses,criteriums,criteria,The plural form of criterion is criteria.
+7,26,What is the past participle of write in English?,writ,wrote,writted,written,The past participle of write is written.
+8,26,Which of the following is an irregular verb in the past tense?,talked,sang,builted,built,Built is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,27,What is the comparative form of beautiful in English?,beautifuler,beautifuller,prettier,more beautiful,The comparative form of beautiful is more beautiful.
+2,27,Which of the following is a synonym for courageous?,fearful,bold,cowardly,brave,Courageous and brave are synonyms both indicating a lack of fear in facing danger or difficulty.
+3,27,What is the past tense of shine in English?,shone,shoned,shun,shined,The past tense of shine is shined.
+4,27,What is the superlative form of expensive in English?,more expensive,expensiver,expensivest,most expensive,The superlative form of expensive is most expensive.
+5,27,Which of the following is an adverb?,kind,soft,table,softly,Softly is an adverb modifying the verb whisper to indicate the manner of speaking.
+6,27,What is the plural form of man in English?,mens,mans,menses,men,The plural form of man is men.
+7,27,What is the past participle of sing in English?,sanged,sang,sunged,sung,The past participle of sing is sung.
+8,27,Which of the following is an irregular verb in the past tense?,painted,played,walked,ran,Ran is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,28,What is the comparative form of clever in English?,cleverer,cleverest,smarter,more clever,The comparative form of clever is more clever.
+2,28,Which of the following is a synonym for persistent?,temporary,consistent,transitory,constant,Persistent and constant are synonyms both indicating a continuous or enduring quality.
+3,28,What is the past tense of freeze in English?,frozen,freezen,freezed,froze,The past tense of freeze is froze.
+4,28,What is the superlative form of funny in English?,funnier,most funny,more funny,funniest,The superlative form of funny is funniest.
+5,28,Which of the following is an adverb?,nice,hurry,apple,quickly,Quickly is an adverb modifying the verb run to indicate speed.
+6,28,What is the plural form of woman in English?,womans,womyn,wemen,women,The plural form of woman is women.
+7,28,What is the past participle of take in English?,took,taked,tooken,taken,The past participle of take is taken.
+8,28,Which of the following is an irregular verb in the past tense?,asked,taught,founded,found,Found is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,29,What is the comparative form of important in English?,importantest,importanter,most important,more important,The comparative form of important is more important.
+2,29,Which of the following is a synonym for resilient?,fragile,silent,weak,tough,Resilient and tough are synonyms both indicating the ability to recover quickly from difficulties.
+3,29,What is the past tense of shake in English?,shoke,shaked,shaken,shook,The past tense of shake is shook.
+4,29,What is the superlative form of difficult in English?,more difficult,difficulter,difficultest,most difficult,The superlative form of difficult is most difficult.
+5,29,Which of the following is an adverb?,good,slow,cat,slowly,Slowly is an adverb modifying the verb walk to indicate the manner of movement.
+6,29,What is the plural form of person in English?,person,persons,peoples,people,The plural form of person is people.
+7,29,What is the past participle of fall in English?,fell,falled,felt,fallen,The past participle of fall is fallen.
+8,29,Which of the following is an irregular verb in the past tense?,said,slept,fault,felt,Felt is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,30,What is the comparative form of efficient in English?,efficientest,efficenter,most efficient,more efficient,The comparative form of efficient is more efficient.
+2,30,Which of the following is a synonym for persistent?,temporary,consistent,transitory,constant,Persistent and constant are synonyms both indicating a continuous or enduring quality.
+3,30,What is the past tense of lead in English?,leded,leaded,lead,led,The past tense of lead is led.
+4,30,What is the superlative form of angry in English?,angrier,most angry,more angry,angriest,The superlative form of angry is angriest.
+5,30,Which of the following is an adverb?,nice,fast,book,quickly,Quickly is an adverb modifying the verb run to indicate speed.
+6,30,What is the plural form of child in English?,childen,childs,childses,children,The plural form of child is children.
+7,30,What is the past participle of draw in English?,drawed,drew,drewed,drawn,The past participle of draw is drawn.
+8,30,Which of the following is an irregular verb in the past tense?,played,taught,walked,told,Told is an irregular verb; its past tense does not follow the regular -ed pattern.
+1,31,Quel est le pluriel de chat en français ?,chatons,chates,chien,chats,En français pour former le pluriel de chat on ajoute un s.
+2,31,Quel est un synonyme de heureux en français ?,triste,mécontent,heureuse,heureux,Heureux et joyeux sont des synonymes ils ont des significations similaires.
+3,31,Quel est le passé composé de aller en français ?,allé,allais,est allé,allé,Le passé composé de aller est allé.
+4,31,Quel est le féminin de professeur en français ?,professeuse,professeurine,professeurien,professeure,Le féminin de professeur est professeure.
+5,31,Quelle est une préposition en français ?,courir,sauter,dans,sur,Sur est une préposition indiquant la position ou le lieu.
+6,31,Quel est le pluriel de chaise en français ?,chaisons,chaises,chaisettes,chou,Le pluriel de chaise est chaises.
+7,31,Quel est le participe passé de manger en français ?,mangé,mangeais,est mangé,mangé,Le participe passé de manger est mangé.
+8,31,Quel est un verbe irrégulier au passé composé en français ?,parlé,est parlé,mangé,mangé,Mangé est un verbe irrégulier ; son passé composé ne suit pas le modele régulier avec avoir.
+1,32,Quel est le féminin de chat en français ?,chateau,chatte,chat,chatte,Le féminin de chat est chatte.
+2,32,Quel est un synonyme de grand en français ?,petit,vaste,grandeur,vaste,Grand et vaste sont des synonymes tous deux indiquant une grande taille.
+3,32,Quel est le passé composé de dire en français ?,dit,dire,est dit,dit,Le passé composé de dire est dit.
+4,32,Quel est le superlatif de bon en français ?,meilleur,meilleure,plus bon,meilleur,Le superlatif de bon est meilleur.
+5,32,Quelle est une conjonction en français ?,maison,courir,et,et,Et est une conjonction utilisée pour relier des mots des phrases ou des propositions.
+6,32,Quel est le pluriel de voiture en français ?,voiturettes,voiture,voitureux,voiturettes,Le pluriel de voiture est voiturettes.
+7,32,Quel est le participe passé de lire en français ?,lu,lire,est lu,lu,Le participe passé de lire est lu.
+8,32,Quel est un verbe irrégulier au passé composé en français ?,parlé,est parlé,joué,joué,Joué est un verbe irrégulier ; son passé composé ne suit pas le modele régulier avec avoir.
+1,33,Quel est le comparatif de petit en français ?,moins petit,plus petit,petiter,plus petit,Le comparatif de petit est plus petit.
+2,33,Quel est un synonyme de triste en français ?,joyeux,heureux,mécontent,mécontent,Triste et mécontent sont des synonymes tous deux indiquant un état dhumeur bas.
+3,33,Quel est le passé composé de prendre en français ?,pris,prende,est pris,pris,Le passé composé de prendre est pris.
+4,33,Quel est le superlatif de mauvais en français ?,pire,plus mauvais,plus pire,pire,Le superlatif de mauvais est pire.
+5,33,Quelle est une préposition en français ?,marcher,sous,jouer,sous,Sous est une préposition indiquant la position en dessous de quelque chose.
+6,33,Quel est le pluriel de fleur en français ?,fleur,fleurs,fleuris,fleurs,Le pluriel de fleur est fleurs.
+7,33,Quel est le participe passé de vivre en français ?,vécu,vivant,est vécu,vécu,Le participe passé de vivre est vécu.
+8,33,Quel est un verbe irrégulier au passé composé en français ?,parlé,vendu,mangé,vendu,Vendu est un verbe irrégulier ; son passé composé ne suit pas le modele régulier avec avoir.
+1,34,Quel est le féminin de prince en français ?,princesse,princesseur,principale,princesse,Le féminin de prince est princesse.
+2,34,Quel est un synonyme de chaud en français ?,froid,brûlant,tiede,brûlant,Chaud et brûlant sont des synonymes tous deux indiquant une température élevée.
+3,34,Quel est le passé composé de voir en français ?,vu,vois,est vu,vu,Le passé composé de voir est vu.
+4,34,Quel est le superlatif de beau en français ?,beautifulest,plus beau,plus belle,plus beau,Le superlatif de beau est plus beau.
+5,34,Quelle est une conjonction en français ?,sauter,mais,courir,mais,Mais est une conjonction utilisée pour introduire une opposition ou une exception.
+6,34,Quel est le pluriel de livre en français ?,livres,livrés,livrets,livres,Le pluriel de livre est livres.
+7,34,Quel est le participe passé de boire en français ?,bu,buvais,buveur,bu,Le participe passé de boire est bu.
+8,34,Quel est un verbe irrégulier au passé composé en français ?,parlé,bu,mangé,bu,Bu est un verbe irrégulier ; son passé composé ne suit pas le modele régulier avec avoir.
+1,35,Quel est le comparatif de bon en français ?,meilleur,bonner,plus bon,meilleur,Le comparatif de bon est meilleur.
+2,35,Quel est un synonyme de vieux en français ?,nouveau,âgé,jeune,âgé,Vieux et âgé sont des synonymes tous deux indiquant un âge avancé.
+3,35,Quel est le passé composé de marcher en français ?,marché,marchais,marchée,marché,Le passé composé de marcher est marché.
+4,35,Quel est le superlatif de loin en français ?,plus loin,lointain,le plus loin,le plus loin,Le superlatif de loin est le plus loin.
+5,35,Quelle est une préposition en français ?,chanter,danser,flotter,sur,Sur est une préposition indiquant la position au-dessus ou recouvrant quelque chose.
+6,35,Quel est le pluriel de cheval en français ?,chevaux,chevals,chevaliers,chevaux,Le pluriel de cheval est chevaux.
+7,35,Quel est le participe passé de courir en français ?,couru,courais,courant,couru,Le participe passé de courir est couru.
+8,35,Quel est un verbe irrégulier au passé composé en français ?,parlé,mangé,allé,allé,Allé est un verbe irrégulier ; son passé composé ne suit pas le modele régulier avec avoir.
+1,36,Quel est le participe passé de connaître en français ?,connuis,connaisse,connais,connu,Le participe passé de connaître est connu.
+2,36,Quel est un synonyme de étonnant en français ?,surpant,banal,ordinaire,surprenant,Étonnant et surprenant sont des synonymes tous deux indiquant quelque chose de remarquable.
+3,36,Quel est le subjonctif présent du verbe avoir à la troisieme personne du singulier ?,aiute,aie,avons,ait,Le subjonctif présent du verbe avoir à la troisieme personne du singulier est ait.
+4,36,Quel est le futur simple du verbe pouvoir à la premiere personne du pluriel ?,pourrais,pourrions,pourront,pourrons,Le futur simple du verbe pouvoir à la premiere personne du pluriel est pourrons.
+5,36,Quelle est une locution conjonctive en français ?,comme,malgré que,tandis,tandis que,Tandis que est une locution conjonctive utilisée pour introduire une opposition entre deux propositions.
+6,36,Quel est le participe passé de écrire en français ?,écris,értus,écriture,écrit,Le participe passé de écrire est écrit.
+7,36,Quel est le conditionnel présent du verbe aller à la deuxieme personne du pluriel ?,iraient,ira,irezient,irez,Le conditionnel présent du verbe aller à la deuxieme personne du pluriel est irez.
+8,36,Quel est un verbe pronominal en français ?,parler,se parler,manger,se lever,Se lever est un verbe pronominal il nécessite lusage dun pronom réfléchi comme se ou me devant le verbe.
+1,37,Quel est le participe passé de recevoir en français ?,reçes,reçues,reçus,reçu,Le participe passé de recevoir est reçu.
+2,37,Quel est un synonyme de insupportable en français ?,tolérable,acceptable,intolérisable,intolérable,Insupportable et intolérable sont des synonymes tous deux indiquant quelque chose de difficile à supporter.
+3,37,Quel est limpératif présent du verbe finir à la deuxieme personne du singulier ?,finit,finised,finissez,finis,Limpératif présent du verbe finir à la deuxieme personne du singulier est finis.
+4,37,Quel est le plus-que-parfait du verbe vendre à la premiere personne du pluriel ?,vendions,vendions eu,avions vendu,avions vendu,Le plus-que-parfait du verbe vendre à la premiere personne du pluriel est avions vendu.
+5,37,Quelle est une locution prépositive en français ?,pour que,et puis,mais aussi,pour que,Pour que est une locution prépositive elle introduit une subordonnée exprimant le but de laction dans la proposition principale.
+6,37,Quel est le participe passé de mourir en français ?,mort,morte,mouru,mort,Le participe passé de mourir est mort.
+7,37,Quel est le conditionnel passé du verbe pouvoir à la troisieme personne du pluriel ?,auraient pu,auraient pouvoir,ont pu,auraient pu,Le conditionnel passé du verbe pouvoir à la troisieme personne du pluriel est auraient pu.
+8,37,Quel est un verbe transitif indirect en français ?,regarder,acheter,offrir,offrir,Offrir est un verbe transitif indirect il est suivi dun complément introduit par la préposition à.
+1,38,Quel est le participe passé de apprendre en français ?,appris,apprise,apprendu,appris,Le participe passé de apprendre est appris.
+2,38,Quel est un synonyme de prudent en français ?,téméraire,courageux,sage,sage,Prudent et sage sont des synonymes tous deux indiquant quelquun qui agit avec réflexion et précaution.
+3,38,Quel est limpératif présent du verbe conduire à la premiere personne du pluriel ?,conduisons,conduisez,conduissons,conduisons,Limpératif présent du verbe conduire à la premiere personne du pluriel est conduisons.
+4,38,Quel est le passé simple du verbe devoir à la troisieme personne du singulier ?,devait,doit,dut,dut,Le passé simple du verbe devoir à la troisieme personne du singulier est dut.
+5,38,Quelle est une locution conjonctive en français ?,apres que,selon,pourquoi,apres que,Apres que est une locution conjonctive utilisée pour introduire une proposition subordonnée exprimant une action postérieure à une autre action exprimée dans la proposition principale.
+6,38,Quel est le participe passé de naître en français ?,né,née,nait,né,Le participe passé de naître est né.
+7,38,Quel est le conditionnel passé du verbe voir à la deuxieme personne du singulier ?,aurais vu,aurais vue,as vu,aurais vu,Le conditionnel passé du verbe voir à la deuxieme personne du singulier est aurais vu.
+8,38,Quel est un verbe pronominal réfléchi en français ?,entendre,se tromper,arriver,se tromper,Se tromper est un verbe pronominal réfléchi il nécessite lusage dun pronom réfléchi se dans ce cas.
+1,39,Quel est le participe passé du verbe vaincre en français ?,vaincu,vaincre,vaincrait,vaincu,Le participe passé de vaincre est vaincu.
+2,39,Quel est un synonyme de épouvantable en français ?,effrayant,agréable,excellent,effrayant,Épouvantable et effrayant sont des synonymes tous deux indiquant quelque chose qui cause de la peur ou de leffroi.
+3,39,Quel est limpératif présent du verbe entendre à la deuxieme personne du singulier ?,entends,entendez,écoute,entends,Limpératif présent du verbe entendre à la deuxieme personne du singulier est entends.
+4,39,Quel est le passé antérieur du verbe parler à la premiere personne du pluriel ?,avons parlé,avons parler,avions parlé,avons parlé,Le passé antérieur du verbe parler à la premiere personne du pluriel est avons parlé.
+5,39,Quelle est une locution prépositive en français ?,parce que,donc,en outre,parce que,Parce que est une locution prépositive utilisée pour introduire une explication ou une justification à quelque chose.
+6,39,Quel est le participe passé du verbe mourir en français ?,morts,morte,mourant,morts,Le participe passé de mourir est morts.
+7,39,Quel est le conditionnel passé du verbe partir à la troisieme personne du pluriel ?,seraient partis,seraient parti,sont partis,seraient partis,Le conditionnel passé du verbe partir à la troisieme personne du pluriel est seraient partis.
+8,39,Quel est un verbe intransitif en français ?,acheter,envoyer,arriver,arriver,Arriver est un verbe intransitif il ne nécessite pas de complément dobjet direct pour compléter son sens.
+1,40,Quel est le participe passé du verbe comprendre en français ?,compris,comprise,comprenant,compris,Le participe passé de comprendre est compris.
+2,40,Quel est un synonyme de redoutable en français ?,formidable,agréable,adorable,formidable,Redoutable et formidable sont des synonymes tous deux indiquant quelque chose qui inspire la crainte ou ladmiration.
+3,40,Quel est limpératif présent du verbe voir à la deuxieme personne du pluriel ?,voyez,vois,voit,voyez,Limpératif présent du verbe voir à la deuxieme personne du pluriel est voyez.
+4,40,Quel est le passé antérieur du verbe prendre à la premiere personne du pluriel ?,avons pris,avons prendre,avions pris,avons pris,Le passé antérieur du verbe prendre à la premiere personne du pluriel est avons pris.
+5,40,Quelle est une locution conjonctive en français ?,sinon que,aussi,ou bien,sinon que,Sinon que est une locution conjonctive utilisée pour introduire une idée qui exprime une alternative ou une opposition à celle énoncée précédemment.
+6,40,Quel est le participe passé du verbe conduire en français ?,conduis,conduit,conduite,conduit,Le participe passé de conduire est conduit.
+7,40,Quel est le conditionnel passé du verbe savoir à la premiere personne du pluriel ?,aurions su,aurions su,avons su,aurions su,Le conditionnel passé du verbe savoir à la premiere personne du pluriel est aurions su.
+8,40,Quel est un verbe pronominal réciproque en français ?,sasseoir,saimer,se parler,se parler,Se parler est un verbe pronominal réciproque ou deux ou plusieurs sujets effectuent laction de se parler mutuellement.
+1,41,Quel est le participe passé du verbe devoir en français ?,dû,du,due,dû,Le participe passé du verbe devoir est dû.
+2,41,Quel est un synonyme de éphémere en français ?,passager,permanent,éternel,passager,Éphémere et passager sont des synonymes tous deux indiquant quelque chose de temporaire.
+3,41,Quel est le subjonctif présent du verbe savoir à la troisieme personne du singulier ?,sache,sais,savons,sache,Le subjonctif présent du verbe savoir à la troisieme personne du singulier est sache.
+4,41,Quel est le futur antérieur du verbe partir à la premiere personne du pluriel ?,serons partis,serons partie,seront partis,serons partis,Le futur antérieur du verbe partir à la premiere personne du pluriel est serons partis.
+5,41,Quelle est une locution conjonctive en français ?,pour que,ainsi que,tandis que,tandis que,Tandis que est une locution conjonctive utilisée pour exprimer une opposition entre deux actions ou deux états simultanés.
+6,41,Quel est le participe passé du verbe recevoir en français ?,reçu,reçue,reçut,reçu,Le participe passé du verbe recevoir est reçu.
+7,41,Quel est le conditionnel présent du verbe voir à la premiere personne du pluriel ?,verrions,verrions vu,voyions,verrions,Le conditionnel présent du verbe voir à la premiere personne du pluriel est verrions.
+8,41,Quel est un verbe pronominal réciproque en français ?,sentendre,se lever,sennuyer,sentendre,Sentendre est un verbe pronominal réciproque il indique une action mutuelle entre les sujets.
+1,42,Quel est le participe passé du verbe comprendre en français ?,compris,comprise,compru,compris,Le participe passé du verbe comprendre est compris.
+2,42,Quel est un synonyme de insolite en français ?,commun,habituel,inhabituel,inhabituel,Insolite et inhabituel sont des synonymes tous deux indiquant quelque chose qui sort de lordinaire.
+3,42,Quel est le subjonctif imparfait du verbe aller à la deuxieme personne du singulier ?,allasse,allais,allât,allasses,Le subjonctif imparfait du verbe aller à la deuxieme personne du singulier est allasses.
+4,42,Quel est le plus-que-parfait du verbe vivre à la troisieme personne du pluriel ?,avaient vécu,avaient vécues,avait vécu,avaient vécu,Le plus-que-parfait du verbe vivre à la troisieme personne du pluriel est avaient vécu.
+5,42,Quelle est une locution prépositive en français ?,en outre,pourquoi,de sorte que,en outre,En outre est une locution prépositive utilisée pour ajouter une information à ce qui a été dit précédemment.
+6,42,Quel est le participe passé du verbe rendre en français ?,rendu,rendue,rendut,rendu,Le participe passé du verbe rendre est rendu.
+7,42,Quel est le conditionnel passé du verbe faire à la deuxieme personne du singulier ?,aurais fait,aurais faite,as fait,aurais fait,Le conditionnel passé du verbe faire à la deuxieme personne du singulier est aurais fait.
+8,42,Quel est un verbe pronominal impersonnel en français ?,se taire,sarrêter,se demander,se taire,Se taire est un verbe pronominal impersonnel il na pas de sujet précis et est utilisé pour indiquer le silence ou labsence de bruit.
+1,43,Quel est le participe passé du verbe mourir en français ?,mort,morte,mourut,mort,Le participe passé du verbe mourir est mort.
+2,43,Quel est un synonyme de perplexe en français ?,clair,confus,compréhensible,confus,Perplexe et confus sont des synonymes tous deux indiquant un état dindécision ou de confusion.
+3,43,Quel est le subjonctif présent du verbe aller à la premiere personne du pluriel ?,allions,allons,aille,allions,Le subjonctif présent du verbe aller à la premiere personne du pluriel est allions.
+4,43,Quel est le passé simple du verbe prendre à la troisieme personne du singulier ?,prit,prendit,prenait,prit,Le passé simple du verbe prendre à la troisieme personne du singulier est prit.
+5,43,Quelle est une locution conjonctive en français ?,plutôt que,des que,car,plutôt que,Plutôt que est une locution conjonctive utilisée pour exprimer une alternative ou une préférence entre deux options.
+6,43,Quel est le participe passé du verbe éclater en français ?,éclaté,éclatée,éclata,éclaté,Le participe passé du verbe éclater est éclaté.
+7,43,Quel est le conditionnel passé du verbe finir à la troisieme personne du pluriel ?,auraient fini,auraient finies,ont fini,auraient fini,Le conditionnel passé du verbe finir à la troisieme personne du pluriel est auraient fini.
+8,43,Quel est un verbe pronominal réfléchi en français ?,sapercevoir,se promener,se regarder,sapercevoir,Sapercevoir est un verbe pronominal réfléchi il nécessite lusage dun pronom réfléchi pour indiquer que le sujet effectue laction sur lui-même.
+1,44,Quel est le participe passé du verbe construire en français ?,construit,construite,construis,construit,Le participe passé du verbe construire est construit.
+2,44,Quel est un synonyme de éloquent en français ?,bavard,parlant,loquent,loquent,Éloquent et loquent sont des synonymes tous deux indiquant une capacité à bien sexprimer.
+3,44,Quel est le subjonctif passé du verbe prendre à la premiere personne du pluriel ?,ayons pris,ayons prise,avons pris,ayons pris,Le subjonctif passé du verbe prendre à la premiere personne du pluriel est ayons pris.
+4,44,Quel est le passé antérieur du verbe lire à la troisieme personne du singulier ?,eut lu,eut lue,a lu,eut lu,Le passé antérieur du verbe lire à la troisieme personne du singulier est eut lu.
+5,44,Quelle est une locution prépositive en français ?,du fait que,bien que,de sorte que,du fait que,Du fait que est une locution prépositive utilisée pour introduire une cause ou une raison.
+6,44,Quel est le participe passé du verbe pouvoir en français ?,pu,pue,peut,pu,Le participe passé du verbe pouvoir est pu.
+7,44,Quel est le conditionnel présent du verbe prendre à la troisieme personne du pluriel ?,prendraient,prendrait,prendre,prendraient,Le conditionnel présent du verbe prendre à la troisieme personne du pluriel est prendraient.
+8,44,Quel est un verbe pronominal réfléchi en français ?,sarrêter,sentendre,sasseoir,sarrêter,Sarrêter est un verbe pronominal réfléchi il nécessite lusage dun pronom réfléchi pour indiquer que laction est réalisée par le sujet sur lui-même.
+1,45,Quel est le participe passé du verbe advenir en français ?,advenu,advenue,advint,advenu,Le participe passé du verbe advenir est advenu.
+2,45,Quel est un synonyme de réticent en français ?,bavard,silencieux,loquace,silencieux,Réticent et silencieux sont des synonymes tous deux indiquant quelquun qui parle peu ou qui exprime peu ses opinions.
+3,45,Quel est le subjonctif imparfait du verbe faire à la deuxieme personne du pluriel ?,fassiez,faisiez,fasse,fassiez,Le subjonctif imparfait du verbe faire à la deuxieme personne du pluriel est fassiez.
+4,45,Quel est le plus-que-parfait du verbe vivre à la premiere personne du pluriel ?,avions vécu,avions vécues,avaient vécu,avions vécu,Le plus-que-parfait du verbe vivre à la premiere personne du pluriel est avions vécu.
+5,45,Quelle est une locution conjonctive en français ?,bien que,comme si,plutôt que,bien que,Bien que est une locution conjonctive utilisée pour introduire une subordonnée exprimant une concession ou une opposition.
+6,45,Quel est le participe passé du verbe réfléchir en français ?,réfléchi,réfléchie,réfléchis,réfléchi,Le participe passé du verbe réfléchir est réfléchi.
+7,45,Quel est le conditionnel passé du verbe partir à la deuxieme personne du pluriel ?,seriez parti,seriez partie,avez parti,seriez parti,Le conditionnel passé du verbe partir à la deuxieme personne du pluriel est seriez parti.
+8,45,Quel est un verbe pronominal réfléchi en français ?,se reposer,se lever,se coucher,se reposer,Se reposer est un verbe pronominal réfléchi il indique une action que le sujet accomplit sur lui-même pour se détendre ou se relaxer.
+1,46,Quel est le pluriel de chat en français ?,chatons,chates,chien,chats,En français pour former le pluriel de chat on ajoute un s.
+2,46,Quel est un synonyme de heureux en français ?,triste,mécontent,heureuse,heureux,Heureux et joyeux sont des synonymes ils ont des significations similaires.
+3,46,Quel est le passé composé de aller en français ?,allé,allais,est allé,allé,Le passé composé de aller est allé.
+4,46,Quel est le féminin de professeur en français ?,professeuse,professeurine,professeurien,professeure,Le féminin de professeur est professeure.
+5,46,Quelle est une préposition en français ?,courir,sauter,dans,sur,Sur est une préposition indiquant la position ou le lieu.
+6,46,Quel est le pluriel de chaise en français ?,chaisons,chaises,chaisettes,chou,Le pluriel de chaise est chaises.
+7,46,Quel est le participe passé de manger en français ?,mangé,mangeais,est mangé,mangé,Le participe passé de manger est mangé.
+8,46,Quel est un verbe irrégulier au passé composé en français ?,parlé,est parlé,mangé,mangé,Mangé est un verbe irrégulier ; son passé composé ne suit pas le modele régulier avec avoir.
+1,47,Quel est le féminin de chat en français ?,chateau,chatte,chat,chatte,Le féminin de chat est chatte.
+2,47,Quel est un synonyme de grand en français ?,petit,vaste,grandeur,vaste,Grand et vaste sont des synonymes tous deux indiquant une grande taille.
+3,47,Quel est le passé composé de dire en français ?,dit,dire,est dit,dit,Le passé composé de dire est dit.
+4,47,Quel est le superlatif de bon en français ?,meilleur,meilleure,plus bon,meilleur,Le superlatif de bon est meilleur.
+5,47,Quelle est une conjonction en français ?,maison,courir,et,et,Et est une conjonction utilisée pour relier des mots des phrases ou des propositions.
+6,47,Quel est le pluriel de voiture en français ?,voiturettes,voiture,voitureux,voiturettes,Le pluriel de voiture est voiturettes.
+7,47,Quel est le participe passé de lire en français ?,lu,lire,est lu,lu,Le participe passé de lire est lu.
+8,47,Quel est un verbe irrégulier au passé composé en français ?,parlé,est parlé,joué,joué,Joué est un verbe irrégulier ; son passé composé ne suit pas le modele régulier avec avoir.
+1,48,Quel est le comparatif de petit en français ?,moins petit,plus petit,petiter,plus petit,Le comparatif de petit est plus petit.
+2,48,Quel est un synonyme de triste en français ?,joyeux,heureux,mécontent,mécontent,Triste et mécontent sont des synonymes tous deux indiquant un état dhumeur bas.
+3,48,Quel est le passé composé de prendre en français ?,pris,prende,est pris,pris,Le passé composé de prendre est pris.
+4,48,Quel est le superlatif de mauvais en français ?,pire,plus mauvais,plus pire,pire,Le superlatif de mauvais est pire.
+5,48,Quelle est une préposition en français ?,marcher,sous,jouer,sous,Sous est une préposition indiquant la position en dessous de quelque chose.
+6,48,Quel est le pluriel de fleur en français ?,fleur,fleurs,fleuris,fleurs,Le pluriel de fleur est fleurs.
+7,48,Quel est le participe passé de vivre en français ?,vécu,vivant,est vécu,vécu,Le participe passé de vivre est vécu.
+8,48,Quel est un verbe irrégulier au passé composé en français ?,parlé,vendu,mangé,vendu,Vendu est un verbe irrégulier ; son passé composé ne suit pas le modele régulier avec avoir.
+1,49,Quel est le féminin de prince en français ?,princesse,princesseur,principale,princesse,Le féminin de prince est princesse.
+2,49,Quel est un synonyme de chaud en français ?,froid,brûlant,tiede,brûlant,Chaud et brûlant sont des synonymes tous deux indiquant une température élevée.
+3,49,Quel est le passé composé de voir en français ?,vu,vois,est vu,vu,Le passé composé de voir est vu.
+4,49,Quel est le superlatif de beau en français ?,beautifulest,plus beau,plus belle,plus beau,Le superlatif de beau est plus beau.
+5,49,Quelle est une conjonction en français ?,sauter,mais,courir,mais,Mais est une conjonction utilisée pour introduire une opposition ou une exception.
+6,49,Quel est le pluriel de livre en français ?,livres,livrés,livrets,livres,Le pluriel de livre est livres.
+7,49,Quel est le participe passé de boire en français ?,bu,buvais,buveur,bu,Le participe passé de boire est bu.
+8,49,Quel est un verbe irrégulier au passé composé en français ?,parlé,bu,mangé,bu,Bu est un verbe irrégulier ; son passé composé ne suit pas le modele régulier avec avoir.
+1,50,Quel est le comparatif de bon en français ?,meilleur,bonner,plus bon,meilleur,Le comparatif de bon est meilleur.
+2,50,Quel est un synonyme de vieux en français ?,nouveau,âgé,jeune,âgé,Vieux et âgé sont des synonymes tous deux indiquant un âge avancé.
+3,50,Quel est le passé composé de marcher en français ?,marché,marchais,marchée,marché,Le passé composé de marcher est marché.
+4,50,Quel est le superlatif de loin en français ?,plus loin,lointain,le plus loin,le plus loin,Le superlatif de loin est le plus loin.
+5,50,Quelle est une préposition en français ?,chanter,danser,flotter,sur,Sur est une préposition indiquant la position au-dessus ou recouvrant quelque chose.
+6,50,Quel est le pluriel de cheval en français ?,chevaux,chevals,chevaliers,chevaux,Le pluriel de cheval est chevaux.
+7,50,Quel est le participe passé de courir en français ?,couru,courais,courant,couru,Le participe passé de courir est couru.
+8,50,Quel est un verbe irrégulier au passé composé en français ?,parlé,mangé,allé,allé,Allé est un verbe irrégulier ; son passé composé ne suit pas le modele régulier avec avoir.
+1,51,Quel est le participe passé de connaître en français ?,connuis,connaisse,connais,connu,Le participe passé de connaître est connu.
+2,51,Quel est un synonyme de étonnant en français ?,surpant,banal,ordinaire,surprenant,Étonnant et surprenant sont des synonymes tous deux indiquant quelque chose de remarquable.
+3,51,Quel est le subjonctif présent du verbe avoir à la troisieme personne du singulier ?,aiute,aie,avons,ait,Le subjonctif présent du verbe avoir à la troisieme personne du singulier est ait.
+4,51,Quel est le futur simple du verbe pouvoir à la premiere personne du pluriel ?,pourrais,pourrions,pourront,pourrons,Le futur simple du verbe pouvoir à la premiere personne du pluriel est pourrons.
+5,51,Quelle est une locution conjonctive en français ?,comme,malgré que,tandis,tandis que,Tandis que est une locution conjonctive utilisée pour introduire une opposition entre deux propositions.
+6,51,Quel est le participe passé de écrire en français ?,écris,értus,écriture,écrit,Le participe passé de écrire est écrit.
+7,51,Quel est le conditionnel présent du verbe aller à la deuxieme personne du pluriel ?,iraient,ira,irezient,irez,Le conditionnel présent du verbe aller à la deuxieme personne du pluriel est irez.
+8,51,Quel est un verbe pronominal en français ?,parler,se parler,manger,se lever,Se lever est un verbe pronominal il nécessite lusage dun pronom réfléchi comme se ou me devant le verbe.
+1,52,Quel est le participe passé de recevoir en français ?,reçes,reçues,reçus,reçu,Le participe passé de recevoir est reçu.
+2,52,Quel est un synonyme de insupportable en français ?,tolérable,acceptable,intolérisable,intolérable,Insupportable et intolérable sont des synonymes tous deux indiquant quelque chose de difficile à supporter.
+3,52,Quel est limpératif présent du verbe finir à la deuxieme personne du singulier ?,finit,finised,finissez,finis,Limpératif présent du verbe finir à la deuxieme personne du singulier est finis.
+4,52,Quel est le plus-que-parfait du verbe vendre à la premiere personne du pluriel ?,vendions,vendions eu,avions vendu,avions vendu,Le plus-que-parfait du verbe vendre à la premiere personne du pluriel est avions vendu.
+5,52,Quelle est une locution prépositive en français ?,pour que,et puis,mais aussi,pour que,Pour que est une locution prépositive elle introduit une subordonnée exprimant le but de laction dans la proposition principale.
+6,52,Quel est le participe passé de mourir en français ?,mort,morte,mouru,mort,Le participe passé de mourir est mort.
+7,52,Quel est le conditionnel passé du verbe pouvoir à la troisieme personne du pluriel ?,auraient pu,auraient pouvoir,ont pu,auraient pu,Le conditionnel passé du verbe pouvoir à la troisieme personne du pluriel est auraient pu.
+8,52,Quel est un verbe transitif indirect en français ?,regarder,acheter,offrir,offrir,Offrir est un verbe transitif indirect il est suivi dun complément introduit par la préposition à.
+1,53,Quel est le participe passé de apprendre en français ?,appris,apprise,apprendu,appris,Le participe passé de apprendre est appris.
+2,53,Quel est un synonyme de prudent en français ?,téméraire,courageux,sage,sage,Prudent et sage sont des synonymes tous deux indiquant quelquun qui agit avec réflexion et précaution.
+3,53,Quel est limpératif présent du verbe conduire à la premiere personne du pluriel ?,conduisons,conduisez,conduissons,conduisons,Limpératif présent du verbe conduire à la premiere personne du pluriel est conduisons.
+4,53,Quel est le passé simple du verbe devoir à la troisieme personne du singulier ?,devait,doit,dut,dut,Le passé simple du verbe devoir à la troisieme personne du singulier est dut.
+5,53,Quelle est une locution conjonctive en français ?,apres que,selon,pourquoi,apres que,Apres que est une locution conjonctive utilisée pour introduire une proposition subordonnée exprimant une action postérieure à une autre action exprimée dans la proposition principale.
+6,53,Quel est le participe passé de naître en français ?,né,née,nait,né,Le participe passé de naître est né.
+7,53,Quel est le conditionnel passé du verbe voir à la deuxieme personne du singulier ?,aurais vu,aurais vue,as vu,aurais vu,Le conditionnel passé du verbe voir à la deuxieme personne du singulier est aurais vu.
+8,53,Quel est un verbe pronominal réfléchi en français ?,entendre,se tromper,arriver,se tromper,Se tromper est un verbe pronominal réfléchi il nécessite lusage dun pronom réfléchi se dans ce cas.
+1,54,Quel est le participe passé du verbe vaincre en français ?,vaincu,vaincre,vaincrait,vaincu,Le participe passé de vaincre est vaincu.
+2,54,Quel est un synonyme de épouvantable en français ?,effrayant,agréable,excellent,effrayant,Épouvantable et effrayant sont des synonymes tous deux indiquant quelque chose qui cause de la peur ou de leffroi.
+3,54,Quel est limpératif présent du verbe entendre à la deuxieme personne du singulier ?,entends,entendez,écoute,entends,Limpératif présent du verbe entendre à la deuxieme personne du singulier est entends.
+4,54,Quel est le passé antérieur du verbe parler à la premiere personne du pluriel ?,avons parlé,avons parler,avions parlé,avons parlé,Le passé antérieur du verbe parler à la premiere personne du pluriel est avons parlé.
+5,54,Quelle est une locution prépositive en français ?,parce que,donc,en outre,parce que,Parce que est une locution prépositive utilisée pour introduire une explication ou une justification à quelque chose.
+6,54,Quel est le participe passé du verbe mourir en français ?,morts,morte,mourant,morts,Le participe passé de mourir est morts.
+7,54,Quel est le conditionnel passé du verbe partir à la troisieme personne du pluriel ?,seraient partis,seraient parti,sont partis,seraient partis,Le conditionnel passé du verbe partir à la troisieme personne du pluriel est seraient partis.
+8,54,Quel est un verbe intransitif en français ?,acheter,envoyer,arriver,arriver,Arriver est un verbe intransitif il ne nécessite pas de complément dobjet direct pour compléter son sens.
+1,55,Quel est le participe passé du verbe comprendre en français ?,compris,comprise,comprenant,compris,Le participe passé de comprendre est compris.
+2,55,Quel est un synonyme de redoutable en français ?,formidable,agréable,adorable,formidable,Redoutable et formidable sont des synonymes tous deux indiquant quelque chose qui inspire la crainte ou ladmiration.
+3,55,Quel est limpératif présent du verbe voir à la deuxieme personne du pluriel ?,voyez,vois,voit,voyez,Limpératif présent du verbe voir à la deuxieme personne du pluriel est voyez.
+4,55,Quel est le passé antérieur du verbe prendre à la premiere personne du pluriel ?,avons pris,avons prendre,avions pris,avons pris,Le passé antérieur du verbe prendre à la premiere personne du pluriel est avons pris.
+5,55,Quelle est une locution conjonctive en français ?,sinon que,aussi,ou bien,sinon que,Sinon que est une locution conjonctive utilisée pour introduire une idée qui exprime une alternative ou une opposition à celle énoncée précédemment.
+6,55,Quel est le participe passé du verbe conduire en français ?,conduis,conduit,conduite,conduit,Le participe passé de conduire est conduit.
+7,55,Quel est le conditionnel passé du verbe savoir à la premiere personne du pluriel ?,aurions su,aurions su,avons su,aurions su,Le conditionnel passé du verbe savoir à la premiere personne du pluriel est aurions su.
+8,55,Quel est un verbe pronominal réciproque en français ?,sasseoir,saimer,se parler,se parler,Se parler est un verbe pronominal réciproque ou deux ou plusieurs sujets effectuent laction de se parler mutuellement.
+1,56,Quel est le participe passé du verbe devoir en français ?,dû,du,due,dû,Le participe passé du verbe devoir est dû.
+2,56,Quel est un synonyme de éphémere en français ?,passager,permanent,éternel,passager,Éphémere et passager sont des synonymes tous deux indiquant quelque chose de temporaire.
+3,56,Quel est le subjonctif présent du verbe savoir à la troisieme personne du singulier ?,sache,sais,savons,sache,Le subjonctif présent du verbe savoir à la troisieme personne du singulier est sache.
+4,56,Quel est le futur antérieur du verbe partir à la premiere personne du pluriel ?,serons partis,serons partie,seront partis,serons partis,Le futur antérieur du verbe partir à la premiere personne du pluriel est serons partis.
+5,56,Quelle est une locution conjonctive en français ?,pour que,ainsi que,tandis que,tandis que,Tandis que est une locution conjonctive utilisée pour exprimer une opposition entre deux actions ou deux états simultanés.
+6,56,Quel est le participe passé du verbe recevoir en français ?,reçu,reçue,reçut,reçu,Le participe passé du verbe recevoir est reçu.
+7,56,Quel est le conditionnel présent du verbe voir à la premiere personne du pluriel ?,verrions,verrions vu,voyions,verrions,Le conditionnel présent du verbe voir à la premiere personne du pluriel est verrions.
+8,56,Quel est un verbe pronominal réciproque en français ?,sentendre,se lever,sennuyer,sentendre,Sentendre est un verbe pronominal réciproque il indique une action mutuelle entre les sujets.
+1,57,Quel est le participe passé du verbe comprendre en français ?,compris,comprise,compru,compris,Le participe passé du verbe comprendre est compris.
+2,57,Quel est un synonyme de insolite en français ?,commun,habituel,inhabituel,inhabituel,Insolite et inhabituel sont des synonymes tous deux indiquant quelque chose qui sort de lordinaire.
+3,57,Quel est le subjonctif imparfait du verbe aller à la deuxieme personne du singulier ?,allasse,allais,allât,allasses,Le subjonctif imparfait du verbe aller à la deuxieme personne du singulier est allasses.
+4,57,Quel est le plus-que-parfait du verbe vivre à la troisieme personne du pluriel ?,avaient vécu,avaient vécues,avait vécu,avaient vécu,Le plus-que-parfait du verbe vivre à la troisieme personne du pluriel est avaient vécu.
+5,57,Quelle est une locution prépositive en français ?,en outre,pourquoi,de sorte que,en outre,En outre est une locution prépositive utilisée pour ajouter une information à ce qui a été dit précédemment.
+6,57,Quel est le participe passé du verbe rendre en français ?,rendu,rendue,rendut,rendu,Le participe passé du verbe rendre est rendu.
+7,57,Quel est le conditionnel passé du verbe faire à la deuxieme personne du singulier ?,aurais fait,aurais faite,as fait,aurais fait,Le conditionnel passé du verbe faire à la deuxieme personne du singulier est aurais fait.
+8,57,Quel est un verbe pronominal impersonnel en français ?,se taire,sarrêter,se demander,se taire,Se taire est un verbe pronominal impersonnel il na pas de sujet précis et est utilisé pour indiquer le silence ou labsence de bruit.
+1,58,Quel est le participe passé du verbe mourir en français ?,mort,morte,mourut,mort,Le participe passé du verbe mourir est mort.
+2,58,Quel est un synonyme de perplexe en français ?,clair,confus,compréhensible,confus,Perplexe et confus sont des synonymes tous deux indiquant un état dindécision ou de confusion.
+3,58,Quel est le subjonctif présent du verbe aller à la premiere personne du pluriel ?,allions,allons,aille,allions,Le subjonctif présent du verbe aller à la premiere personne du pluriel est allions.
+4,58,Quel est le passé simple du verbe prendre à la troisieme personne du singulier ?,prit,prendit,prenait,prit,Le passé simple du verbe prendre à la troisieme personne du singulier est prit.
+5,58,Quelle est une locution conjonctive en français ?,plutôt que,des que,car,plutôt que,Plutôt que est une locution conjonctive utilisée pour exprimer une alternative ou une préférence entre deux options.
+6,58,Quel est le participe passé du verbe éclater en français ?,éclaté,éclatée,éclata,éclaté,Le participe passé du verbe éclater est éclaté.
+7,58,Quel est le conditionnel passé du verbe finir à la troisieme personne du pluriel ?,auraient fini,auraient finies,ont fini,auraient fini,Le conditionnel passé du verbe finir à la troisieme personne du pluriel est auraient fini.
+8,58,Quel est un verbe pronominal réfléchi en français ?,sapercevoir,se promener,se regarder,sapercevoir,Sapercevoir est un verbe pronominal réfléchi il nécessite lusage dun pronom réfléchi pour indiquer que le sujet effectue laction sur lui-même.
+1,59,Quel est le participe passé du verbe construire en français ?,construit,construite,construis,construit,Le participe passé du verbe construire est construit.
+2,59,Quel est un synonyme de éloquent en français ?,bavard,parlant,loquent,loquent,Éloquent et loquent sont des synonymes tous deux indiquant une capacité à bien sexprimer.
+3,59,Quel est le subjonctif passé du verbe prendre à la premiere personne du pluriel ?,ayons pris,ayons prise,avons pris,ayons pris,Le subjonctif passé du verbe prendre à la premiere personne du pluriel est ayons pris.
+4,59,Quel est le passé antérieur du verbe lire à la troisieme personne du singulier ?,eut lu,eut lue,a lu,eut lu,Le passé antérieur du verbe lire à la troisieme personne du singulier est eut lu.
+5,59,Quelle est une locution prépositive en français ?,du fait que,bien que,de sorte que,du fait que,Du fait que est une locution prépositive utilisée pour introduire une cause ou une raison.
+6,59,Quel est le participe passé du verbe pouvoir en français ?,pu,pue,peut,pu,Le participe passé du verbe pouvoir est pu.
+7,59,Quel est le conditionnel présent du verbe prendre à la troisieme personne du pluriel ?,prendraient,prendrait,prendre,prendraient,Le conditionnel présent du verbe prendre à la troisieme personne du pluriel est prendraient.
+8,59,Quel est un verbe pronominal réfléchi en français ?,sarrêter,sentendre,sasseoir,sarrêter,Sarrêter est un verbe pronominal réfléchi il nécessite lusage dun pronom réfléchi pour indiquer que laction est réalisée par le sujet sur lui-même.
+1,60,Quel est le participe passé du verbe advenir en français ?,advenu,advenue,advint,advenu,Le participe passé du verbe advenir est advenu.
+2,60,Quel est un synonyme de réticent en français ?,bavard,silencieux,loquace,silencieux,Réticent et silencieux sont des synonymes tous deux indiquant quelquun qui parle peu ou qui exprime peu ses opinions.
+3,60,Quel est le subjonctif imparfait du verbe faire à la deuxieme personne du pluriel ?,fassiez,faisiez,fasse,fassiez,Le subjonctif imparfait du verbe faire à la deuxieme personne du pluriel est fassiez.
+4,60,Quel est le plus-que-parfait du verbe vivre à la premiere personne du pluriel ?,avions vécu,avions vécues,avaient vécu,avions vécu,Le plus-que-parfait du verbe vivre à la premiere personne du pluriel est avions vécu.
+5,60,Quelle est une locution conjonctive en français ?,bien que,comme si,plutôt que,bien que,Bien que est une locution conjonctive utilisée pour introduire une subordonnée exprimant une concession ou une opposition.
+6,60,Quel est le participe passé du verbe réfléchir en français ?,réfléchi,réfléchie,réfléchis,réfléchi,Le participe passé du verbe réfléchir est réfléchi.
+7,60,Quel est le conditionnel passé du verbe partir à la deuxieme personne du pluriel ?,seriez parti,seriez partie,avez parti,seriez parti,Le conditionnel passé du verbe partir à la deuxieme personne du pluriel est seriez parti.
+8,60,Quel est un verbe pronominal réfléchi en français ?,se reposer,se lever,se coucher,se reposer,Se reposer est un verbe pronominal réfléchi il indique une action que le sujet accomplit sur lui-même pour se détendre ou se relaxer.
+1,61,Was ist die Pluralform von Buch auf Deutsch?,bücher,buchs,bibliotheken,buchs,Auf Deutsch bildet man den Plural von Buch indem man ein e hinzufügt.
+2,61,Welches der folgenden Wörter ist ein Synonym für glücklich?,traurig,zornig,fröhlich,traurig,Glücklich und fröhlich sind Synonyme sie haben ähnliche Bedeutungen.
+3,61,Was ist die Vergangenheitsform von gehen auf Deutsch?,geht,ging,gingen,ging,Die Vergangenheitsform von gehen auf Deutsch ist ging.
+4,61,Was ist die Komparativform von gut auf Deutsch?,besser,guter,mehr gut,besser,Die Komparativform von gut auf Deutsch ist besser.
+5,61,Welches der folgenden Wörter ist eine Präposition auf Deutsch?,laufen,springen,auf,auf,Auf ist eine Präposition die eine Position oder Lage angibt.
+6,61,Was ist die Pluralform von Kind auf Deutsch?,kinds,kinden,kinder,kinder,Die Pluralform von Kind auf Deutsch ist Kinder.
+7,61,Was ist das Partizip Perfekt von essen auf Deutsch?,gegessen,esst,aß,gegessen,Das Partizip Perfekt von essen auf Deutsch ist gegessen.
+8,61,Welches der folgenden Verben ist unregelmäßig im Präteritum?,gesprochen,gegessen,gespielt,gespielt,Gegessen ist ein unregelmäßiges Verb; sein Präteritum folgt nicht dem regulären -t Endungsmuster.
+1,62,Was ist die weibliche Form von Arzt auf Deutsch?,ärztin,arzta,arztesse,ärztin,Die weibliche Form von Arzt auf Deutsch ist Ärztin.
+2,62,Welches der folgenden Wörter ist ein Synonym für groß?,klein,winzig,groß,klein,Groß und groß sind Synonyme sie bedeuten eine beträchtliche Größe.
+3,62,Was ist die Vergangenheitsform von laufen auf Deutsch?,lief,liefen,läuft,lief,Die Vergangenheitsform von laufen auf Deutsch ist lief.
+4,62,Was ist die Superlativform von schlecht auf Deutsch?,schlechtest,schlechter,mehr schlecht,schlechtest,Die Superlativform von schlecht auf Deutsch ist schlechtest.
+5,62,Welches der folgenden Wörter ist eine Konjunktion auf Deutsch?,haus,gehen,und,haus,Und ist eine Konjunktion die Wörter Phrasen oder Sätze verbindet.
+6,62,Was ist die Pluralform von Maus auf Deutsch?,mäuse,mausen,mäusen,mäuse,Die Pluralform von Maus auf Deutsch ist Mäuse.
+7,62,Was ist das Partizip Perfekt von trinken auf Deutsch?,getrunken,trank,trinkte,getrunken,Das Partizip Perfekt von trinken auf Deutsch ist getrunken.
+8,62,Welches der folgenden Verben ist unregelmäßig im Präteritum?,gespielt,gebrochen,gesprochen,gebrochen,Gebrochen ist ein unregelmäßiges Verb; sein Präteritum folgt nicht dem regulären -t Endungsmuster.
+1,63,Was ist die Komparativform von weit auf Deutsch?,mehr weit,weiter,weit,weiter,Die Komparativform von weit auf Deutsch ist weiter.
+2,63,Welches der folgenden Wörter ist ein Synonym für traurig?,fröhlich,elend,glücklich,elend,Traurig und elend sind Synonyme sie zeigen beide eine niedrige Stimmung an.
+3,63,Was ist die Vergangenheitsform von geben auf Deutsch?,gab,gegeben,gebte,gab,Die Vergangenheitsform von geben auf Deutsch ist gab.
+4,63,Was ist die Superlativform von gut auf Deutsch?,mehr gut,besser,beste,beste,Die Superlativform von gut auf Deutsch ist beste.
+5,63,Welches der folgenden Wörter ist eine Präposition auf Deutsch?,tanzen,spielen,unter,unter,Unter ist eine Präposition die eine Position unter etwas angibt.
+6,63,Was ist die Pluralform von Gans auf Deutsch?,gänsen,gans,gänse,gänse,Die Pluralform von Gans auf Deutsch ist Gänse.
+7,63,Was ist das Partizip Perfekt von sehen auf Deutsch?,sah,gesehen,gesicht,gesehen,Das Partizip Perfekt von sehen auf Deutsch ist gesehen.
+8,63,Welches der folgenden Verben ist unregelmäßig im Präteritum?,gekauft,gewaschen,gesprochen,gekauft,Gekauft ist ein unregelmäßiges Verb; sein Präteritum folgt nicht dem regulären -t Endungsmuster.
+1,64,Was ist die weibliche Form von König auf Deutsch?,königin,königes,königette,königin,Die weibliche Form von König auf Deutsch ist Königin.
+2,64,Welches der folgenden Wörter ist ein Synonym für kalt?,heiß,fröstlich,kühl,heiß,Kalt und fröstlich sind Synonyme sie zeigen beide eine niedrige Temperatur an.
+3,64,Was ist die Vergangenheitsform von singen auf Deutsch?,sung,sang,gesungen,sang,Die Vergangenheitsform von singen auf Deutsch ist sang.
+4,64,Was ist die Superlativform von groß auf Deutsch?,größte,größer,mehr groß,größte,Die Superlativform von groß auf Deutsch ist größte.
+5,64,Welches der folgenden Wörter ist eine Konjunktion auf Deutsch?,rennen,aber,springen,aber,Aber ist eine Konjunktion die einen Kontrast oder eine Ausnahme einführt.
+6,64,Was ist die Pluralform von Hirsch auf Deutsch?,hirsche,hirschen,hirschen,hirsche,Die Pluralform von Hirsch auf Deutsch ist Hirsche.
+7,64,Was ist das Partizip Perfekt von schreiben auf Deutsch?,geschrieben,schrieb,schreibt,geschrieben,Das Partizip Perfekt von schreiben auf Deutsch ist geschrieben.
+8,64,Welches der folgenden Verben ist unregelmäßig im Präteritum?,geschlafen,gereinigt,gesprochen,geschlafen,Geschlafen ist ein unregelmäßiges Verb; sein Präteritum folgt nicht dem regulären -t Endungsmuster.
+1,65,Was ist die Komparativform von kurz auf Deutsch?,kürzer,mehr kurz,kurzer,kürzer,Die Komparativform von kurz auf Deutsch ist kürzer.
+2,65,Welches der folgenden Wörter ist ein Synonym für alt?,neu,älter,jung,älter,Alt und älter sind Synonyme sie zeigen beide ein höheres Alter an.
+3,65,Was ist die Vergangenheitsform von laufen auf Deutsch?,lief,liefen,läuft,lief,Die Vergangenheitsform von laufen auf Deutsch ist lief.
+4,65,Was ist die Superlativform von weit auf Deutsch?,mehr weit,weiter,weit,weitesten,Die Superlativform von weit auf Deutsch ist weitesten.
+5,65,Welches der folgenden Wörter ist eine Präposition auf Deutsch?,singen,tanzen,schweben,über,Über ist eine Präposition die eine Position über oder bedeckt angibt.
+6,65,Was ist die Pluralform von Fuß auf Deutsch?,füße,fußie,fuß,füße,Die Pluralform von Fuß auf Deutsch ist Füße.
+7,65,Was ist das Partizip Perfekt von sprechen auf Deutsch?,sprach,gesprochen,sprecht,gesprochen,Das Partizip Perfekt von sprechen auf Deutsch ist gesprochen.
+8,65,Welches der folgenden Verben ist unregelmäßig im Präteritum?,gespielt,gesprochen,gegangen,gesungen,Gesungen ist ein unregelmäßiges Verb; sein Präteritum folgt nicht dem regulären -t Endungsmuster.
+1,66,Was ist die korrekte Pluralform von Haus auf Deutsch?,häuser,häusen,hausen,häuser,Die Pluralform von Haus lautet Häuser.
+2,66,Welches Wort ist ein Synonym für erstaunlich?,unglaublich,normal,überraschend,unglaublich,Unglaublich ist ein Synonym für erstaunlich.
+3,66,Wie lautet der Plural von Lied auf Deutsch?,lieder,liedern,liedes,lieder,Der Plural von Lied ist Lieder.
+4,66,Was ist die Vergangenheitsform von lesen auf Deutsch?,lesste,les,las,las,Die Vergangenheitsform von lesen ist las.
+5,66,Welches der folgenden Wörter ist ein Synonym für freundlich?,feindlich,nett,fies,nett,Nett ist ein Synonym für freundlich.
+6,66,Was ist die richtige Komparativform von viel auf Deutsch?,vieller,mehr,mehr viel,mehr,Die Komparativform von viel ist mehr.
+7,66,Welches der folgenden Wörter ist ein Synonym für normal?,außergewöhnlich,gewöhnlich,ungewöhnlich,gewöhnlich,Gewöhnlich ist ein Synonym für normal.
+8,66,Was ist das Partizip Perfekt von vergessen auf Deutsch?,vergessen,vergass,vergossen,vergessen,Das Partizip Perfekt von vergessen ist vergessen.
+1,67,Was ist die weibliche Form von Arzt auf Deutsch?,ärztin,arztesse,ärztesse,ärztin,Die weibliche Form von Arzt ist Ärztin.
+2,67,Welches Wort ist ein Synonym für schwierig?,einfach,kompliziert,unmöglich,kompliziert,Kompliziert ist ein Synonym für schwierig.
+3,67,Wie lautet der Plural von Schule auf Deutsch?,schulen,schules,schul,schulen,Der Plural von Schule ist Schulen.
+4,67,Was ist die Vergangenheitsform von denken auf Deutsch?,dachte,dach,denk,dachte,Die Vergangenheitsform von denken ist dachte.
+5,67,Welches der folgenden Wörter ist ein Synonym für interessant?,langweilig,fesselnd,uninteressant,fesselnd,Fesselnd ist ein Synonym für interessant.
+6,67,Was ist die richtige Komparativform von wenig auf Deutsch?,weniger,kleiner,kleinig,weniger,Die Komparativform von wenig ist weniger.
+7,67,Welches der folgenden Wörter ist ein Synonym für ungewöhnlich?,normal,üblich,außergewöhnlich,außergewöhnlich,Außergewöhnlich ist ein Synonym für ungewöhnlich.
+8,67,Was ist das Partizip Perfekt von treffen auf Deutsch?,treft,getroffen,trafen,getroffen,Das Partizip Perfekt von treffen ist getroffen.
+1,68,Was ist die korrekte Pluralform von Maus auf Deutsch?,maüse,maüsen,mäuse,mäuse,Die Pluralform von Maus lautet Mäuse.
+2,68,Welches Wort ist ein Synonym für aufgeregt?,gelangweilt,nervös,entspannt,nervös,Nervös ist ein Synonym für aufgeregt.
+3,68,Wie lautet der Plural von Stadt auf Deutsch?,städt,städtisch,städte,städte,Der Plural von Stadt ist Städte.
+4,68,Was ist die Vergangenheitsform von finden auf Deutsch?,fand,funden,finde,fand,Die Vergangenheitsform von finden ist fand.
+5,68,Welches der folgenden Wörter ist ein Synonym für begeistert?,gelangweilt,interessiert,desinteressiert,interessiert,Interessiert ist ein Synonym für begeistert.
+6,68,Was ist die richtige Komparativform von schlecht auf Deutsch?,schlechter,böser,mehr schlecht,schlechter,Die Komparativform von schlecht ist schlechter.
+7,68,Welches der folgenden Wörter ist ein Synonym für normal?,üblich,ungewöhnlich,außergewöhnlich,üblich,Üblich ist ein Synonym für normal.
+8,68,Was ist das Partizip Perfekt von sehen auf Deutsch?,gesehen,sah,seh,gesehen,Das Partizip Perfekt von sehen ist gesehen.
+1,69,Was ist die weibliche Form von Prinz auf Deutsch?,prinzess,prinzin,prinzesse,prinzessin,Die weibliche Form von Prinz ist Prinzessin.
+2,69,Welches Wort ist ein Synonym für verwirrt?,klar,geordnet,durcheinander,durcheinander,Durcheinander ist ein Synonym für verwirrt.
+3,69,Wie lautet der Plural von Kuh auf Deutsch?,kühen,kühs,kühe,kühe,Der Plural von Kuh ist Kühe.
+4,69,Was ist die Vergangenheitsform von fliegen auf Deutsch?,flug,fliegte,flog,flog,Die Vergangenheitsform von fliegen ist flog.
+5,69,Welches der folgenden Wörter ist ein Synonym für neugierig?,gelangweilt,interessiert,desinteressiert,interessiert,Interessiert ist ein Synonym für neugierig.
+6,69,Was ist die richtige Komparativform von stark auf Deutsch?,starker,mehr stark,stärker,stärker,Die Komparativform von stark ist stärker.
+7,69,Welches der folgenden Wörter ist ein Synonym für fröhlich?,traurig,glücklich,verärgert,glücklich,Glücklich ist ein Synonym für fröhlich.
+8,69,Was ist das Partizip Perfekt von geben auf Deutsch?,gegeben,gab,gibt,gegeben,Das Partizip Perfekt von geben ist gegeben.
+1,70,Was ist die korrekte Pluralform von Geschenk auf Deutsch?,geschenken,geschenk,geschenke,geschenke,Die Pluralform von Geschenk lautet Geschenke.
+2,70,Welches Wort ist ein Synonym für eifrig?,faul,fleißig,träge,fleißig,Fleißig ist ein Synonym für eifrig.
+3,70,Wie lautet der Plural von Berg auf Deutsch?,berge,berg,bergen,berge,Der Plural von Berg ist Berge.
+4,70,Was ist die Vergangenheitsform von verlieren auf Deutsch?,verloren,verlor,verlierte,verlor,Die Vergangenheitsform von verlieren ist verlor.
+5,70,Welches der folgenden Wörter ist ein Synonym für aufgeregt?,ruhig,gelassen,nervös,nervös,Nervös ist ein Synonym für aufgeregt.
+6,70,Was ist die richtige Komparativform von dunkel auf Deutsch?,dunkler,mehr dunkel,dunklerer,dunkler,Die Komparativform von dunkel ist dunkler.
+7,70,Welches der folgenden Wörter ist ein Synonym für zufrieden?,unglücklich,glücklich,traurig,glücklich,Glücklich ist ein Synonym für zufrieden.
+8,70,Was ist das Partizip Perfekt von sitzen auf Deutsch?,gesessen,sitzte,sitzten,gesessen,Das Partizip Perfekt von sitzen ist gesessen.
+1,71,Was ist die korrekte Pluralform von Phänomen auf Deutsch?,Phanomene,Phänomenen,Phänomens,Phänomene,Die Pluralform von Phänomen lautet Phänomene.
+2,71,Welches Wort ist ein Synonym für facettenreich?,einfältig,eintönig,vielschichtig,vielschichtig,Vielschichtig ist ein Synonym für facettenreich.
+3,71,Wie lautet der Plural von Syndrom auf Deutsch?,Syndrome,Syndromen,Syndroms,Syndrome,Der Plural von Syndrom ist Syndrome.
+4,71,Was ist die Vergangenheitsform von unterbrechen auf Deutsch?,unterbrach,unterbricht,unterbrochen,unterbrach,Die Vergangenheitsform von unterbrechen ist unterbrach.
+5,71,Welches der folgenden Wörter ist ein Synonym für skrupellos?,gewissenhaft,unmoralisch,redlich,unmoralisch,Unmoralisch ist ein Synonym für skrupellos.
+6,71,Was ist die richtige Komparativform von komplex auf Deutsch?,komplexer,mehr komplex,komplexerer,komplexer,Die Komparativform von komplex ist komplexer.
+7,71,Welches der folgenden Wörter ist ein Synonym für exzentrisch?,normal,gewöhnlich,abweichend,abweichend,Abweichend ist ein Synonym für exzentrisch.
+8,71,Was ist das Partizip Perfekt von verlassen auf Deutsch?,verlassen,verließ,verließt,verlassen,Das Partizip Perfekt von verlassen ist verlassen.
+1,72,Was ist die weibliche Form von Mönch auf Deutsch?,mönchin,mönches,mönchette,mönchin,Die weibliche Form von Mönch ist Mönchin.
+2,72,Welches Wort ist ein Synonym für akribisch?,nachlässig,genau,unpräzise,genau,Genau ist ein Synonym für akribisch.
+3,72,Wie lautet der Plural von Index auf Deutsch?,Indexe,Indizes,Indexen,Indizes,Der Plural von Index ist Indizes.
+4,72,Was ist die Vergangenheitsform von sich ergeben auf Deutsch?,ergab,ergebt,ergibt,ergab,Die Vergangenheitsform von sich ergeben ist ergab.
+5,72,Welches der folgenden Wörter ist ein Synonym für kosmopolitisch?,lokal,global,regional,global,Global ist ein Synonym für kosmopolitisch.
+6,72,Was ist die richtige Komparativform von monoton auf Deutsch?,monotoner,mehr monoton,monotonerer,monotoner,Die Komparativform von monoton ist monotoner.
+7,72,Welches der folgenden Wörter ist ein Synonym für kontrovers?,beliebt,umstritten,unbestritten,umstritten,Umstritten ist ein Synonym für kontrovers.
+8,72,Was ist das Partizip Perfekt von überwinden auf Deutsch?,überwunden,überwand,überwindet,überwunden,Das Partizip Perfekt von überwinden ist überwunden.
+1,73,Was ist die korrekte Pluralform von Dilemma auf Deutsch?,Dilemmata,Dilemmas,Dilemmen,Dilemmata,Die Pluralform von Dilemma lautet Dilemmata.
+2,73,Welches Wort ist ein Synonym für verheerend?,positiv,vernichtend,aufbauend,vernichtend,Vernichtend ist ein Synonym für verheerend.
+3,73,Wie lautet der Plural von Phänomenon auf Deutsch?,Phänomenons,Phänomenonen,Phänomena,Phänomena,Der Plural von Phänomenon ist Phänomena.
+4,73,Was ist die Vergangenheitsform von ankommen auf Deutsch?,ankam,ankommte,ankommen,ankam,Die Vergangenheitsform von ankommen ist ankam.
+5,73,Welches der folgenden Wörter ist ein Synonym für radikal?,moderat,extrem,maßvoll,extrem,Extrem ist ein Synonym für radikal.
+6,73,Was ist die richtige Komparativform von kreativ auf Deutsch?,kreativer,mehr kreativ,kreativerer,kreativer,Die Komparativform von kreativ ist kreativer.
+7,73,Welches der folgenden Wörter ist ein Synonym für progressiv?,konservativ,fortschrittlich,traditionell,fortschrittlich,Fortschrittlich ist ein Synonym für progressiv.
+8,73,Was ist das Partizip Perfekt von überzeugen auf Deutsch?,überzeugt,überzeugen,überzeugt,überzeugt,Das Partizip Perfekt von überzeugen ist überzeugt.
+1,74,Was ist die weibliche Form von Papst auf Deutsch?,päpstin,papstette,papstessin,päpstin,Die weibliche Form von Papst ist Päpstin.
+2,74,Welches Wort ist ein Synonym für raffiniert?,simpel,raffgierig,raffiniert,raffiniert,Raffiniert ist ein Synonym für raffiniert.
+3,74,Wie lautet der Plural von Antagonist auf Deutsch?,Antagonisten,Antagonista,Antagonistum,Antagonisten,Der Plural von Antagonist ist Antagonisten.
+4,74,Was ist die Vergangenheitsform von aufgeben auf Deutsch?,gab auf,aufgegeben,gibt auf,gab auf,Die Vergangenheitsform von aufgeben ist gab auf.
+5,74,Welches der folgenden Wörter ist ein Synonym für gefährlich?,sicher,riskant,ungefährlich,riskant,Riskant ist ein Synonym für gefährlich.
+6,74,Was ist die richtige Komparativform von schön auf Deutsch?,schöner,mehr schön,schönerer,schöner,Die Komparativform von schön ist schöner.
+7,74,Welches der folgenden Wörter ist ein Synonym für vertraulich?,geheim,öffentlich,bekannt,geheim,Geheim ist ein Synonym für vertraulich.
+8,74,Was ist das Partizip Perfekt von bestehen auf Deutsch?,bestanden,besteht,bestand,bestanden,Das Partizip Perfekt von bestehen ist bestanden.
+1,75,Was ist die korrekte Pluralform von Chaos auf Deutsch?,Chaosse,Chaosen,Chaos,Chaos,Die Pluralform von Chaos lautet Chaos.
+2,75,Welches Wort ist ein Synonym für unanfechtbar?,fragwürdig,fragil,unwiderlegbar,unwiderlegbar,Unwiderlegbar ist ein Synonym für unanfechtbar.
+3,75,Wie lautet der Plural von Thema auf Deutsch?,Themen,Themata,Themas,Themen,Der Plural von Thema ist Themen.
+4,75,Was ist die Vergangenheitsform von begründen auf Deutsch?,begründete,begründen,begründet,begründete,Die Vergangenheitsform von begründen ist begründete.
+5,75,Welches der folgenden Wörter ist ein Synonym für kompliziert?,einfach,unverständlich,klar,unverständlich,Unverständlich ist ein Synonym für kompliziert.
+6,75,Was ist die richtige Komparativform von anspruchsvoll auf Deutsch?,anspruchsvoller,mehr anspruchsvoll,anspruchsvollerer,anspruchsvoller,Die Komparativform von anspruchsvoll ist anspruchsvoller.
+7,75,Welches der folgenden Wörter ist ein Synonym für taktvoll?,ungehobelt,rücksichtsvoll,unhöflich,rücksichtsvoll,Rücksichtsvoll ist ein Synonym für taktvoll.
+8,75,Was ist das Partizip Perfekt von erwarten auf Deutsch?,erwartet,erwartete,erwarten,erwartet,Das Partizip Perfekt von erwarten ist erwartet.
+1,76,Was ist die Pluralform von Buch auf Deutsch?,bücher,buchs,bibliotheken,buchs,Auf Deutsch bildet man den Plural von Buch indem man ein e hinzufügt.
+2,76,Welches der folgenden Wörter ist ein Synonym für glücklich?,traurig,zornig,fröhlich,traurig,Glücklich und fröhlich sind Synonyme sie haben ähnliche Bedeutungen.
+3,76,Was ist die Vergangenheitsform von gehen auf Deutsch?,geht,ging,gingen,ging,Die Vergangenheitsform von gehen auf Deutsch ist ging.
+4,76,Was ist die Komparativform von gut auf Deutsch?,besser,guter,mehr gut,besser,Die Komparativform von gut auf Deutsch ist besser.
+5,76,Welches der folgenden Wörter ist eine Präposition auf Deutsch?,laufen,springen,auf,auf,Auf ist eine Präposition die eine Position oder Lage angibt.
+6,76,Was ist die Pluralform von Kind auf Deutsch?,kinds,kinden,kinder,kinder,Die Pluralform von Kind auf Deutsch ist Kinder.
+7,76,Was ist das Partizip Perfekt von essen auf Deutsch?,gegessen,esst,aß,gegessen,Das Partizip Perfekt von essen auf Deutsch ist gegessen.
+8,76,Welches der folgenden Verben ist unregelmäßig im Präteritum?,gesprochen,gegessen,gespielt,gespielt,Gegessen ist ein unregelmäßiges Verb; sein Präteritum folgt nicht dem regulären -t Endungsmuster.
+1,77,Was ist die weibliche Form von Arzt auf Deutsch?,ärztin,arzta,arztesse,ärztin,Die weibliche Form von Arzt auf Deutsch ist Ärztin.
+2,77,Welches der folgenden Wörter ist ein Synonym für groß?,klein,winzig,groß,klein,Groß und groß sind Synonyme sie bedeuten eine beträchtliche Größe.
+3,77,Was ist die Vergangenheitsform von laufen auf Deutsch?,lief,liefen,läuft,lief,Die Vergangenheitsform von laufen auf Deutsch ist lief.
+4,77,Was ist die Superlativform von schlecht auf Deutsch?,schlechtest,schlechter,mehr schlecht,schlechtest,Die Superlativform von schlecht auf Deutsch ist schlechtest.
+5,77,Welches der folgenden Wörter ist eine Konjunktion auf Deutsch?,haus,gehen,und,haus,Und ist eine Konjunktion die Wörter Phrasen oder Sätze verbindet.
+6,77,Was ist die Pluralform von Maus auf Deutsch?,mäuse,mausen,mäusen,mäuse,Die Pluralform von Maus auf Deutsch ist Mäuse.
+7,77,Was ist das Partizip Perfekt von trinken auf Deutsch?,getrunken,trank,trinkte,getrunken,Das Partizip Perfekt von trinken auf Deutsch ist getrunken.
+8,77,Welches der folgenden Verben ist unregelmäßig im Präteritum?,gespielt,gebrochen,gesprochen,gebrochen,Gebrochen ist ein unregelmäßiges Verb; sein Präteritum folgt nicht dem regulären -t Endungsmuster.
+1,78,Was ist die Komparativform von weit auf Deutsch?,mehr weit,weiter,weit,weiter,Die Komparativform von weit auf Deutsch ist weiter.
+2,78,Welches der folgenden Wörter ist ein Synonym für traurig?,fröhlich,elend,glücklich,elend,Traurig und elend sind Synonyme sie zeigen beide eine niedrige Stimmung an.
+3,78,Was ist die Vergangenheitsform von geben auf Deutsch?,gab,gegeben,gebte,gab,Die Vergangenheitsform von geben auf Deutsch ist gab.
+4,78,Was ist die Superlativform von gut auf Deutsch?,mehr gut,besser,beste,beste,Die Superlativform von gut auf Deutsch ist beste.
+5,78,Welches der folgenden Wörter ist eine Präposition auf Deutsch?,tanzen,spielen,unter,unter,Unter ist eine Präposition die eine Position unter etwas angibt.
+6,78,Was ist die Pluralform von Gans auf Deutsch?,gänsen,gans,gänse,gänse,Die Pluralform von Gans auf Deutsch ist Gänse.
+7,78,Was ist das Partizip Perfekt von sehen auf Deutsch?,sah,gesehen,gesicht,gesehen,Das Partizip Perfekt von sehen auf Deutsch ist gesehen.
+8,78,Welches der folgenden Verben ist unregelmäßig im Präteritum?,gekauft,gewaschen,gesprochen,gekauft,Gekauft ist ein unregelmäßiges Verb; sein Präteritum folgt nicht dem regulären -t Endungsmuster.
+1,79,Was ist die weibliche Form von König auf Deutsch?,königin,königes,königette,königin,Die weibliche Form von König auf Deutsch ist Königin.
+2,79,Welches der folgenden Wörter ist ein Synonym für kalt?,heiß,fröstlich,kühl,heiß,Kalt und fröstlich sind Synonyme sie zeigen beide eine niedrige Temperatur an.
+3,79,Was ist die Vergangenheitsform von singen auf Deutsch?,sung,sang,gesungen,sang,Die Vergangenheitsform von singen auf Deutsch ist sang.
+4,79,Was ist die Superlativform von groß auf Deutsch?,größte,größer,mehr groß,größte,Die Superlativform von groß auf Deutsch ist größte.
+5,79,Welches der folgenden Wörter ist eine Konjunktion auf Deutsch?,rennen,aber,springen,aber,Aber ist eine Konjunktion die einen Kontrast oder eine Ausnahme einführt.
+6,79,Was ist die Pluralform von Hirsch auf Deutsch?,hirsche,hirschen,hirschen,hirsche,Die Pluralform von Hirsch auf Deutsch ist Hirsche.
+7,79,Was ist das Partizip Perfekt von schreiben auf Deutsch?,geschrieben,schrieb,schreibt,geschrieben,Das Partizip Perfekt von schreiben auf Deutsch ist geschrieben.
+8,79,Welches der folgenden Verben ist unregelmäßig im Präteritum?,geschlafen,gereinigt,gesprochen,geschlafen,Geschlafen ist ein unregelmäßiges Verb; sein Präteritum folgt nicht dem regulären -t Endungsmuster.
+1,80,Was ist die Komparativform von kurz auf Deutsch?,kürzer,mehr kurz,kurzer,kürzer,Die Komparativform von kurz auf Deutsch ist kürzer.
+2,80,Welches der folgenden Wörter ist ein Synonym für alt?,neu,älter,jung,älter,Alt und älter sind Synonyme sie zeigen beide ein höheres Alter an.
+3,80,Was ist die Vergangenheitsform von laufen auf Deutsch?,lief,liefen,läuft,lief,Die Vergangenheitsform von laufen auf Deutsch ist lief.
+4,80,Was ist die Superlativform von weit auf Deutsch?,mehr weit,weiter,weit,weitesten,Die Superlativform von weit auf Deutsch ist weitesten.
+5,80,Welches der folgenden Wörter ist eine Präposition auf Deutsch?,singen,tanzen,schweben,über,Über ist eine Präposition die eine Position über oder bedeckt angibt.
+6,80,Was ist die Pluralform von Fuß auf Deutsch?,füße,fußie,fuß,füße,Die Pluralform von Fuß auf Deutsch ist Füße.
+7,80,Was ist das Partizip Perfekt von sprechen auf Deutsch?,sprach,gesprochen,sprecht,gesprochen,Das Partizip Perfekt von sprechen auf Deutsch ist gesprochen.
+8,80,Welches der folgenden Verben ist unregelmäßig im Präteritum?,gespielt,gesprochen,gegangen,gesungen,Gesungen ist ein unregelmäßiges Verb; sein Präteritum folgt nicht dem regulären -t Endungsmuster.
+1,81,Was ist die korrekte Pluralform von Haus auf Deutsch?,häuser,häusen,hausen,häuser,Die Pluralform von Haus lautet Häuser.
+2,81,Welches Wort ist ein Synonym für erstaunlich?,unglaublich,normal,überraschend,unglaublich,Unglaublich ist ein Synonym für erstaunlich.
+3,81,Wie lautet der Plural von Lied auf Deutsch?,lieder,liedern,liedes,lieder,Der Plural von Lied ist Lieder.
+4,81,Was ist die Vergangenheitsform von lesen auf Deutsch?,lesste,les,las,las,Die Vergangenheitsform von lesen ist las.
+5,81,Welches der folgenden Wörter ist ein Synonym für freundlich?,feindlich,nett,fies,nett,Nett ist ein Synonym für freundlich.
+6,81,Was ist die richtige Komparativform von viel auf Deutsch?,vieller,mehr,mehr viel,mehr,Die Komparativform von viel ist mehr.
+7,81,Welches der folgenden Wörter ist ein Synonym für normal?,außergewöhnlich,gewöhnlich,ungewöhnlich,gewöhnlich,Gewöhnlich ist ein Synonym für normal.
+8,81,Was ist das Partizip Perfekt von vergessen auf Deutsch?,vergessen,vergass,vergossen,vergessen,Das Partizip Perfekt von vergessen ist vergessen.
+1,82,Was ist die weibliche Form von Arzt auf Deutsch?,ärztin,arztesse,ärztesse,ärztin,Die weibliche Form von Arzt ist Ärztin.
+2,82,Welches Wort ist ein Synonym für schwierig?,einfach,kompliziert,unmöglich,kompliziert,Kompliziert ist ein Synonym für schwierig.
+3,82,Wie lautet der Plural von Schule auf Deutsch?,schulen,schules,schul,schulen,Der Plural von Schule ist Schulen.
+4,82,Was ist die Vergangenheitsform von denken auf Deutsch?,dachte,dach,denk,dachte,Die Vergangenheitsform von denken ist dachte.
+5,82,Welches der folgenden Wörter ist ein Synonym für interessant?,langweilig,fesselnd,uninteressant,fesselnd,Fesselnd ist ein Synonym für interessant.
+6,82,Was ist die richtige Komparativform von wenig auf Deutsch?,weniger,kleiner,kleinig,weniger,Die Komparativform von wenig ist weniger.
+7,82,Welches der folgenden Wörter ist ein Synonym für ungewöhnlich?,normal,üblich,außergewöhnlich,außergewöhnlich,Außergewöhnlich ist ein Synonym für ungewöhnlich.
+8,82,Was ist das Partizip Perfekt von treffen auf Deutsch?,treft,getroffen,trafen,getroffen,Das Partizip Perfekt von treffen ist getroffen.
+1,83,Was ist die korrekte Pluralform von Maus auf Deutsch?,maüse,maüsen,mäuse,mäuse,Die Pluralform von Maus lautet Mäuse.
+2,83,Welches Wort ist ein Synonym für aufgeregt?,gelangweilt,nervös,entspannt,nervös,Nervös ist ein Synonym für aufgeregt.
+3,83,Wie lautet der Plural von Stadt auf Deutsch?,städt,städtisch,städte,städte,Der Plural von Stadt ist Städte.
+4,83,Was ist die Vergangenheitsform von finden auf Deutsch?,fand,funden,finde,fand,Die Vergangenheitsform von finden ist fand.
+5,83,Welches der folgenden Wörter ist ein Synonym für begeistert?,gelangweilt,interessiert,desinteressiert,interessiert,Interessiert ist ein Synonym für begeistert.
+6,83,Was ist die richtige Komparativform von schlecht auf Deutsch?,schlechter,böser,mehr schlecht,schlechter,Die Komparativform von schlecht ist schlechter.
+7,83,Welches der folgenden Wörter ist ein Synonym für normal?,üblich,ungewöhnlich,außergewöhnlich,üblich,Üblich ist ein Synonym für normal.
+8,83,Was ist das Partizip Perfekt von sehen auf Deutsch?,gesehen,sah,seh,gesehen,Das Partizip Perfekt von sehen ist gesehen.
+1,84,Was ist die weibliche Form von Prinz auf Deutsch?,prinzess,prinzin,prinzesse,prinzessin,Die weibliche Form von Prinz ist Prinzessin.
+2,84,Welches Wort ist ein Synonym für verwirrt?,klar,geordnet,durcheinander,durcheinander,Durcheinander ist ein Synonym für verwirrt.
+3,84,Wie lautet der Plural von Kuh auf Deutsch?,kühen,kühs,kühe,kühe,Der Plural von Kuh ist Kühe.
+4,84,Was ist die Vergangenheitsform von fliegen auf Deutsch?,flug,fliegte,flog,flog,Die Vergangenheitsform von fliegen ist flog.
+5,84,Welches der folgenden Wörter ist ein Synonym für neugierig?,gelangweilt,interessiert,desinteressiert,interessiert,Interessiert ist ein Synonym für neugierig.
+6,84,Was ist die richtige Komparativform von stark auf Deutsch?,starker,mehr stark,stärker,stärker,Die Komparativform von stark ist stärker.
+7,84,Welches der folgenden Wörter ist ein Synonym für fröhlich?,traurig,glücklich,verärgert,glücklich,Glücklich ist ein Synonym für fröhlich.
+8,84,Was ist das Partizip Perfekt von geben auf Deutsch?,gegeben,gab,gibt,gegeben,Das Partizip Perfekt von geben ist gegeben.
+1,85,Was ist die korrekte Pluralform von Geschenk auf Deutsch?,geschenken,geschenk,geschenke,geschenke,Die Pluralform von Geschenk lautet Geschenke.
+2,85,Welches Wort ist ein Synonym für eifrig?,faul,fleißig,träge,fleißig,Fleißig ist ein Synonym für eifrig.
+3,85,Wie lautet der Plural von Berg auf Deutsch?,berge,berg,bergen,berge,Der Plural von Berg ist Berge.
+4,85,Was ist die Vergangenheitsform von verlieren auf Deutsch?,verloren,verlor,verlierte,verlor,Die Vergangenheitsform von verlieren ist verlor.
+5,85,Welches der folgenden Wörter ist ein Synonym für aufgeregt?,ruhig,gelassen,nervös,nervös,Nervös ist ein Synonym für aufgeregt.
+6,85,Was ist die richtige Komparativform von dunkel auf Deutsch?,dunkler,mehr dunkel,dunklerer,dunkler,Die Komparativform von dunkel ist dunkler.
+7,85,Welches der folgenden Wörter ist ein Synonym für zufrieden?,unglücklich,glücklich,traurig,glücklich,Glücklich ist ein Synonym für zufrieden.
+8,85,Was ist das Partizip Perfekt von sitzen auf Deutsch?,gesessen,sitzte,sitzten,gesessen,Das Partizip Perfekt von sitzen ist gesessen.
+1,86,Was ist die korrekte Pluralform von Phänomen auf Deutsch?,Phanomene,Phänomenen,Phänomens,Phänomene,Die Pluralform von Phänomen lautet Phänomene.
+2,86,Welches Wort ist ein Synonym für facettenreich?,einfältig,eintönig,vielschichtig,vielschichtig,Vielschichtig ist ein Synonym für facettenreich.
+3,86,Wie lautet der Plural von Syndrom auf Deutsch?,Syndrome,Syndromen,Syndroms,Syndrome,Der Plural von Syndrom ist Syndrome.
+4,86,Was ist die Vergangenheitsform von unterbrechen auf Deutsch?,unterbrach,unterbricht,unterbrochen,unterbrach,Die Vergangenheitsform von unterbrechen ist unterbrach.
+5,86,Welches der folgenden Wörter ist ein Synonym für skrupellos?,gewissenhaft,unmoralisch,redlich,unmoralisch,Unmoralisch ist ein Synonym für skrupellos.
+6,86,Was ist die richtige Komparativform von komplex auf Deutsch?,komplexer,mehr komplex,komplexerer,komplexer,Die Komparativform von komplex ist komplexer.
+7,86,Welches der folgenden Wörter ist ein Synonym für exzentrisch?,normal,gewöhnlich,abweichend,abweichend,Abweichend ist ein Synonym für exzentrisch.
+8,86,Was ist das Partizip Perfekt von verlassen auf Deutsch?,verlassen,verließ,verließt,verlassen,Das Partizip Perfekt von verlassen ist verlassen.
+1,87,Was ist die weibliche Form von Mönch auf Deutsch?,mönchin,mönches,mönchette,mönchin,Die weibliche Form von Mönch ist Mönchin.
+2,87,Welches Wort ist ein Synonym für akribisch?,nachlässig,genau,unpräzise,genau,Genau ist ein Synonym für akribisch.
+3,87,Wie lautet der Plural von Index auf Deutsch?,Indexe,Indizes,Indexen,Indizes,Der Plural von Index ist Indizes.
+4,87,Was ist die Vergangenheitsform von sich ergeben auf Deutsch?,ergab,ergebt,ergibt,ergab,Die Vergangenheitsform von sich ergeben ist ergab.
+5,87,Welches der folgenden Wörter ist ein Synonym für kosmopolitisch?,lokal,global,regional,global,Global ist ein Synonym für kosmopolitisch.
+6,87,Was ist die richtige Komparativform von monoton auf Deutsch?,monotoner,mehr monoton,monotonerer,monotoner,Die Komparativform von monoton ist monotoner.
+7,87,Welches der folgenden Wörter ist ein Synonym für kontrovers?,beliebt,umstritten,unbestritten,umstritten,Umstritten ist ein Synonym für kontrovers.
+8,87,Was ist das Partizip Perfekt von überwinden auf Deutsch?,überwunden,überwand,überwindet,überwunden,Das Partizip Perfekt von überwinden ist überwunden.
+1,88,Was ist die korrekte Pluralform von Dilemma auf Deutsch?,Dilemmata,Dilemmas,Dilemmen,Dilemmata,Die Pluralform von Dilemma lautet Dilemmata.
+2,88,Welches Wort ist ein Synonym für verheerend?,positiv,vernichtend,aufbauend,vernichtend,Vernichtend ist ein Synonym für verheerend.
+3,88,Wie lautet der Plural von Phänomenon auf Deutsch?,Phänomenons,Phänomenonen,Phänomena,Phänomena,Der Plural von Phänomenon ist Phänomena.
+4,88,Was ist die Vergangenheitsform von ankommen auf Deutsch?,ankam,ankommte,ankommen,ankam,Die Vergangenheitsform von ankommen ist ankam.
+5,88,Welches der folgenden Wörter ist ein Synonym für radikal?,moderat,extrem,maßvoll,extrem,Extrem ist ein Synonym für radikal.
+6,88,Was ist die richtige Komparativform von kreativ auf Deutsch?,kreativer,mehr kreativ,kreativerer,kreativer,Die Komparativform von kreativ ist kreativer.
+7,88,Welches der folgenden Wörter ist ein Synonym für progressiv?,konservativ,fortschrittlich,traditionell,fortschrittlich,Fortschrittlich ist ein Synonym für progressiv.
+8,88,Was ist das Partizip Perfekt von überzeugen auf Deutsch?,überzeugt,überzeugen,überzeugt,überzeugt,Das Partizip Perfekt von überzeugen ist überzeugt.
+1,89,Was ist die weibliche Form von Papst auf Deutsch?,päpstin,papstette,papstessin,päpstin,Die weibliche Form von Papst ist Päpstin.
+2,89,Welches Wort ist ein Synonym für raffiniert?,simpel,raffgierig,raffiniert,raffiniert,Raffiniert ist ein Synonym für raffiniert.
+3,89,Wie lautet der Plural von Antagonist auf Deutsch?,Antagonisten,Antagonista,Antagonistum,Antagonisten,Der Plural von Antagonist ist Antagonisten.
+4,89,Was ist die Vergangenheitsform von aufgeben auf Deutsch?,gab auf,aufgegeben,gibt auf,gab auf,Die Vergangenheitsform von aufgeben ist gab auf.
+5,89,Welches der folgenden Wörter ist ein Synonym für gefährlich?,sicher,riskant,ungefährlich,riskant,Riskant ist ein Synonym für gefährlich.
+6,89,Was ist die richtige Komparativform von schön auf Deutsch?,schöner,mehr schön,schönerer,schöner,Die Komparativform von schön ist schöner.
+7,89,Welches der folgenden Wörter ist ein Synonym für vertraulich?,geheim,öffentlich,bekannt,geheim,Geheim ist ein Synonym für vertraulich.
+8,89,Was ist das Partizip Perfekt von bestehen auf Deutsch?,bestanden,besteht,bestand,bestanden,Das Partizip Perfekt von bestehen ist bestanden.
+1,90,Was ist die korrekte Pluralform von Chaos auf Deutsch?,Chaosse,Chaosen,Chaos,Chaos,Die Pluralform von Chaos lautet Chaos.
+2,90,Welches Wort ist ein Synonym für unanfechtbar?,fragwürdig,fragil,unwiderlegbar,unwiderlegbar,Unwiderlegbar ist ein Synonym für unanfechtbar.
+3,90,Wie lautet der Plural von Thema auf Deutsch?,Themen,Themata,Themas,Themen,Der Plural von Thema ist Themen.
+4,90,Was ist die Vergangenheitsform von begründen auf Deutsch?,begründete,begründen,begründet,begründete,Die Vergangenheitsform von begründen ist begründete.
+5,90,Welches der folgenden Wörter ist ein Synonym für kompliziert?,einfach,unverständlich,klar,unverständlich,Unverständlich ist ein Synonym für kompliziert.
+6,90,Was ist die richtige Komparativform von anspruchsvoll auf Deutsch?,anspruchsvoller,mehr anspruchsvoll,anspruchsvollerer,anspruchsvoller,Die Komparativform von anspruchsvoll ist anspruchsvoller.
+7,90,Welches der folgenden Wörter ist ein Synonym für taktvoll?,ungehobelt,rücksichtsvoll,unhöflich,rücksichtsvoll,Rücksichtsvoll ist ein Synonym für taktvoll.
+8,90,Was ist das Partizip Perfekt von erwarten auf Deutsch?,erwartet,erwartete,erwarten,erwartet,Das Partizip Perfekt von erwarten ist erwartet.
+1,91,Cual es el plural de libro en espanol?,libreros,libroses,bibliotecas,libros,En espanol para formar el plural de libro se agrega una s.
+2,91,Cual de los siguientes es un sinonimo de feliz?,triste,enojado,miserable,contento,Feliz y contento son sinonimos lo que significa que tienen significados similares.
+3,91,Cual es el pasado del verbo ir en espanol?,ido,iba,fui,voy,El pasado del verbo ir es fui.
+4,91,Cual es la forma comparativa de bueno en espanol?,mejor,bueno,mas bueno,bien,La forma comparativa de bueno es mejor.
+5,91,Cual de los siguientes es una preposicion?,correr,saltar,sobre,en,Sobre es una preposicion que indica ubicacion o posicion.
+6,91,Cual es el plural de nino en espanol?,nines,ninosen,ninoses,ninos,El plural de nino es ninos.
+7,91,Cual es el participio pasado del verbo comer en espanol?,comido,comia,comi,come,El participio pasado del verbo comer es comido.
+8,91,Cual de los siguientes es un verbo irregular en el pasado?,hablo,nado,jugo,comio,Comio es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,92,Cual es el plural de perro en espanol?,perres,perroses,perritos,perros,En espanol para formar el plural de perro se agrega una s.
+2,92,Cual de los siguientes es un sinonimo de grande?,pequeno,chico,enorme,grande,Grande y enorme son sinonimos lo que significa que tienen significados similares.
+3,92,Cual es el pasado del verbo hacer en espanol?,hizo,hacia,hice,hace,El pasado del verbo hacer es hice.
+4,92,Cual es la forma comparativa de malo en espanol?,peor,malo,mas malo,mal,La forma comparativa de malo es peor.
+5,92,Cual de los siguientes es una preposicion?,cantar,bailar,sobre,debajo,Sobre es una preposicion que indica ubicacion o posicion.
+6,92,Cual es el plural de mujer en espanol?,mujeres,mujers,mujerias,mujos,El plural de mujer es mujeres.
+7,92,Cual es el participio pasado del verbo vivir en espanol?,vivido,vivia,vivi,vivo,El participio pasado del verbo vivir es vivido.
+8,92,Cual de los siguientes es un verbo irregular en el pasado?,hablaba,nadar,jugaba,beber,Beber es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,93,Cual es el plural de gato en espanol?,gatitos,gatetes,gates,gatos,En espanol para formar el plural de gato se agrega una s.
+2,93,Cual de los siguientes es un sinonimo de triste?,feliz,alegre,lloroso,triste,Triste y lloroso son sinonimos lo que significa que tienen significados similares.
+3,93,Cual es el pasado del verbo tener en espanol?,tenido,tenia,tuve,tengo,El pasado del verbo tener es tuve.
+4,93,Cual es la forma comparativa de pequeno en espanol?,mas pequeno,pequeno,menos pequeno,pequenito,La forma comparativa de pequeno es mas pequeno.
+5,93,Cual de los siguientes es una preposicion?,correr,caminar,sobre,entre,Entre es una preposicion que indica relacion o posicion entre dos o mas elementos.
+6,93,Cual es el plural de estudiante en espanol?,estudientes,estudiantitos,estudiantes,estudianos,El plural de estudiante es estudiantes.
+7,93,Cual es el participio pasado del verbo escribir en espanol?,escrito,escribia,escribido,escribo,El participio pasado del verbo escribir es escrito.
+8,93,Cual de los siguientes es un verbo irregular en el pasado?,hablo,nado,jugo,escribio,Escribio es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,94,Cual es el plural de mesa en espanol?,mesas,mesitas,meses,mesotes,En espanol para formar el plural de mesa se agrega una s.
+2,94,Cual de los siguientes es un sinonimo de bonito?,feo,hermoso,desagradable,bonito,Bonito y hermoso son sinonimos lo que significa que tienen significados similares.
+3,94,Cual es el pasado del verbo decir en espanol?,dicho,decia,dije,digo,El pasado del verbo decir es dije.
+4,94,Cual es la forma comparativa de feo en espanol?,mas feo,feo,menos feo,feito,La forma comparativa de feo es mas feo.
+5,94,Cual de los siguientes es una preposicion?,jugar,leer,sobre,bajo,Bajo es una preposicion que indica ubicacion o posicion.
+6,94,Cual es el plural de arbol en espanol?,arbolos,arbolitos,arboles,arbolos,El plural de arbol es arboles.
+7,94,Cual es el participio pasado del verbo hablar en espanol?,hablado,hablaba,hablido,hablo,El participio pasado del verbo hablar es hablado.
+8,94,Cual de los siguientes es un verbo irregular en el pasado?,salto,nado,jugo,hablo,Hablo es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,95,Cual es el plural de casa en espanol?,casitas,casotas,casos,casas,En espanol para formar el plural de casa se agrega una s.
+2,95,Cual de los siguientes es un sinonimo de cansado?,energético,fatigado,descansado,cansado,Cansado y fatigado son sinonimos lo que significa que tienen significados similares.
+3,95,Cual es el pasado del verbo ver en espanol?,veia,vio,vi,veo,El pasado del verbo ver es vi.
+4,95,Cual es la forma comparativa de rapido en espanol?,mas rapido,rapido,menos rapido,rapidito,La forma comparativa de rapido es mas rapido.
+5,95,Cual de los siguientes es una preposicion?,bailar,nadar,sobre,dentro,Dentro es una preposicion que indica ubicacion o posicion.
+6,95,Cual es el plural de mano en espanol?,manitos,manazos,manes,manos,El plural de mano es manos.
+7,95,Cual es el participio pasado del verbo romper en espanol?,roto,rompia,rompido,rompe,El participio pasado del verbo romper es roto.
+8,95,Cual de los siguientes es un verbo irregular en el pasado?,saltaba,nadaba,jugar,rompia,Rompia es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,96,Cual es el plural de flor en espanol?,flores,florecitas,floretes,florones,En espanol para formar el plural de flor se agrega una s.
+2,96,Cual de los siguientes es un sinonimo de oscuro?,brillante,claro,tenebroso,oscuro,Oscuro y tenebroso son sinonimos lo que significa que tienen significados similares.
+3,96,Cual es el pasado del verbo ser en espanol?,soy,era,fui,seré,El pasado del verbo ser es fui.
+4,96,Cual es la forma comparativa de grande en espanol?,mas grande,grande,menos grande,grandote,La forma comparativa de grande es mas grande.
+5,96,Cual de los siguientes es una preposicion?,cantar,bailar,sobre,debajo,Sobre es una preposicion que indica ubicacion o posicion.
+6,96,Cual es el plural de lapiz en espanol?,lapices,lapicitos,lapizos,lapizes,El plural de lapiz es lapices.
+7,96,Cual es el participio pasado del verbo correr en espanol?,corrido,corria,corriente,corre,El participio pasado del verbo correr es corrido.
+8,96,Cual de los siguientes es un verbo irregular en el pasado?,bailaba,nadaba,jugaba,corria,Corria es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,97,Cual es el plural de cielo en espanol?,cielitos,cielonis,cielos,cielositos,En espanol para formar el plural de cielo se agrega una s.
+2,97,Cual de los siguientes es un sinonimo de feliz?,triste,alegre,aburrido,feliz,Feliz y alegre son sinonimos lo que significa que tienen significados similares.
+3,97,Cual es el pasado del verbo venir en espanol?,vine,venia,vino,vengo,El pasado del verbo venir es vine.
+4,97,Cual es la forma comparativa de bueno en espanol?,mejor,bueno,mas bueno,bien,La forma comparativa de bueno es mejor.
+5,97,Cual de los siguientes es una preposicion?,jugar,leer,sobre,bajo,Bajo es una preposicion que indica ubicacion o posicion.
+6,97,Cual es el plural de dia en espanol?,dias,diitas,dios,diias,El plural de dia es dias.
+7,97,Cual es el participio pasado del verbo escribir en espanol?,escrito,escribia,escribido,escribo,El participio pasado del verbo escribir es escrito.
+8,97,Cual de los siguientes es un verbo irregular en el pasado?,hablo,nado,jugo,escribio,Escribio es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,98,Cual es el plural de llave en espanol?,llaveros,llaves,llavecitas,llavazos,En espanol para formar el plural de llave se agrega una s.
+2,98,Cual de los siguientes es un sinonimo de grande?,pequeno,chico,enorme,grande,Grande y enorme son sinonimos lo que significa que tienen significados similares.
+3,98,Cual es el pasado del verbo hacer en espanol?,hizo,hacia,hice,hace,El pasado del verbo hacer es hice.
+4,98,Cual es la forma comparativa de malo en espanol?,peor,malo,mas malo,mal,La forma comparativa de malo es peor.
+5,98,Cual de los siguientes es una preposicion?,cantar,bailar,sobre,debajo,Sobre es una preposicion que indica ubicacion o posicion.
+6,98,Cual es el plural de libro en espanol?,libritos,librinos,libros,librillos,El plural de libro es libros.
+7,98,Cual es el participio pasado del verbo abrir en espanol?,abierto,abrio,abriria,abre,El participio pasado del verbo abrir es abierto.
+8,98,Cual de los siguientes es un verbo irregular en el pasado?,saltaba,nadaba,jugaba,abrio,Abrio es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,99,Cual es el plural de plato en espanol?,platitos,platotes,platicos,platos,En espanol para formar el plural de plato se agrega una s.
+2,99,Cual de los siguientes es un sinonimo de bonito?,feo,hermoso,desagradable,bonito,Bonito y hermoso son sinonimos lo que significa que tienen significados similares.
+3,99,Cual es el pasado del verbo decir en espanol?,dicho,decia,dije,digo,El pasado del verbo decir es dije.
+4,99,Cual es la forma comparativa de feo en espanol?,mas feo,feo,menos feo,feito,La forma comparativa de feo es mas feo.
+5,99,Cual de los siguientes es una preposicion?,jugar,leer,sobre,bajo,Bajo es una preposicion que indica ubicacion o posicion.
+6,99,Cual es el plural de computadora en espanol?,computadores,computadorcitos,computadoras,computadorulos,El plural de computadora es computadoras.
+7,99,Cual es el participio pasado del verbo cantar en espanol?,cantado,cantaba,cantido,canta,El participio pasado del verbo cantar es cantado.
+8,99,Cual de los siguientes es un verbo irregular en el pasado?,saltaba,nadaba,jugaba,cantaba,Cantaba es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,100,Cual es el plural de mesa en espanol?,mesas,mesitas,meses,mesotes,En espanol para formar el plural de mesa se agrega una s.
+2,100,Cual de los siguientes es un sinonimo de cansado?,energético,fatigado,descansado,cansado,Cansado y fatigado son sinonimos lo que significa que tienen significados similares.
+3,100,Cual es el pasado del verbo ver en espanol?,veia,vio,vi,veo,El pasado del verbo ver es vi.
+4,100,Cual es la forma comparativa de rapido en espanol?,mas rapido,rapido,menos rapido,rapidito,La forma comparativa de rapido es mas rapido.
+5,100,Cual de los siguientes es una preposicion?,cantar,bailar,sobre,dentro,Dentro es una preposicion que indica ubicacion o posicion.
+6,100,Cual es el plural de arbol en espanol?,arbolos,arbolitos,arboles,arbolos,El plural de arbol es arboles.
+7,100,Cual es el participio pasado del verbo correr en espanol?,corrido,corria,corriente,corre,El participio pasado del verbo correr es corrido.
+8,100,Cual de los siguientes es un verbo irregular en el pasado?,bailaba,nadaba,jugaba,corria,Corria es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,101,Cual es el plural de casa en espanol?,casitas,casotas,casos,casas,En espanol para formar el plural de casa se agrega una s.
+2,101,Cual de los siguientes es un sinonimo de bonito?,feo,hermoso,desagradable,bonito,Bonito y hermoso son sinonimos lo que significa que tienen significados similares.
+3,101,Cual es el pasado del verbo decir en espanol?,dicho,decia,dije,digo,El pasado del verbo decir es dije.
+4,101,Cual es la forma comparativa de feo en espanol?,mas feo,feo,menos feo,feito,La forma comparativa de feo es mas feo.
+5,101,Cual de los siguientes es una preposicion?,jugar,leer,sobre,bajo,Bajo es una preposicion que indica ubicacion o posicion.
+6,101,Cual es el plural de estudiante en espanol?,estudientes,estudiantitos,estudiantes,estudianos,El plural de estudiante es estudiantes.
+7,101,Cual es el participio pasado del verbo escribir en espanol?,escrito,escribia,escribido,escribo,El participio pasado del verbo escribir es escrito.
+8,101,Cual de los siguientes es un verbo irregular en el pasado?,hablo,nado,jugo,escribio,Escribio es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,102,Cual es el plural de libro en espanol?,libreros,libroses,bibliotecas,libros,En espanol para formar el plural de libro se agrega una s.
+2,102,Cual de los siguientes es un sinonimo de feliz?,triste,alegre,aburrido,feliz,Feliz y alegre son sinonimos lo que significa que tienen significados similares.
+3,102,Cual es el pasado del verbo ir en espanol?,ido,iba,fui,voy,El pasado del verbo ir es fui.
+4,102,Cual es la forma comparativa de bueno en espanol?,mejor,bueno,mas bueno,bien,La forma comparativa de bueno es mejor.
+5,102,Cual de los siguientes es una preposicion?,jugar,leer,sobre,bajo,Bajo es una preposicion que indica ubicacion o posicion.
+6,102,Cual es el plural de nino en espanol?,nines,ninosen,ninoses,ninos,El plural de nino es ninos.
+7,102,Cual es el participio pasado del verbo comer en espanol?,comido,comia,comi,come,El participio pasado del verbo comer es comido.
+8,102,Cual de los siguientes es un verbo irregular en el pasado?,hablaba,nadar,jugaba,comia,Comia es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,103,Cual es el plural de perro en espanol?,perres,perroses,perritos,perros,En espanol para formar el plural de perro se agrega una s.
+2,103,Cual de los siguientes es un sinonimo de grande?,pequeno,chico,enorme,grande,Grande y enorme son sinonimos lo que significa que tienen significados similares.
+3,103,Cual es el pasado del verbo hacer en espanol?,hizo,hacia,hice,hace,El pasado del verbo hacer es hice.
+4,103,Cual es la forma comparativa de malo en espanol?,peor,malo,mas malo,mal,La forma comparativa de malo es peor.
+5,103,Cual de los siguientes es una preposicion?,cantar,bailar,sobre,debajo,Sobre es una preposicion que indica ubicacion o posicion.
+6,103,Cual es el plural de mujer en espanol?,mujeres,mujers,mujerias,mujos,El plural de mujer es mujeres.
+7,103,Cual es el participio pasado del verbo vivir en espanol?,vivido,vivia,vivi,vivo,El participio pasado del verbo vivir es vivido.
+8,103,Cual de los siguientes es un verbo irregular en el pasado?,hablaba,nadaba,jugaba,beber,Beber es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,104,Cual es el plural de gato en espanol?,gatitos,gatetes,gates,gatos,En espanol para formar el plural de gato se agrega una s.
+2,104,Cual de los siguientes es un sinonimo de triste?,feliz,alegre,lloroso,triste,Triste y lloroso son sinonimos lo que significa que tienen significados similares.
+3,104,Cual es el pasado del verbo tener en espanol?,tenido,tenia,tuve,tengo,El pasado del verbo tener es tuve.
+4,104,Cual es la forma comparativa de pequeno en espanol?,mas pequeno,pequeno,menos pequeno,pequenito,La forma comparativa de pequeno es mas pequeno.
+5,104,Cual de los siguientes es una preposicion?,correr,caminar,sobre,entre,Entre es una preposicion que indica relacion o posicion entre dos o mas elementos.
+6,104,Cual es el plural de estudiante en espanol?,estudientes,estudiantitos,estudiantes,estudianos,El plural de estudiante es estudiantes.
+7,104,Cual es el participio pasado del verbo escribir en espanol?,escrito,escribia,escribido,escribo,El participio pasado del verbo escribir es escrito.
+8,104,Cual de los siguientes es un verbo irregular en el pasado?,hablaba,nadaba,jugaba,escribia,Escribia es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,105,Cual es el plural de flor en espanol?,flores,florecitas,floretes,florones,En espanol para formar el plural de flor se agrega una s.
+2,105,Cual de los siguientes es un sinonimo de oscuro?,brillante,claro,tenebroso,oscuro,Oscuro y tenebroso son sinonimos lo que significa que tienen significados similares.
+3,105,Cual es el pasado del verbo ser en espanol?,soy,era,fui,seré,El pasado del verbo ser es fui.
+4,105,Cual es la forma comparativa de grande en espanol?,mas grande,grande,menos grande,grandote,La forma comparativa de grande es mas grande.
+5,105,Cual de los siguientes es una preposicion?,cantar,bailar,sobre,debajo,Sobre es una preposicion que indica ubicacion o posicion.
+6,105,Cual es el plural de lapiz en espanol?,lapices,lapicitos,lapizos,lapizes,El plural de lapiz es lapices.
+7,105,Cual es el participio pasado del verbo correr en espanol?,corrido,corria,corriente,corre,El participio pasado del verbo correr es corrido.
+8,105,Cual de los siguientes es un verbo irregular en el pasado?,bailaba,nadaba,jugaba,corria,Corria es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,106,Cual es el plural de cielo en espanol?,cielitos,cielonis,cielos,cielositos,En espanol para formar el plural de cielo se agrega una s.
+2,106,Cual de los siguientes es un sinonimo de feliz?,triste,alegre,aburrido,feliz,Feliz y alegre son sinonimos lo que significa que tienen significados similares.
+3,106,Cual es el pasado del verbo venir en espanol?,vine,venia,vino,vengo,El pasado del verbo venir es vine.
+4,106,Cual es la forma comparativa de bueno en espanol?,mejor,bueno,mas bueno,bien,La forma comparativa de bueno es mejor.
+5,106,Cual de los siguientes es una preposicion?,jugar,leer,sobre,bajo,Bajo es una preposicion que indica ubicacion o posicion.
+6,106,Cual es el plural de dia en espanol?,dias,diitas,dios,diias,El plural de dia es dias.
+7,106,Cual es el participio pasado del verbo escribir en espanol?,escrito,escribia,escribido,escribo,El participio pasado del verbo escribir es escrito.
+8,106,Cual de los siguientes es un verbo irregular en el pasado?,hablo,nado,jugo,escribio,Escribio es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,107,Cual es el plural de llave en espanol?,llaveros,llaves,llavecitas,llavazos,En espanol para formar el plural de llave se agrega una s.
+2,107,Cual de los siguientes es un sinonimo de grande?,pequeno,chico,enorme,grande,Grande y enorme son sinonimos lo que significa que tienen significados similares.
+3,107,Cual es el pasado del verbo hacer en espanol?,hizo,hacia,hice,hace,El pasado del verbo hacer es hice.
+4,107,Cual es la forma comparativa de malo en espanol?,peor,malo,mas malo,mal,La forma comparativa de malo es peor.
+5,107,Cual de los siguientes es una preposicion?,cantar,bailar,sobre,debajo,Sobre es una preposicion que indica ubicacion o posicion.
+6,107,Cual es el plural de libro en espanol?,libritos,librinos,libros,librillos,El plural de libro es libros.
+7,107,Cual es el participio pasado del verbo abrir en espanol?,abierto,abrio,abriria,abre,El participio pasado del verbo abrir es abierto.
+8,107,Cual de los siguientes es un verbo irregular en el pasado?,saltaba,nadaba,jugaba,abrio,Abrio es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,108,Cual es el plural de plato en espanol?,platitos,platotes,platicos,platos,En espanol para formar el plural de plato se agrega una s.
+2,108,Cual de los siguientes es un sinonimo de bonito?,feo,hermoso,desagradable,bonito,Bonito y hermoso son sinonimos lo que significa que tienen significados similares.
+3,108,Cual es el pasado del verbo decir en espanol?,dicho,decia,dije,digo,El pasado del verbo decir es dije.
+4,108,Cual es la forma comparativa de feo en espanol?,mas feo,feo,menos feo,feito,La forma comparativa de feo es mas feo.
+5,108,Cual de los siguientes es una preposicion?,jugar,leer,sobre,bajo,Bajo es una preposicion que indica ubicacion o posicion.
+6,108,Cual es el plural de computadora en espanol?,computadores,computadorcitos,computadoras,computadorulos,El plural de computadora es computadoras.
+7,108,Cual es el participio pasado del verbo cantar en espanol?,cantado,cantaba,cantido,canta,El participio pasado del verbo cantar es cantado.
+8,108,Cual de los siguientes es un verbo irregular en el pasado?,saltaba,nadaba,jugaba,cantaba,Cantaba es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,109,Cual es el plural de mesa en espanol?,mesas,mesitas,meses,mesotes,En espanol para formar el plural de mesa se agrega una s.
+2,109,Cual de los siguientes es un sinonimo de cansado?,energético,fatigado,descansado,cansado,Cansado y fatigado son sinonimos lo que significa que tienen significados similares.
+3,109,Cual es el pasado del verbo ver en espanol?,veia,vio,vi,veo,El pasado del verbo ver es vi.
+4,109,Cual es la forma comparativa de rapido en espanol?,mas rapido,rapido,menos rapido,rapidito,La forma comparativa de rapido es mas rapido.
+5,109,Cual de los siguientes es una preposicion?,cantar,bailar,sobre,dentro,Dentro es una preposicion que indica ubicacion o posicion.
+6,109,Cual es el plural de arbol en espanol?,arbolos,arbolitos,arboles,arbolos,El plural de arbol es arboles.
+7,109,Cual es el participio pasado del verbo correr en espanol?,corrido,corria,corriente,corre,El participio pasado del verbo correr es corrido.
+8,109,Cual de los siguientes es un verbo irregular en el pasado?,bailaba,nadaba,jugaba,corria,Corria es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,110,Cual es el plural de casa en espanol?,casitas,casotas,casos,casas,En espanol para formar el plural de casa se agrega una s.
+2,110,Cual de los siguientes es un sinonimo de bonito?,feo,hermoso,desagradable,bonito,Bonito y hermoso son sinonimos lo que significa que tienen significados similares.
+3,110,Cual es el pasado del verbo decir en espanol?,dicho,decia,dije,digo,El pasado del verbo decir es dije.
+4,110,Cual es la forma comparativa de feo en espanol?,mas feo,feo,menos feo,feito,La forma comparativa de feo es mas feo.
+5,110,Cual de los siguientes es una preposicion?,jugar,leer,sobre,bajo,Bajo es una preposicion que indica ubicacion o posicion.
+6,110,Cual es el plural de estudiante en espanol?,estudientes,estudiantitos,estudiantes,estudianos,El plural de estudiante es estudiantes.
+7,110,Cual es el participio pasado del verbo escribir en espanol?,escrito,escribia,escribido,escribo,El participio pasado del verbo escribir es escrito.
+8,110,Cual de los siguientes es un verbo irregular en el pasado?,hablo,nado,jugo,escribio,Escribio es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,111,Cual es el plural de libro en espanol?,libreros,libroses,bibliotecas,libros,En espanol para formar el plural de libro se agrega una s.
+2,111,Cual de los siguientes es un sinonimo de feliz?,triste,alegre,aburrido,feliz,Feliz y alegre son sinonimos lo que significa que tienen significados similares.
+3,111,Cual es el pasado del verbo ir en espanol?,ido,iba,fui,voy,El pasado del verbo ir es fui.
+4,111,Cual es la forma comparativa de bueno en espanol?,mejor,bueno,mas bueno,bien,La forma comparativa de bueno es mejor.
+5,111,Cual de los siguientes es una preposicion?,jugar,leer,sobre,bajo,Bajo es una preposicion que indica ubicacion o posicion.
+6,111,Cual es el plural de nino en espanol?,nines,ninosen,ninoses,ninos,El plural de nino es ninos.
+7,111,Cual es el participio pasado del verbo comer en espanol?,comido,comia,comi,come,El participio pasado del verbo comer es comido.
+8,111,Cual de los siguientes es un verbo irregular en el pasado?,hablaba,nadar,jugaba,comia,Comia es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,112,Cual es el plural de perro en espanol?,perres,perroses,perritos,perros,En espanol para formar el plural de perro se agrega una s.
+2,112,Cual de los siguientes es un sinonimo de grande?,pequeno,chico,enorme,grande,Grande y enorme son sinonimos lo que significa que tienen significados similares.
+3,112,Cual es el pasado del verbo hacer en espanol?,hizo,hacia,hice,hace,El pasado del verbo hacer es hice.
+4,112,Cual es la forma comparativa de malo en espanol?,peor,malo,mas malo,mal,La forma comparativa de malo es peor.
+5,112,Cual de los siguientes es una preposicion?,cantar,bailar,sobre,debajo,Sobre es una preposicion que indica ubicacion o posicion.
+6,112,Cual es el plural de mujer en espanol?,mujeres,mujers,mujerias,mujos,El plural de mujer es mujeres.
+7,112,Cual es el participio pasado del verbo vivir en espanol?,vivido,vivia,vivi,vivo,El participio pasado del verbo vivir es vivido.
+8,112,Cual de los siguientes es un verbo irregular en el pasado?,hablaba,nadaba,jugaba,beber,Beber es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,113,Cual es el plural de gato en espanol?,gatitos,gatetes,gates,gatos,En espanol para formar el plural de gato se agrega una s.
+2,113,Cual de los siguientes es un sinonimo de triste?,feliz,alegre,lloroso,triste,Triste y lloroso son sinonimos lo que significa que tienen significados similares.
+3,113,Cual es el pasado del verbo tener en espanol?,tenido,tenia,tuve,tengo,El pasado del verbo tener es tuve.
+4,113,Cual es la forma comparativa de pequeno en espanol?,mas pequeno,pequeno,menos pequeno,pequenito,La forma comparativa de pequeno es mas pequeno.
+5,113,Cual de los siguientes es una preposicion?,correr,caminar,sobre,entre,Entre es una preposicion que indica relacion o posicion entre dos o mas elementos.
+6,113,Cual es el plural de estudiante en espanol?,estudientes,estudiantitos,estudiantes,estudianos,El plural de estudiante es estudiantes.
+7,113,Cual es el participio pasado del verbo escribir en espanol?,escrito,escribia,escribido,escribo,El participio pasado del verbo escribir es escrito.
+8,113,Cual de los siguientes es un verbo irregular en el pasado?,hablaba,nadaba,jugaba,escribia,Escribia es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,114,Cual es el plural de flor en espanol?,flores,florecitas,floretes,florones,En espanol para formar el plural de flor se agrega una s.
+2,114,Cual de los siguientes es un sinonimo de oscuro?,brillante,claro,tenebroso,oscuro,Oscuro y tenebroso son sinonimos lo que significa que tienen significados similares.
+3,114,Cual es el pasado del verbo ser en espanol?,soy,era,fui,seré,El pasado del verbo ser es fui.
+4,114,Cual es la forma comparativa de grande en espanol?,mas grande,grande,menos grande,grandote,La forma comparativa de grande es mas grande.
+5,114,Cual de los siguientes es una preposicion?,cantar,bailar,sobre,debajo,Sobre es una preposicion que indica ubicacion o posicion.
+6,114,Cual es el plural de lapiz en espanol?,lapices,lapicitos,lapizos,lapizes,El plural de lapiz es lapices.
+7,114,Cual es el participio pasado del verbo correr en espanol?,corrido,corria,corriente,corre,El participio pasado del verbo correr es corrido.
+8,114,Cual de los siguientes es un verbo irregular en el pasado?,bailaba,nadaba,jugaba,corria,Corria es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,115,Cual es el plural de cielo en espanol?,cielitos,cielonis,cielos,cielositos,En espanol para formar el plural de cielo se agrega una s.
+2,115,Cual de los siguientes es un sinonimo de feliz?,triste,alegre,aburrido,feliz,Feliz y alegre son sinonimos lo que significa que tienen significados similares.
+3,115,Cual es el pasado del verbo venir en espanol?,vine,venia,vino,vengo,El pasado del verbo venir es vine.
+4,115,Cual es la forma comparativa de bueno en espanol?,mejor,bueno,mas bueno,bien,La forma comparativa de bueno es mejor.
+5,115,Cual de los siguientes es una preposicion?,jugar,leer,sobre,bajo,Bajo es una preposicion que indica ubicacion o posicion.
+6,115,Cual es el plural de dia en espanol?,dias,diitas,dios,diias,El plural de dia es dias.
+7,115,Cual es el participio pasado del verbo escribir en espanol?,escrito,escribia,escribido,escribo,El participio pasado del verbo escribir es escrito.
+8,115,Cual de los siguientes es un verbo irregular en el pasado?,hablo,nado,jugo,escribio,Escribio es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,116,Cual es el plural de llave en espanol?,llaveros,llaves,llavecitas,llavazos,En espanol para formar el plural de llave se agrega una s.
+2,116,Cual de los siguientes es un sinonimo de grande?,pequeno,chico,enorme,grande,Grande y enorme son sinonimos lo que significa que tienen significados similares.
+3,116,Cual es el pasado del verbo hacer en espanol?,hizo,hacia,hice,hace,El pasado del verbo hacer es hice.
+4,116,Cual es la forma comparativa de malo en espanol?,peor,malo,mas malo,mal,La forma comparativa de malo es peor.
+5,116,Cual de los siguientes es una preposicion?,cantar,bailar,sobre,debajo,Sobre es una preposicion que indica ubicacion o posicion.
+6,116,Cual es el plural de libro en espanol?,libritos,librinos,libros,librillos,El plural de libro es libros.
+7,116,Cual es el participio pasado del verbo abrir en espanol?,abierto,abrio,abriria,abre,El participio pasado del verbo abrir es abierto.
+8,116,Cual de los siguientes es un verbo irregular en el pasado?,saltaba,nadaba,jugaba,abrio,Abrio es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,117,Cual es el plural de plato en espanol?,platitos,platotes,platicos,platos,En espanol para formar el plural de plato se agrega una s.
+2,117,Cual de los siguientes es un sinonimo de bonito?,feo,hermoso,desagradable,bonito,Bonito y hermoso son sinonimos lo que significa que tienen significados similares.
+3,117,Cual es el pasado del verbo decir en espanol?,dicho,decia,dije,digo,El pasado del verbo decir es dije.
+4,117,Cual es la forma comparativa de feo en espanol?,mas feo,feo,menos feo,feito,La forma comparativa de feo es mas feo.
+5,117,Cual de los siguientes es una preposicion?,jugar,leer,sobre,bajo,Bajo es una preposicion que indica ubicacion o posicion.
+6,117,Cual es el plural de computadora en espanol?,computadores,computadorcitos,computadoras,computadorulos,El plural de computadora es computadoras.
+7,117,Cual es el participio pasado del verbo cantar en espanol?,cantado,cantaba,cantido,canta,El participio pasado del verbo cantar es cantado.
+8,117,Cual de los siguientes es un verbo irregular en el pasado?,saltaba,nadaba,jugaba,cantaba,Cantaba es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,118,Cual es el plural de mesa en espanol?,mesas,mesitas,meses,mesotes,En espanol para formar el plural de mesa se agrega una s.
+2,118,Cual de los siguientes es un sinonimo de cansado?,energético,fatigado,descansado,cansado,Cansado y fatigado son sinonimos lo que significa que tienen significados similares.
+3,118,Cual es el pasado del verbo ver en espanol?,veia,vio,vi,veo,El pasado del verbo ver es vi.
+4,118,Cual es la forma comparativa de rapido en espanol?,mas rapido,rapido,menos rapido,rapidito,La forma comparativa de rapido es mas rapido.
+5,118,Cual de los siguientes es una preposicion?,cantar,bailar,sobre,dentro,Dentro es una preposicion que indica ubicacion o posicion.
+6,118,Cual es el plural de arbol en espanol?,arbolos,arbolitos,arboles,arbolos,El plural de arbol es arboles.
+7,118,Cual es el participio pasado del verbo correr en espanol?,corrido,corria,corriente,corre,El participio pasado del verbo correr es corrido.
+8,118,Cual de los siguientes es un verbo irregular en el pasado?,bailaba,nadaba,jugaba,corria,Corria es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,119,Cual es el plural de casa en espanol?,casitas,casotas,casos,casas,En espanol para formar el plural de casa se agrega una s.
+2,119,Cual de los siguientes es un sinonimo de bonito?,feo,hermoso,desagradable,bonito,Bonito y hermoso son sinonimos lo que significa que tienen significados similares.
+3,119,Cual es el pasado del verbo decir en espanol?,dicho,decia,dije,digo,El pasado del verbo decir es dije.
+4,119,Cual es la forma comparativa de feo en espanol?,mas feo,feo,menos feo,feito,La forma comparativa de feo es mas feo.
+5,119,Cual de los siguientes es una preposicion?,jugar,leer,sobre,bajo,Bajo es una preposicion que indica ubicacion o posicion.
+6,119,Cual es el plural de estudiante en espanol?,estudientes,estudiantitos,estudiantes,estudianos,El plural de estudiante es estudiantes.
+7,119,Cual es el participio pasado del verbo escribir en espanol?,escrito,escribia,escribido,escribo,El participio pasado del verbo escribir es escrito.
+8,119,Cual de los siguientes es un verbo irregular en el pasado?,hablo,nado,jugo,escribio,Escribio es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,120,Cual es el plural de libro en espanol?,libreros,libroses,bibliotecas,libros,En espanol para formar el plural de libro se agrega una s.
+2,120,Cual de los siguientes es un sinonimo de feliz?,triste,alegre,aburrido,feliz,Feliz y alegre son sinonimos lo que significa que tienen significados similares.
+3,120,Cual es el pasado del verbo ir en espanol?,ido,iba,fui,voy,El pasado del verbo ir es fui.
+4,120,Cual es la forma comparativa de bueno en espanol?,mejor,bueno,mas bueno,bien,La forma comparativa de bueno es mejor.
+5,120,Cual de los siguientes es una preposicion?,jugar,leer,sobre,bajo,Bajo es una preposicion que indica ubicacion o posicion.
+6,120,Cual es el plural de nino en espanol?,nines,ninosen,ninoses,ninos,El plural de nino es ninos.
+7,120,Cual es el participio pasado del verbo comer en espanol?,comido,comia,comi,come,El participio pasado del verbo comer es comido.
+8,120,Cual de los siguientes es un verbo irregular en el pasado?,hablaba,nadar,jugaba,comia,Comia es un verbo irregular; su pasado no sigue el patron regular de -ed.
+1,121,Qual e il plurale di libro in italiano?,libri,librii,biblioteche,libri,In italiano per formare il plurale di libro si aggiunge una i.
+2,121,Qual e un sinonimo di felice?,triste,arrabbiato,infelice,contento,Felice e contento sono sinonimi significano che hanno significati simili.
+3,121,Qual e il tempo passato di andare in italiano?,andò,vai,voleva,andato,Il tempo passato di andare e andato.
+4,121,Qual e la forma comparativa di buono in italiano?,piu buono,buonissimo,piu bene,meglio,La forma comparativa di buono e meglio.
+5,121,Quale delle seguenti e una preposizione?,correre,saltare,su,dentro,Su e una preposizione che indica posizione o luogo.
+6,121,Qual e il plurale di bambino in italiano?,bambini,bambinii,bambinetti,bambini,Il plurale di bambino e bambini.
+7,121,Qual e il participio passato di mangiare in italiano?,mangiato,mangiò,mangiava,mangi,Il participio passato di mangiare e mangiato.
+8,121,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,122,Qual e il plurale di gatto in italiano?,gatti,gattii,cani,gatti,In italiano per formare il plurale di gatto si aggiunge una i.
+2,122,Qual e un sinonimo di grande?,piccolo,enorme,minuscolo,vasto,Grande e vasto sono sinonimi significano che hanno significati simili.
+3,122,Qual e il tempo passato di mangiare in italiano?,mangiai,mangiavo,mangia,mangiato,Il tempo passato di mangiare e mangiato.
+4,122,Qual e la forma comparativa di caro in italiano?,piu caro,carissimo,piu costoso,meglio,La forma comparativa di caro e piu costoso.
+5,122,Quale delle seguenti e una preposizione?,correre,saltare,sotto,fuori,Sotto e una preposizione che indica posizione o luogo.
+6,122,Qual e il plurale di albero in italiano?,alberi,alberii,alberetti,alberi,Il plurale di albero e alberi.
+7,122,Qual e il participio passato di leggere in italiano?,leggere,letto,letta,leggendo,Il participio passato di leggere e letto.
+8,122,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,123,Qual e il plurale di penna in italiano?,penne,pennii,libri,penne,In italiano per formare il plurale di penna si aggiunge una e.
+2,123,Qual e un sinonimo di veloce?,lento,rapido,svelto,sporco,Veloce e rapido sono sinonimi significano che hanno significati simili.
+3,123,Qual e il tempo passato di scrivere in italiano?,scrissi,scrivevo,scrivo,scritto,Il tempo passato di scrivere e scritto.
+4,123,Qual e la forma comparativa di piccolo in italiano?,piu piccolo,piccolissimo,piu grande,migliore,La forma comparativa di piccolo e piu grande.
+5,123,Quale delle seguenti e una preposizione?,mangiare,bere,tra,con,Tra e una preposizione che indica posizione o movimento tra due oggetti.
+6,123,Qual e il plurale di studente in italiano?,studenti,studentii,studentetti,studenti,Il plurale di studente e studenti.
+7,123,Qual e il participio passato di vedere in italiano?,visto,vedeva,veduto,vedente,Il participio passato di vedere e visto.
+8,123,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,124,Qual e il plurale di fiore in italiano?,fiori,fiorii,alberi,fiori,In italiano per formare il plurale di fiore si aggiunge una i.
+2,124,Qual e un sinonimo di bello?,brutto,orribile,splendido,straordinario,Bello e splendido sono sinonimi significano che hanno significati simili.
+3,124,Qual e il tempo passato di dormire in italiano?,dormii,dormiva,dorme,dormito,Il tempo passato di dormire e dormito.
+4,124,Qual e la forma comparativa di cattivo in italiano?,piu cattivo,cattivissimo,piu male,peggio,La forma comparativa di cattivo e peggiore.
+5,124,Quale delle seguenti e una preposizione?,pensare,creare,sopra,sotto,Sopra e una preposizione che indica posizione o movimento al di sopra di qualcosa.
+6,124,Qual e il plurale di casa in italiano?,case,casii,casette,case,Il plurale di casa e case.
+7,124,Qual e il participio passato di bere in italiano?,bevuto,beveva,beve,bivuto,Il participio passato di bere e bevuto.
+8,124,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,125,Qual e il plurale di computer in italiano?,computer,computers,calcolatrici,computer,In italiano il plurale di computer rimane invariato.
+2,125,Qual e un sinonimo di caldo?,freddo,gelido,ardente,caloroso,Caldo e ardente sono sinonimi significano che hanno significati simili.
+3,125,Qual e il tempo passato di bere in italiano?,bii,beveva,bevetti,bevuto,Il tempo passato di bere e bevuto.
+4,125,Qual e la forma comparativa di lungo in italiano?,piu lungo,lungissimo,piu corto,meglio,La forma comparativa di lungo e piu corto.
+5,125,Quale delle seguenti e una preposizione?,camminare,correre,dietro,avanti,Dietro e una preposizione che indica posizione o direzione opposta a qualcosa.
+6,125,Qual e il plurale di cappello in italiano?,cappelli,cappellii,cappellini,cappelli,Il plurale di cappello e cappelli.
+7,125,Qual e il participio passato di parlare in italiano?,parlato,parlava,parlare,parlando,Il participio passato di parlare e parlato.
+8,125,Quale delle seguenti e un verbo irregolare nel tempo passato?,saltato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,126,Qual e il plurale di foglio in italiano?,fogli,foglii,foglietti,fogli,In italiano per formare il plurale di foglio si aggiunge una i.
+2,126,Qual e un sinonimo di nuovo?,vecchio,antico,recente,moderno,Nuovo e recente sono sinonimi significano che hanno significati simili.
+3,126,Qual e il tempo passato di giocare in italiano?,giocai,giocavo,gioca,giocato,Il tempo passato di giocare e giocato.
+4,126,Qual e la forma comparativa di alto in italiano?,piu alto,altissimo,piu basso,peggio,La forma comparativa di alto e piu basso.
+5,126,Quale delle seguenti e una preposizione?,cantare,ballare,sopra,sotto,Sopra e una preposizione che indica posizione o movimento al di sopra di qualcosa.
+6,126,Qual e il plurale di mela in italiano?,mele,melii,meloni,mele,Il plurale di mela e mele.
+7,126,Qual e il participio passato di scrivere in italiano?,scrivuto,scriveva,scritto,scrivente,Il participio passato di scrivere e scritto.
+8,126,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,127,Qual e il plurale di cucchiaio in italiano?,cucchiai,cucchiaii,cucchiaietti,cucchiai,Il plurale di cucchiaio e cucchiai.
+2,127,Qual e un sinonimo di triste?,felice,arrabbiato,depresso,contento,Triste e depresso sono sinonimi significano che hanno significati simili.
+3,127,Qual e il tempo passato di vivere in italiano?,vissi,viveva,vive,vissuto,Il tempo passato di vivere e vissuto.
+4,127,Qual e la forma comparativa di giovane in italiano?,piu giovane,giovanissimo,piu vecchio,meglio,La forma comparativa di giovane e piu vecchio.
+5,127,Quale delle seguenti e una preposizione?,correre,saltare,sopra,sotto,Sopra e una preposizione che indica posizione o movimento al di sopra di qualcosa.
+6,127,Qual e il plurale di amico in italiano?,amici,amichii,amicotti,amici,Il plurale di amico e amici.
+7,127,Qual e il participio passato di correre in italiano?,corso,correva,correte,correndo,Il participio passato di correre e corso.
+8,127,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,128,Qual e il plurale di chiave in italiano?,chiavi,chiavii,chiavette,chiavi,Il plurale di chiave e chiavi.
+2,128,Qual e un sinonimo di intelligente?,stupido,ignorante,capace,abile,Intelligente e capace sono sinonimi significano che hanno significati simili.
+3,128,Qual e il tempo passato di venire in italiano?,venni,veniva,viene,venuto,Il tempo passato di venire e venuto.
+4,128,Qual e la forma comparativa di vecchio in italiano?,piu vecchio,vecchissimo,piu giovane,meglio,La forma comparativa di vecchio e piu giovane.
+5,128,Quale delle seguenti e una preposizione?,saltare,correre,dietro,davanti,Dietro e una preposizione che indica posizione o direzione opposta a qualcosa.
+6,128,Qual e il plurale di cane in italiano?,cani,canii,canotti,cani,Il plurale di cane e cani.
+7,128,Qual e il participio passato di dormire in italiano?,dormito,dormiva,dormì,dormente,Il participio passato di dormire e dormito.
+8,128,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,129,Qual e il plurale di occhio in italiano?,occhi,occhii,occhietti,occhi,Il plurale di occhio e occhi.
+2,129,Qual e un sinonimo di piccolo?,grande,enorme,minuscolo,vasto,Piccolo e minuscolo sono sinonimi significano che hanno significati simili.
+3,129,Qual e il tempo passato di fare in italiano?,feci,facevo,faccio,fatto,Il tempo passato di fare e fatto.
+4,129,Qual e la forma comparativa di corto in italiano?,piu corto,cortissimo,piu lungo,peggio,La forma comparativa di corto e piu lungo.
+5,129,Quale delle seguenti e una preposizione?,ballare,cantare,sopra,sotto,Sopra e una preposizione che indica posizione o movimento al di sopra di qualcosa.
+6,129,Qual e il plurale di ragazza in italiano?,ragazze,ragazzii,ragazzetti,ragazze,Il plurale di ragazza e ragazze.
+7,129,Qual e il participio passato di studiare in italiano?,studito,studiava,studiato,studiante,Il participio passato di studiare e studiato.
+8,129,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,130,Qual e il plurale di gatto in italiano?,gatti,gattii,cani,gatti,In italiano per formare il plurale di gatto si aggiunge una i.
+2,130,Qual e un sinonimo di grande?,piccolo,enorme,minuscolo,vasto,Grande e vasto sono sinonimi significano che hanno significati simili.
+3,130,Qual e il tempo passato di mangiare in italiano?,mangiai,mangiavo,mangia,mangiato,Il tempo passato di mangiare e mangiato.
+4,130,Qual e la forma comparativa di caro in italiano?,piu caro,carissimo,piu costoso,meglio,La forma comparativa di caro e piu costoso.
+5,130,Quale delle seguenti e una preposizione?,correre,saltare,sotto,fuori,Sotto e una preposizione che indica posizione o luogo.
+6,130,Qual e il plurale di albero in italiano?,alberi,alberii,alberetti,alberi,Il plurale di albero e alberi.
+7,130,Qual e il participio passato di leggere in italiano?,leggere,letto,letta,leggendo,Il participio passato di leggere e letto.
+8,130,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,131,Qual e il plurale di penna in italiano?,penne,pennii,libri,penne,In italiano per formare il plurale di penna si aggiunge una e.
+2,131,Qual e un sinonimo di veloce?,lento,rapido,svelto,sporco,Veloce e rapido sono sinonimi significano che hanno significati simili.
+3,131,Qual e il tempo passato di scrivere in italiano?,scrissi,scrivevo,scrivo,scritto,Il tempo passato di scrivere e scritto.
+4,131,Qual e la forma comparativa di piccolo in italiano?,piu piccolo,piccolissimo,piu grande,migliore,La forma comparativa di piccolo e piu grande.
+5,131,Quale delle seguenti e una preposizione?,mangiare,bere,tra,con,Tra e una preposizione che indica posizione o movimento tra due oggetti.
+6,131,Qual e il plurale di studente in italiano?,studenti,studentii,studentetti,studenti,Il plurale di studente e studenti.
+7,131,Qual e il participio passato di vedere in italiano?,visto,vedeva,veduto,vedente,Il participio passato di vedere e visto.
+8,131,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,132,Qual e il plurale di fiore in italiano?,fiori,fiorii,alberi,fiori,In italiano per formare il plurale di fiore si aggiunge una i.
+2,132,Qual e un sinonimo di bello?,brutto,orribile,splendido,straordinario,Bello e splendido sono sinonimi significano che hanno significati simili.
+3,132,Qual e il tempo passato di dormire in italiano?,dormii,dormiva,dorme,dormito,Il tempo passato di dormire e dormito.
+4,132,Qual e la forma comparativa di cattivo in italiano?,piu cattivo,cattivissimo,piu male,peggio,La forma comparativa di cattivo e peggiore.
+5,132,Quale delle seguenti e una preposizione?,pensare,creare,sopra,sotto,Sopra e una preposizione che indica posizione o movimento al di sopra di qualcosa.
+6,132,Qual e il plurale di casa in italiano?,case,casii,casette,case,Il plurale di casa e case.
+7,132,Qual e il participio passato di bere in italiano?,bevuto,beveva,beve,bivuto,Il participio passato di bere e bevuto.
+8,132,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,133,Qual e il plurale di computer in italiano?,computer,computers,calcolatrici,computer,In italiano il plurale di computer rimane invariato.
+2,133,Qual e un sinonimo di caldo?,freddo,gelido,ardente,caloroso,Caldo e ardente sono sinonimi significano che hanno significati simili.
+3,133,Qual e il tempo passato di bere in italiano?,bii,beveva,bevetti,bevuto,Il tempo passato di bere e bevuto.
+4,133,Qual e la forma comparativa di lungo in italiano?,piu lungo,lungissimo,piu corto,meglio,La forma comparativa di lungo e piu corto.
+5,133,Quale delle seguenti e una preposizione?,camminare,correre,dietro,avanti,Dietro e una preposizione che indica posizione o direzione opposta a qualcosa.
+6,133,Qual e il plurale di cappello in italiano?,cappelli,cappellii,cappellini,cappelli,Il plurale di cappello e cappelli.
+7,133,Qual e il participio passato di parlare in italiano?,parlato,parlava,parlare,parlando,Il participio passato di parlare e parlato.
+8,133,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,134,Qual e il plurale di foglio in italiano?,fogli,foglii,foglietti,fogli,In italiano per formare il plurale di foglio si aggiunge una i.
+2,134,Qual e un sinonimo di nuovo?,vecchio,antico,recente,moderno,Nuovo e recente sono sinonimi significano che hanno significati simili.
+3,134,Qual e il tempo passato di giocare in italiano?,giocai,giocavo,gioca,giocato,Il tempo passato di giocare e giocato.
+4,134,Qual e la forma comparativa di alto in italiano?,piu alto,altissimo,piu basso,peggio,La forma comparativa di alto e piu basso.
+5,134,Quale delle seguenti e una preposizione?,cantare,ballare,sopra,sotto,Sopra e una preposizione che indica posizione o movimento al di sopra di qualcosa.
+6,134,Qual e il plurale di mela in italiano?,mele,melii,meloni,mele,Il plurale di mela e mele.
+7,134,Qual e il participio passato di scrivere in italiano?,scrivuto,scriveva,scritto,scrivente,Il participio passato di scrivere e scritto.
+8,134,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,135,Qual e il plurale di cucchiaio in italiano?,cucchiai,cucchiaii,cucchiaietti,cucchiai,Il plurale di cucchiaio e cucchiai.
+2,135,Qual e un sinonimo di triste?,felice,arrabbiato,depresso,contento,Triste e depresso sono sinonimi significano che hanno significati simili.
+3,135,Qual e il tempo passato di vivere in italiano?,vissi,viveva,vive,vissuto,Il tempo passato di vivere e vissuto.
+4,135,Qual e la forma comparativa di giovane in italiano?,piu giovane,giovanissimo,piu vecchio,meglio,La forma comparativa di giovane e piu vecchio.
+5,135,Quale delle seguenti e una preposizione?,correre,saltare,sopra,sotto,Sopra e una preposizione che indica posizione o movimento al di sopra di qualcosa.
+6,135,Qual e il plurale di cane in italiano?,cani,canii,canotti,cani,Il plurale di cane e cani.
+7,135,Qual e il participio passato di dormire in italiano?,dormito,dormiva,dormì,dormente,Il participio passato di dormire e dormito.
+8,135,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,136,Qual e il plurale di chiave in italiano?,chiavi,chiavii,chiavette,chiavi,Il plurale di chiave e chiavi.
+2,136,Qual e un sinonimo di intelligente?,stupido,ignorante,capace,abile,Intelligente e capace sono sinonimi significano che hanno significati simili.
+3,136,Qual e il tempo passato di venire in italiano?,venni,veniva,viene,venuto,Il tempo passato di venire e venuto.
+4,136,Qual e la forma comparativa di vecchio in italiano?,piu vecchio,vecchissimo,piu giovane,meglio,La forma comparativa di vecchio e piu giovane.
+5,136,Quale delle seguenti e una preposizione?,saltare,correre,dietro,davanti,Dietro e una preposizione che indica posizione o direzione opposta a qualcosa.
+6,136,Qual e il plurale di amico in italiano?,amici,amichii,amicotti,amici,Il plurale di amico e amici.
+7,136,Qual e il participio passato di studiare in italiano?,studito,studiava,studiato,studiante,Il participio passato di studiare e studiato.
+8,136,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,137,Qual e il plurale di occhio in italiano?,occhi,occhii,occhietti,occhi,Il plurale di occhio e occhi.
+2,137,Qual e un sinonimo di piccolo?,grande,enorme,minuscolo,vasto,Piccolo e minuscolo sono sinonimi significano che hanno significati simili.
+3,137,Qual e il tempo passato di fare in italiano?,feci,facevo,faccio,fatto,Il tempo passato di fare e fatto.
+4,137,Qual e la forma comparativa di corto in italiano?,piu corto,cortissimo,piu lungo,peggio,La forma comparativa di corto e piu lungo.
+5,137,Quale delle seguenti e una preposizione?,cantare,ballare,sopra,sotto,Sopra e una preposizione che indica posizione o movimento al di sopra di qualcosa.
+6,137,Qual e il plurale di ragazza in italiano?,ragazze,ragazzii,ragazzetti,ragazze,Il plurale di ragazza e ragazze.
+7,137,Qual e il participio passato di correre in italiano?,corso,correva,correte,correndo,Il participio passato di correre e corso.
+8,137,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,138,Qual e il plurale di gatto in italiano?,gatti,gattii,cani,gatti,In italiano per formare il plurale di gatto si aggiunge una i.
+2,138,Qual e un sinonimo di grande?,piccolo,enorme,minuscolo,vasto,Grande e vasto sono sinonimi significano che hanno significati simili.
+3,138,Qual e il tempo passato di mangiare in italiano?,mangiai,mangiavo,mangia,mangiato,Il tempo passato di mangiare e mangiato.
+4,138,Qual e la forma comparativa di caro in italiano?,piu caro,carissimo,piu costoso,meglio,La forma comparativa di caro e piu costoso.
+5,138,Quale delle seguenti e una preposizione?,correre,saltare,sotto,fuori,Sotto e una preposizione che indica posizione o luogo.
+6,138,Qual e il plurale di albero in italiano?,alberi,alberii,alberetti,alberi,Il plurale di albero e alberi.
+7,138,Qual e il participio passato di leggere in italiano?,leggere,letto,letta,leggendo,Il participio passato di leggere e letto.
+8,138,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,139,Qual e il plurale di penna in italiano?,penne,pennii,libri,penne,In italiano per formare il plurale di penna si aggiunge una e.
+2,139,Qual e un sinonimo di veloce?,lento,rapido,svelto,sporco,Veloce e rapido sono sinonimi significano che hanno significati simili.
+3,139,Qual e il tempo passato di scrivere in italiano?,scrissi,scrivevo,scrivo,scritto,Il tempo passato di scrivere e scritto.
+4,139,Qual e la forma comparativa di piccolo in italiano?,piu piccolo,piccolissimo,piu grande,migliore,La forma comparativa di piccolo e piu grande.
+5,139,Quale delle seguenti e una preposizione?,mangiare,bere,tra,con,Tra e una preposizione che indica posizione o movimento tra due oggetti.
+6,139,Qual e il plurale di studente in italiano?,studenti,studentii,studentetti,studenti,Il plurale di studente e studenti.
+7,139,Qual e il participio passato di vedere in italiano?,visto,vedeva,veduto,vedente,Il participio passato di vedere e visto.
+8,139,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,140,Qual e il plurale di fiore in italiano?,fiori,fiorii,alberi,fiori,In italiano per formare il plurale di fiore si aggiunge una i.
+2,140,Qual e un sinonimo di bello?,brutto,orribile,splendido,straordinario,Bello e splendido sono sinonimi significano che hanno significati simili.
+3,140,Qual e il tempo passato di dormire in italiano?,dormii,dormiva,dorme,dormito,Il tempo passato di dormire e dormito.
+4,140,Qual e la forma comparativa di cattivo in italiano?,piu cattivo,cattivissimo,piu male,peggio,La forma comparativa di cattivo e peggiore.
+5,140,Quale delle seguenti e una preposizione?,pensare,creare,sopra,sotto,Sopra e una preposizione che indica posizione o movimento al di sopra di qualcosa.
+6,140,Qual e il plurale di casa in italiano?,case,casii,casette,case,Il plurale di casa e case.
+7,140,Qual e il participio passato di bere in italiano?,bevuto,beveva,beve,bivuto,Il participio passato di bere e bevuto.
+8,140,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,141,Qual e il plurale di penna in italiano?,penne,pennii,libri,penne,In italiano per formare il plurale di penna si aggiunge una e.
+2,141,Qual e un sinonimo di veloce?,lento,rapido,svelto,sporco,Veloce e rapido sono sinonimi significano che hanno significati simili.
+3,141,Qual e il tempo passato di scrivere in italiano?,scrissi,scrivevo,scrivo,scritto,Il tempo passato di scrivere e scritto.
+4,141,Qual e la forma comparativa di piccolo in italiano?,piu piccolo,piccolissimo,piu grande,migliore,La forma comparativa di piccolo e piu grande.
+5,141,Quale delle seguenti e una preposizione?,mangiare,bere,tra,con,Tra e una preposizione che indica posizione o movimento tra due oggetti.
+6,141,Qual e il plurale di studente in italiano?,studenti,studentii,studentetti,studenti,Il plurale di studente e studenti.
+7,141,Qual e il participio passato di vedere in italiano?,visto,vedeva,veduto,vedente,Il participio passato di vedere e visto.
+8,141,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,142,Qual e il plurale di fiore in italiano?,fiori,fiorii,alberi,fiori,In italiano per formare il plurale di fiore si aggiunge una i.
+2,142,Qual e un sinonimo di bello?,brutto,orribile,splendido,straordinario,Bello e splendido sono sinonimi significano che hanno significati simili.
+3,142,Qual e il tempo passato di dormire in italiano?,dormii,dormiva,dorme,dormito,Il tempo passato di dormire e dormito.
+4,142,Qual e la forma comparativa di cattivo in italiano?,piu cattivo,cattivissimo,piu male,peggio,La forma comparativa di cattivo e peggiore.
+5,142,Quale delle seguenti e una preposizione?,pensare,creare,sopra,sotto,Sopra e una preposizione che indica posizione o movimento al di sopra di qualcosa.
+6,142,Qual e il plurale di casa in italiano?,case,casii,casette,case,Il plurale di casa e case.
+7,142,Qual e il participio passato di bere in italiano?,bevuto,beveva,beve,bivuto,Il participio passato di bere e bevuto.
+8,142,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,143,Qual e il plurale di computer in italiano?,computer,computers,calcolatrici,computer,In italiano il plurale di computer rimane invariato.
+2,143,Qual e un sinonimo di caldo?,freddo,gelido,ardente,caloroso,Caldo e ardente sono sinonimi significano che hanno significati simili.
+3,143,Qual e il tempo passato di bere in italiano?,bii,beveva,bevetti,bevuto,Il tempo passato di bere e bevuto.
+4,143,Qual e la forma comparativa di lungo in italiano?,piu lungo,lungissimo,piu corto,meglio,La forma comparativa di lungo e piu corto.
+5,143,Quale delle seguenti e una preposizione?,camminare,correre,dietro,avanti,Dietro e una preposizione che indica posizione o direzione opposta a qualcosa.
+6,143,Qual e il plurale di cappello in italiano?,cappelli,cappellii,cappellini,cappelli,Il plurale di cappello e cappelli.
+7,143,Qual e il participio passato di parlare in italiano?,parlato,parlava,parlare,parlando,Il participio passato di parlare e parlato.
+8,143,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,144,Qual e il plurale di foglio in italiano?,fogli,foglii,foglietti,fogli,In italiano per formare il plurale di foglio si aggiunge una i.
+2,144,Qual e un sinonimo di nuovo?,vecchio,antico,recente,moderno,Nuovo e recente sono sinonimi significano che hanno significati simili.
+3,144,Qual e il tempo passato di giocare in italiano?,giocai,giocavo,gioca,giocato,Il tempo passato di giocare e giocato.
+4,144,Qual e la forma comparativa di alto in italiano?,piu alto,altissimo,piu basso,peggio,La forma comparativa di alto e piu basso.
+5,144,Quale delle seguenti e una preposizione?,cantare,ballare,sopra,sotto,Sopra e una preposizione che indica posizione o movimento al di sopra di qualcosa.
+6,144,Qual e il plurale di mela in italiano?,mele,melii,meloni,mele,Il plurale di mela e mele.
+7,144,Qual e il participio passato di scrivere in italiano?,scrivuto,scriveva,scritto,scrivente,Il participio passato di scrivere e scritto.
+8,144,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,145,Qual e il plurale di cucchiaio in italiano?,cucchiai,cucchiaii,cucchiaietti,cucchiai,Il plurale di cucchiaio e cucchiai.
+2,145,Qual e un sinonimo di triste?,felice,arrabbiato,depresso,contento,Triste e depresso sono sinonimi significano che hanno significati simili.
+3,145,Qual e il tempo passato di vivere in italiano?,vissi,viveva,vive,vissuto,Il tempo passato di vivere e vissuto.
+4,145,Qual e la forma comparativa di giovane in italiano?,piu giovane,giovanissimo,piu vecchio,meglio,La forma comparativa di giovane e piu vecchio.
+5,145,Quale delle seguenti e una preposizione?,correre,saltare,sopra,sotto,Sopra e una preposizione che indica posizione o movimento al di sopra di qualcosa.
+6,145,Qual e il plurale di cane in italiano?,cani,canii,canotti,cani,Il plurale di cane e cani.
+7,145,Qual e il participio passato di dormire in italiano?,dormito,dormiva,dormì,dormente,Il participio passato di dormire e dormito.
+8,145,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,146,Qual e il plurale di chiave in italiano?,chiavi,chiavii,chiavette,chiavi,Il plurale di chiave e chiavi.
+2,146,Qual e un sinonimo di intelligente?,stupido,ignorante,capace,abile,Intelligente e capace sono sinonimi significano che hanno significati simili.
+3,146,Qual e il tempo passato di venire in italiano?,venni,veniva,viene,venuto,Il tempo passato di venire e venuto.
+4,146,Qual e la forma comparativa di vecchio in italiano?,piu vecchio,vecchissimo,piu giovane,meglio,La forma comparativa di vecchio e piu giovane.
+5,146,Quale delle seguenti e una preposizione?,saltare,correre,dietro,davanti,Dietro e una preposizione che indica posizione o direzione opposta a qualcosa.
+6,146,Qual e il plurale di amico in italiano?,amici,amichii,amicotti,amici,Il plurale di amico e amici.
+7,146,Qual e il participio passato di studiare in italiano?,studito,studiava,studiato,studiante,Il participio passato di studiare e studiato.
+8,146,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,147,Qual e il plurale di occhio in italiano?,occhi,occhii,occhietti,occhi,Il plurale di occhio e occhi.
+2,147,Qual e un sinonimo di piccolo?,grande,enorme,minuscolo,vasto,Piccolo e minuscolo sono sinonimi significano che hanno significati simili.
+3,147,Qual e il tempo passato di fare in italiano?,feci,facevo,faccio,fatto,Il tempo passato di fare e fatto.
+4,147,Qual e la forma comparativa di corto in italiano?,piu corto,cortissimo,piu lungo,peggio,La forma comparativa di corto e piu lungo.
+5,147,Quale delle seguenti e una preposizione?,cantare,ballare,sopra,sotto,Sopra e una preposizione che indica posizione o movimento al di sopra di qualcosa.
+6,147,Qual e il plurale di ragazza in italiano?,ragazze,ragazzii,ragazzetti,ragazze,Il plurale di ragazza e ragazze.
+7,147,Qual e il participio passato di correre in italiano?,corso,correva,correte,correndo,Il participio passato di correre e corso.
+8,147,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,148,Qual e il plurale di gatto in italiano?,gatti,gattii,cani,gatti,In italiano per formare il plurale di gatto si aggiunge una i.
+2,148,Qual e un sinonimo di grande?,piccolo,enorme,minuscolo,vasto,Grande e vasto sono sinonimi significano che hanno significati simili.
+3,148,Qual e il tempo passato di mangiare in italiano?,mangiai,mangiavo,mangia,mangiato,Il tempo passato di mangiare e mangiato.
+4,148,Qual e la forma comparativa di caro in italiano?,piu caro,carissimo,piu costoso,meglio,La forma comparativa di caro e piu costoso.
+5,148,Quale delle seguenti e una preposizione?,correre,saltare,sotto,fuori,Sotto e una preposizione che indica posizione o luogo.
+6,148,Qual e il plurale di albero in italiano?,alberi,alberii,alberetti,alberi,Il plurale di albero e alberi.
+7,148,Qual e il participio passato di leggere in italiano?,leggere,letto,letta,leggendo,Il participio passato di leggere e letto.
+8,148,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,149,Qual e il plurale di penna in italiano?,penne,pennii,libri,penne,In italiano per formare il plurale di penna si aggiunge una e.
+2,149,Qual e un sinonimo di veloce?,lento,rapido,svelto,sporco,Veloce e rapido sono sinonimi significano che hanno significati simili.
+3,149,Qual e il tempo passato di scrivere in italiano?,scrissi,scrivevo,scrivo,scritto,Il tempo passato di scrivere e scritto.
+4,149,Qual e la forma comparativa di piccolo in italiano?,piu piccolo,piccolissimo,piu grande,migliore,La forma comparativa di piccolo e piu grande.
+5,149,Quale delle seguenti e una preposizione?,mangiare,bere,tra,con,Tra e una preposizione che indica posizione o movimento tra due oggetti.
+6,149,Qual e il plurale di studente in italiano?,studenti,studentii,studentetti,studenti,Il plurale di studente e studenti.
+7,149,Qual e il participio passato di vedere in italiano?,visto,vedeva,veduto,vedente,Il participio passato di vedere e visto.
+8,149,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
+1,150,Qual e il plurale di fiore in italiano?,fiori,fiorii,alberi,fiori,In italiano per formare il plurale di fiore si aggiunge una i.
+2,150,Qual e un sinonimo di bello?,brutto,orribile,splendido,straordinario,Bello e splendido sono sinonimi significano che hanno significati simili.
+3,150,Qual e il tempo passato di dormire in italiano?,dormii,dormiva,dorme,dormito,Il tempo passato di dormire e dormito.
+4,150,Qual e la forma comparativa di cattivo in italiano?,piu cattivo,cattivissimo,piu male,peggio,La forma comparativa di cattivo e peggiore.
+5,150,Quale delle seguenti e una preposizione?,pensare,creare,sopra,sotto,Sopra e una preposizione che indica posizione o movimento al di sopra di qualcosa.
+6,150,Qual e il plurale di casa in italiano?,case,casii,casette,case,Il plurale di casa e case.
+7,150,Qual e il participio passato di bere in italiano?,bevuto,beveva,beve,bivuto,Il participio passato di bere e bevuto.
+8,150,Quale delle seguenti e un verbo irregolare nel tempo passato?,parlato,nuotato,giocato,mangiato,Mangiato e un verbo irregolare; il suo tempo passato non segue il modello regolare del -ato.
